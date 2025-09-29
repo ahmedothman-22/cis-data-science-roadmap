@@ -25,13 +25,12 @@ In this journey, you will learn step by step:
 By the end, you’ll not only know *what Data Science is*, but also *where you fit*:  
 - Do you enjoy analyzing? → You may become a **Data Analyst**  
 - Do you love coding? → You may become a **Machine Learning Engineer (with Deep Learning)**  
-- Do you love mixing everything? → You’re on the way to being a **Data Scientist**  
+- Do you love mixing everything? → You’re on the way to being a **Data Scientist**
+[![Screenshot-2025-09-29-162027.png](https://i.postimg.cc/nzzNJr5r/Screenshot-2025-09-29-162027.png)](https://postimg.cc/Z9GwPbJz)
 
 
 
 ## 2. Levels
-
-The roadmap is divided into 4 main levels, each level will be divided into weeks and each week will have a set of tasks to be completed. We will try to provide task links one by one when it's finished. Each level is designed to be completed within 1-3 months on average, however, the time taken to complete the roadmap may vary depending on the individual.
 
 1. [**Entry**](#entry): A solid introduction to Data Science concepts and tools.  
 2. [**Beginner**](#beginner): Build the data scientist toolkit and foundational skills for working with data.  
