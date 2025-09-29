@@ -46,11 +46,8 @@ The roadmap is divided into 4 main levels, each level will be divided into weeks
 
 It includes the following topics:
 
-- Data Literacy
-- Understanding Data Science
-- Introduction to Statistics
-- Python Basics
-- OOP in Python
+- Introduction to Statistics  
+- Python and OOP  
 
 <table>
     <thead>
@@ -64,61 +61,31 @@ It includes the following topics:
         <tr>
             <th>Week 1</th>
             <td>
-                <strong>📊 Data Literacy & 🔍 Understanding Data Science</strong><br/>
-                <em>Goal: Understand what data science is and how to think about data.</em>
+                <strong>📊 Introduction to Statistics</strong><br/>
+                > 📌 **Goal**: Learn statistics to understand data, explore distributions, and use probability in models.  
             </td>
             <td>
                 <ul>
-                    <li><a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">DataCamp: Data Literacy</a> (2h)</li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLNrrxHpJhC8m_ifiOWl1hquDmdgvcviOt">ASU | Data Literacy (Free, YouTube)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=KxryzSO1Fjs">Simplilearn: Understanding Data Science</a></li>
+                    <li>📚 <a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp: Introduction to Statistics</a></li>
+                    <li>🎥 <a href="https://youtu.be/8wwPwlueoDs?si=kCOUjsEv6TBhkNts">YouTube: Descriptive Statistics Basics</a></li>
                 </ul>
             </td>
         </tr>
         <tr>
             <th>Week 2</th>
             <td>
-                <strong>📊 Introduction to Statistics</strong><br/>
-                <em>Goal: Build a solid foundation in statistics for analysis.</em>
+                <strong>🐍 Python and OOP</strong><br/>
+                > 📌 **Goal**: Learn Python basics and OOP to manipulate and structure data.  
             </td>
             <td>
                 <ul>
-                    <li><a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp: Introduction to Statistics</a> (4h)</li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9">StatQuest | Statistics Fundamentals</a> (YouTube)</li>
-                    <li><a href="https://youtube.com/playlist?list=PLJM7jJIw2GC2Ihr__bRSeMxzsiFMZEsx7">Probability & Statistics (Arabic, YouTube)</a></li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <th>Week 3</th>
-            <td>
-                <strong>🐍 Python Basics</strong><br/>
-                <em>Goal: Learn the essentials of Python for data manipulation.</em>
-            </td>
-            <td>
-                <ul>
-                    <li><a href="https://www.udacity.com/course/introduction-to-python--ud1110">Udacity | Intro to Python</a> (14h)</li>
-                    <li><a href="https://www.youtube.com/watch?v=rfscVS0vtbw">FreeCodeCamp | Python Full Course</a> (YouTube)</li>
-                    <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero | Python (Arabic)</a></li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <th>Week 4</th>
-            <td>
-                <strong>🐍 OOP in Python</strong><br/>
-                <em>Goal: Organize code with Object-Oriented Programming.</em>
-            </td>
-            <td>
-                <ul>
-                    <li><a href="https://app.datacamp.com/learn/courses/object-oriented-programming-in-python">DataCamp: OOP in Python</a> (4h)</li>
-                    <li><a href="https://youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1">Codezilla | OOP in Python (Arabic)</a></li>
+                    <li>📚 <a href="https://www.udacity.com/course/introduction-to-python--ud1110">Udacity | Intro to Python</a></li>
+                    <li>🎥 <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero | Python (Arabic)</a></li>
+                    <li>🎥 <a href="https://www.youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1">Codezilla | OOP (Arabic)</a></li>
                 </ul>
             </td>
         </tr>
     </tbody>
-</table>
-
 </table>
 
 ---
