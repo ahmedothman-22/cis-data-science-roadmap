@@ -74,8 +74,8 @@ It includes the following topics:
         <tr>
             <th>Week 2</th>
             <td>
-                <strong>🐍 Python and OOP</strong><br/>
-                📌 <b>Goal</b>: Master Python basics and OOP to manipulate, organize, and prepare data for analysis.  
+                <h4>🐍 Python and OOP</h4>
+                <small> 📌 <>Goal</b>: Master Python basics and OOP to manipulate, organize, and prepare data for analysis. <small>
             </td>
             <td>
                 <ul>
