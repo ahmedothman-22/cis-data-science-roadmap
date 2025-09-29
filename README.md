@@ -126,7 +126,6 @@ It includes the following topics:
             <td>
                 <ul>
                     <li><a href="https://youtu.be/GB9ByFAIAH4?si=APzRNNBbFusUagYp">Keith Galli | NumPy tutorial</a></li>
-                    <li><a href="https://app.datacamp.com/learn/courses/introduction-to-numpy">DataCamp: Introduction to NumPy</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PLUgz8T_NoatsJCH-DmieQhqhSL2WBvlm-">Osama Elzero | NumPy Arabic course</a></li>
                 </ul>
             </td>
@@ -140,7 +139,6 @@ It includes the following topics:
             <td>
                 <ul>
                     <li><a href="https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&si=ln9NvKCM064QT2hR">Corey Schafer | Pandas tutorial</a></li>
-                    <li><a href="https://app.datacamp.com/learn/courses/data-manipulation-with-pandas">DataCamp: Data manipulation with Pandas</a></li>
                     <li><a href="https://youtube.com/playlist?list=PL6-3IRz2XF5UM-FWfQeF1_YhMMa12Eg3s">Hesham Asem | Pandas Arabic course</a></li>
                 </ul>
             </td>
@@ -154,7 +152,6 @@ It includes the following topics:
             <td>
                 <ul>
                     <li><a href="https://app.datacamp.com/learn/courses/cleaning-data-in-python">DataCamp: Cleaning Data in Python</a></li>
-                    <li><a href="https://www.kaggle.com/learn/data-cleaning">Kaggle: Data Cleaning tutorial</a></li>
                     <li><a href="https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4">Medium: Data Cleaning guide</a></li>
                 </ul>
             </td>
@@ -168,9 +165,8 @@ It includes the following topics:
             <td>
                 <ul>
                     <li><a href="https://app.datacamp.com/learn/courses/regular-expressions-in-python">DataCamp: Regular Expressions in Python</a></li>
+                    <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=K2_7VELcasmhtGc8">Osama Elzero | RegEx </a></li>
                     <li><a href="https://www.w3schools.com/python/python_regex.asp">W3Schools: Python RegEx documentation</a></li>
-                    <li><a href="https://youtu.be/K8L6KVGG-7o?si=SZYD07npXZ74qyUD">Corey Schafer | Regular Expressions</a></li>
-                    <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=K2_7VELcasmhtGc8">Osama Elzero | RegEx Arabic course (videos 95-102)</a></li>
                 </ul>
             </td>
         </tr>
