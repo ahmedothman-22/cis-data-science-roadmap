@@ -62,11 +62,11 @@ It includes the following topics:
             <th>Week 1</th>
             <td>
                 <strong>📊 Introduction to Statistics</strong><br/>
-                > 📌 <b>Goal</b>: Build a solid foundation in statistics to summarize data, explore distributions, and apply probability in models.  
+                 📌 <b>Goal</b>: Build a solid foundation in statistics to summarize data, explore distributions, and apply probability in models.  
             </td>
             <td>
                 <ul>
-                    <li>📚 <a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp: Introduction to Statistics</a></li>
+                    <li>🎥 <a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp: Introduction to Statistics</a></li>
                     <li>🎥 <a href="https://youtu.be/8wwPwlueoDs?si=kCOUjsEv6TBhkNts">YouTube: Descriptive Statistics Basics</a></li>
                 </ul>
             </td>
@@ -75,11 +75,11 @@ It includes the following topics:
             <th>Week 2</th>
             <td>
                 <strong>🐍 Python and OOP</strong><br/>
-                > 📌 <b>Goal</b>: Master Python basics and OOP to manipulate, organize, and prepare data for analysis.  
+                📌 <b>Goal</b>: Master Python basics and OOP to manipulate, organize, and prepare data for analysis.  
             </td>
             <td>
                 <ul>
-                    <li>📚 <a href="https://www.udacity.com/course/introduction-to-python--ud1110">Udacity | Intro to Python</a></li>
+                    <li>🎥 <a href="https://www.udacity.com/course/introduction-to-python--ud1110">Udacity | Intro to Python</a></li>
                     <li>🎥 <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero | Python (Arabic)</a></li>
                     <li>🎥 <a href="https://www.youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1">Codezilla | OOP (Arabic)</a></li>
                 </ul>
