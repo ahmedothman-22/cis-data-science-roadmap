@@ -62,7 +62,7 @@ It includes the following topics:
             <th>Week 1</th>
             <td>
                 <strong>📊 Introduction to Statistics</strong><br/>
-                > 📌 **Goal**: Learn statistics to understand data, explore distributions, and use probability in models.  
+                > 📌 <b>Goal</b>: Build a solid foundation in statistics to summarize data, explore distributions, and apply probability in models.  
             </td>
             <td>
                 <ul>
@@ -75,7 +75,7 @@ It includes the following topics:
             <th>Week 2</th>
             <td>
                 <strong>🐍 Python and OOP</strong><br/>
-                > 📌 **Goal**: Learn Python basics and OOP to manipulate and structure data.  
+                > 📌 <b>Goal</b>: Master Python basics and OOP to manipulate, organize, and prepare data for analysis.  
             </td>
             <td>
                 <ul>
@@ -87,6 +87,7 @@ It includes the following topics:
         </tr>
     </tbody>
 </table>
+
 
 ---
 
