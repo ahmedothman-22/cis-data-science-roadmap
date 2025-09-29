@@ -29,115 +29,137 @@ By the end, you’ll not only know *what Data Science is*, but also *where you f
 - Do you love coding? → You may become a **Machine Learning Engineer (with Deep Learning)**  
 - Do you love mixing everything? → You’re on the way to being a **Data Scientist**  
 
-```mermaid
-graph TD
-    A[Foundations] --> B[Analysis Path]
-    A --> C[Machine Learning Path]
-
-    B --> D[Visualization]
-    D --> E[Data Analyst]
-
-    C --> F[Machine Learning]
-    F --> G[Deep Learning]
-    G --> H[ML Engineer / Data Scientist]
 
 
+## 2. Levels
 
-## 2. 🧑‍🏫 Structure  
-- **Head** → Supervises the circle and manages progress.  
-- **Vice Head** → Supports the head and manages advanced tracks.  
-- **Supervisors** → Review tasks, give feedback, and select best members.  
-- **HR** → Tracks attendance, collects feedback, and reports issues.  
+The roadmap is divided into 4 main levels, each level will be divided into weeks and each week will have a set of tasks to be completed. We will try to provide task links one by one when it's finished. Each level is designed to be completed within 1-3 months on average, however, the time taken to complete the roadmap may vary depending on the individual.
+
+1. [**Entry**](#entry): Good introduction to the field.
+2. [**Beginner**](#beginner): Data scientist toolkit and foundations.
+3. [**Intermediate**](#intermediate): Dive deeper and solidly understand and work with data.
+4. [**Advanced A**](#advanced-a): Mathematics and Machine Learning.
+5. [**Advanced B**](#advanced-b): Deep Learning and specializing in a specific field.
 
 ---
+<h2 id="entry">2.1. Entry Level</h2>
 
-## 3. 🌀 Phases  
+It includes the following topics:
 
-### 📌 First Phase  
-- 🎤 **Introductory Session** → Introduce Data Science & the circle.  
-- 📝 **Application Form** → Collect info about members & levels.  
-- ✅ **Tasks** → Small assignments to measure skills.  
-- 💬 **Interviews** → Evaluate candidates before official acceptance.  
-- 🎉 **Introductory Day** → Official kickoff for members.  
+- Data Literacy
+- Understanding Data Science
+- Introduction to Statistics
+- Python Basics
+- OOP in Python
+
+<table>
+    <thead>
+        <tr>
+            <th>📅 Phase</th>
+            <th>📚 Topics</th>
+            <th>📖 Resources</th>
+            <th>✅ Tasks</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Week 1</th>
+            <td>
+                <ol>
+                    <li>📊 Data Literacy</li>
+                    <li>🔍 Understanding Data Science</li>
+                </ol>
+            </td>
+            <td>
+                <ul>
+                    <h3>🚀 Base resources</h3>
+                    <li><a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">Introduction to Data literacy</a>: 2-hours course (requires DataCamp subscription).</li>
+                    <li><a href="https://app.datacamp.com/learn/courses/understanding-data-science">Understanding Data Science</a>: 2-hours course (requires DataCamp subscription).</li>
+                    <h3>💡 Alternative resources</h3>
+                    <li><a href="https://www.youtube.com/playlist?list=PLNrrxHpJhC8m_ifiOWl1hquDmdgvcviOt">Arizona State University | Data Literacy</a>: 2-hours YouTube playlist (Free).</li>
+                    <li><a href="https://mavenanalytics.io/course/data-literacy-foundations">Maven Analytics | Data Literacy</a>: 2.5-hours course (Free).</li>
+                    <li><a href="https://www.youtube.com/watch?v=KxryzSO1Fjs">Simplilearn | Understanding Data Science</a>: 1-hour YouTube video (Free).</li>
+                    <li><a href="https://youtube.com/playlist?list=PLWd4nYaF_Vx65cPZF_I2OpWERatzh5Gdj&si=s6bu10dbeW1aGXly">Mustafa Othman | Data Literacy Arabic course</a>: 3-hours YouTube playlist (Free).</li>
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>🏆 Complete the Data Literacy course.</li>
+                    <li>🏆 Complete the Understanding Data Science course.</li>
+                    <li>📝 MCQ Quiz.</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 2</th>
+            <td>
+                <ol>
+                    📊 Introduction to Statistics
+                </ol>
+            </td>
+            <td>
+                <ul>
+                    <h3>🚀 Base resources</h3>
+                    <li><a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">Introduction to Statistics</a>: 4-hours course (requires DataCamp subscription).</li>
+                    <h3>💡 Alternative resources</h3>
+                    <li><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9">StatQuest | Statistics Fundamentals</a>: YouTube playlist, very recommended to watch (Free).</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Simple Learning Pro | Statistics 1</a>: 2.5-hours YouTube playlist (Free).</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLJM7jJIw2GC2Ihr__bRSeMxzsiFMZEsx7">Probability and Statistics Arabic course</a>: 7-hours YouTube playlist (Free).</li>
+                    <li><a href="https://unihance.com/Course/8030-5/%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%84%D8%BA%D8%A7%D9%8A%D8%A7%D8%AA-%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A">Statistics for Data Science Arabic course</a>: 8-hours YouTube playlist (Free).</li>
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>🏆 Complete the Introduction to Statistics course.</li>
+                    <li>📝 MCQ Quiz.</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 3</th>
+            <td>
+                🐍 Python Basics
+            </td>
+            <td>
+                <ul>
+                    <h3>🚀 Base resources</h3>
+                    <li><a href="https://www.udacity.com/course/introduction-to-python--ud1110">Udacity | Introduction to Python</a>: 14-hours course (Free).</li>
+                    <h3>💡 Alternative resources</h3>
+                    <li><a href="https://www.youtube.com/watch?v=rfscVS0vtbw">FreeCodeCamp | Python Full Course</a>: 4.5-hours YouTube video (Free).</li>
+                    <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=yWsnLKcsYqGcI0B4">Osama Elzero | Mastering Python Arabic course</a>: YouTube playlist (Free).</li>
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>🏆 Complete the Introduction to Python Udacity course.</li>
+                    <li>💡 Problem-solving exercises.</li>
+                    <li>📝 Quiz.</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 4</th>
+            <td>
+                🐍 OOP in Python
+            </td>
+            <td>
+                <ul>
+                    <h3>🚀 Base resources</h3>
+                    <li><a href="https://app.datacamp.com/learn/courses/object-oriented-programming-in-python">OOP in Python</a>: 4-hours course (requires DataCamp subscription).</li>
+                    <h3>💡 Alternative resources</h3>
+                    <li><a href="https://youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1&si=n6ZW2Dok_a4FueiG">Codezilla | OOP in Python Arabic course</a>: YouTube playlist (Free).</li>
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>🏆 Complete the OOP in Python course.</li>
+                    <li>🎓 Capstone Project and presentation.</li>
+                </ol>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ---
-
-### 📅 Continuous Phase  
-- Weekly tasks & follow-ups.  
-- Feedback forms from members.  
-- Best member of the month 🏆.  
-- Supervisors & HR reports.  
-
----
-
-## 4. 🧭 Levels  
-
-### Level 1 – Beginner 👶  
-**Goal:** Learn programming basics, Python, and intro to data.  
-
-| Week | Topic 📚 | Resources 📖 | Tasks ✅ |
-|------|----------|--------------|----------|
-| 1 | Introduction to Python | [Resource 1] | Simple Python exercises |
-| 2 | Data Types & Control Flow | [Resource 2] | Small coding problems |
-| 3 | Functions & Loops | [Resource 3] | Write custom functions |
-| 4 | Pandas Basics | [Resource 4] | Clean a small dataset |
-
----
-
-### Level 2 – Intermediate ⚡  
-**Goal:** Data wrangling, visualization, and statistics.  
-
-| Week | Topic 📚 | Resources 📖 | Tasks ✅ |
-|------|----------|--------------|----------|
-| 1 | Data Cleaning | [Resource 1] | Handle missing values |
-| 2 | Data Visualization | [Resource 2] | Create plots using matplotlib/seaborn |
-| 3 | Statistics Basics | [Resource 3] | Solve stat problems with Python |
-| 4 | Exploratory Data Analysis (EDA) | [Resource 4] | Perform EDA on dataset |
-
----
-
-### Level 3 – Advanced Analysis 🔍  
-**Goal:** Advanced EDA, feature engineering, and ML intro.  
-
-| Week | Topic 📚 | Resources 📖 | Tasks ✅ |
-|------|----------|--------------|----------|
-| 1 | Feature Engineering | [Resource 1] | Create new features |
-| 2 | Outliers & Scaling | [Resource 2] | Detect/remove outliers |
-| 3 | Intro to ML | [Resource 3] | Train first model |
-| 4 | Model Evaluation | [Resource 4] | Compare models |
-
----
-
-### Level 4 – Advanced ML 🤖  
-**Goal:** Deep dive into ML, projects, and competitions.  
-
-| Week | Topic 📚 | Resources 📖 | Tasks ✅ |
-|------|----------|--------------|----------|
-| 1 | Supervised Learning | [Resource 1] | Classification project |
-| 2 | Unsupervised Learning | [Resource 2] | Clustering project |
-| 3 | Model Optimization | [Resource 3] | Hyperparameter tuning |
-| 4 | End-to-End Project | [Resource 4] | Full DS pipeline |
-
----
-
-## 5. 🏆 Competitions & Extras  
-- **CIS Hackathon** → Members from all levels collaborate.  
-- **Math & Problem-Solving Channel** → For regular quizzes.  
-- **Best Member of the Month** → Recognition & reward.  
-
----
-
-## 6. 🌟 Values  
-- **Commitment** → Respect deadlines and tasks.  
-- **Collaboration** → Help each other grow.  
-- **Continuous Learning** → Always seek improvement.  
-- **Positive Competition** → Motivate members to achieve more.  
-
----
-
-## 7. 📌 Notes  
-- Roadmap is **flexible** and will be updated based on member needs.  
-- Extra resources will be added as we progress.  
-- Supervisors & HR ensure smooth workflow.  
 
 ---
