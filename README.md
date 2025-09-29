@@ -1,6 +1,11 @@
-# 🚀 CIS Data Science Circle – Roadmap 2025  
+<h1 align="center">🚀 CIS Data Science Circle – Roadmap 2025</h1>
 
-This roadmap is maintained by the **CIS Data Science Circle** to guide members through learning **Data Science, Analysis, and Machine Learning** in a structured way.  
+<p align="center">
+This roadmap is maintained by the <strong>CIS Data Science Circle</strong> to guide members through learning <strong>Data Science, Analysis, and Machine Learning</strong> in a structured way.  
+Maintained by:[Ahmed osman](https://github.com/ahmedothman-22).
+</p>
+<hr />
+
 
 ---
 
