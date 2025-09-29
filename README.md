@@ -88,16 +88,25 @@ It includes the following topics:
     </tbody>
 </table>
 ---
+
+
+
+
+
+
+
+
+
 <h2 id="beginner">2.2. Beginner Level</h2>
 
 It includes the following topics:
 
 - NumPy
 - Pandas
+- Data Cleaning
+- Regular Expressions (RegEx)
 - Matplotlib
 - Seaborn
-- Power BI
-- Git & GitHub
 
 <table>
     <thead>
@@ -139,18 +148,47 @@ It includes the following topics:
         <tr>
             <th>Week 3</th>
             <td>
-                <h4>〽️ Matplotlib</h4>
-                <small>📌 <b>Goal:</b> Learn Matplotlib to create visualizations, plots, and charts for data analysis.</small>
+                <h4>🧹 Data Cleaning</h4>
+                <small>📌 <b>Goal:</b> Learn techniques to clean and preprocess data for analysis.</small>
             </td>
             <td>
                 <ul>
-                    <li><a href="https://app.datacamp.com/learn/courses/understanding-data-visualization">Understanding Data Visualization | DataCamp</a></li>
-                    <li><a href="https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_">Corey Schafer | Matplotlib tutorial</a></li>
+                    <li><a href="https://app.datacamp.com/learn/courses/cleaning-data-in-python">DataCamp: Cleaning Data in Python</a></li>
+                    <li><a href="https://www.kaggle.com/learn/data-cleaning">Kaggle: Data Cleaning tutorial</a></li>
+                    <li><a href="https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4">Medium: Data Cleaning guide</a></li>
                 </ul>
             </td>
         </tr>
         <tr>
             <th>Week 4</th>
+            <td>
+                <h4>🔣 Regular Expressions (RegEx)</h4>
+                <small>📌 <b>Goal:</b> Learn RegEx to extract, search, and manipulate text data efficiently.</small>
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://app.datacamp.com/learn/courses/regular-expressions-in-python">DataCamp: Regular Expressions in Python</a></li>
+                    <li><a href="https://www.w3schools.com/python/python_regex.asp">W3Schools: Python RegEx documentation</a></li>
+                    <li><a href="https://youtu.be/K8L6KVGG-7o?si=SZYD07npXZ74qyUD">Corey Schafer | Regular Expressions</a></li>
+                    <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=K2_7VELcasmhtGc8">Osama Elzero | RegEx Arabic course (videos 95-102)</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 5</th>
+            <td>
+                <h4>〽️ Matplotlib</h4>
+                <small>📌 <b>Goal:</b> Learn Matplotlib to create visualizations, plots, and charts for data analysis.</small>
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://app.datacamp.com/learn/courses/understanding-data-visualization">DataCamp: Understanding Data Visualization</a></li>
+                    <li><a href="https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_">Corey Schafer | Matplotlib tutorial</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 6</th>
             <td>
                 <h4>🌊 Seaborn</h4>
                 <small>📌 <b>Goal:</b> Learn Seaborn to create advanced statistical visualizations and explore relationships in data.</small>
@@ -162,34 +200,7 @@ It includes the following topics:
                 </ul>
             </td>
         </tr>
-        <tr>
-            <th>Week 5</th>
-            <td>
-                <h4>📊 Power BI</h4>
-                <small>📌 <b>Goal:</b> Learn Power BI to create dashboards and visualize business data effectively.</small>
-            </td>
-            <td>
-                <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys">Alex The Analyst | Power BI tutorial</a></li>
-                    <li><a href="https://app.datacamp.com/learn/courses/introduction-to-power-bi">DataCamp: Introduction to Power BI</a></li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <th>Week 6</th>
-            <td>
-                <h4>🔗 Git & GitHub</h4>
-                <small>📌 <b>Goal:</b> Learn Git & GitHub to manage code, track changes, and collaborate on projects.</small>
-            </td>
-            <td>
-                <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR">The Net Ninja | Git & GitHub tutorial</a></li>
-                    <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF">Osama Elzero | Git & GitHub Arabic course</a></li>
-                </ul>
-            </td>
-        </tr>
     </tbody>
 </table>
-
 
 ---
