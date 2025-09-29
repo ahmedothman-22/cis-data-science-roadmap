@@ -22,7 +22,7 @@ In this journey, you will learn step by step:
 2. **Analysis** → Understanding and visualizing data  
 3. **Machine Learning** → Building models and predictions  
 4. **Deep Learning** → Neural networks and advanced AI  
-5. **Projects** → Applying everything to real-world problems
+5. **Projects** → Applying everything to real-world problems  
 
 By the end, you’ll not only know *what Data Science is*, but also *where you fit*:  
 - Do you enjoy analyzing? → You may become a **Data Analyst**  
@@ -35,12 +35,13 @@ graph TD
     A --> C[Machine Learning Path]
 
     B --> D[Visualization]
-    B --> E[Data Analyst]
+    D --> E[Data Analyst]
 
-    C --> F[Deep Learning]
-    C --> G[ML Engineer / Data Scientist]
+    C --> F[Machine Learning]
+    F --> G[Deep Learning]
+    G --> H[ML Engineer / Data Scientist]
 
----
+
 
 ## 2. 🧑‍🏫 Structure  
 - **Head** → Supervises the circle and manages progress.  
