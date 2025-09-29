@@ -8,9 +8,7 @@
 <p align="center">
   Maintained by: <a href="https://github.com/ahmedothman-22"><strong>Ahmed Osman</strong></a>
 </p>
-
-<hr />
-
+<hr/>
 
 
 ## 1. Introduction  
@@ -35,11 +33,11 @@ By the end, you’ll not only know *what Data Science is*, but also *where you f
 
 The roadmap is divided into 4 main levels, each level will be divided into weeks and each week will have a set of tasks to be completed. We will try to provide task links one by one when it's finished. Each level is designed to be completed within 1-3 months on average, however, the time taken to complete the roadmap may vary depending on the individual.
 
-1. [**Entry**](#entry): Good introduction to the field.
-2. [**Beginner**](#beginner): Data scientist toolkit and foundations.
-3. [**Intermediate**](#intermediate): Dive deeper and solidly understand and work with data.
-4. [**Advanced A**](#advanced-a): Mathematics and Machine Learning.
-5. [**Advanced B**](#advanced-b): Deep Learning and specializing in a specific field.
+1. [**Entry**](#entry): A solid introduction to Data Science concepts and tools.  
+2. [**Beginner**](#beginner): Build the data scientist toolkit and foundational skills for working with data.  
+3. [**Intermediate**](#intermediate): Dive deeper into data analysis, visualization, and practical problem-solving.  
+4. [**Advanced Data Analysis (BI)**](#advanced-data-analysis-bi): Learn advanced data analysis techniques using Excel, Power BI. 
+5. [**Advanced Machine and Deep Learning**](#advanced-machine-and-deep-learning): Master machine learning, deep learning, and specialize in a specific domain.  
 
 ---
 <h2 id="entry">2.1. Entry Level</h2>
