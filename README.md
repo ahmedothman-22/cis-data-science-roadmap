@@ -26,6 +26,7 @@ By the end, you’ll not only know *what Data Science is*, but also *where you f
 - Do you enjoy analyzing? → You may become a **Data Analyst**  
 - Do you love coding? → You may become a **Machine Learning Engineer (with Deep Learning)**  
 - Do you love mixing everything? → You’re on the way to being a **Data Scientist**
+
 [![Screenshot-2025-09-29-162027.png](https://i.postimg.cc/nzzNJr5r/Screenshot-2025-09-29-162027.png)](https://postimg.cc/Z9GwPbJz)
 
 
