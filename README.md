@@ -62,7 +62,7 @@ It includes the following topics:
             <th>Week 1</th>
             <td>
               <h3>📊 Introduction to Statistics</h3>
-              <p>📌 <b>Goal:</b> Build a solid foundation in statistics to summarize data, explore distributions, and apply probability in models.</p>
+              <small>📌 <b>Goal:</b> Build a solid foundation in statistics to summarize data, explore distributions, and apply probability in models.</small>
             </td>
             <td>
                 <ul>
