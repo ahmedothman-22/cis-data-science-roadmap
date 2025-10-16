@@ -1,59 +1,86 @@
-<h1 align="center">🎓 CIS Data Science Roadmap 2026</h1>
-<p align="center">A structured and creative roadmap to master Data Science — by the CIS Circle 🧠</p>
+<h1 align="center">🚀 CIS Data Science Roadmap 2026</h1>
+
+<p align="center">
+  <i>“Learn Data Science the smart, structured, and community-driven way.”</i><br/>
+  Maintained by the <b>CIS Data Science Circle</b> • <a href="https://github.com/ahmedothman-22">@Ahmed Osman</a>
+</p>
 
 ---
 
-### 🟦 Entry Level
-> 🧭 Goal: Build your foundation in programming and data understanding.
+## 🧭 Overview
 
-| Week | Topic | Duration | Resource |
-|------|--------|-----------|-----------|
-| 1 | Introduction to Python 🐍 | 1 week | [Python for Everybody (Coursera)](https://www.coursera.org/learn/python) |
-| 2 | Data Types & Control Flow | 1 week | [W3Schools](https://www.w3schools.com/python/) |
+This roadmap guides you through a full journey — from beginner to advanced data scientist.  
+Each level is designed to be clear, practical, and achievable for university students.
 
 ---
 
-### 🟨 Beginner Level
-> 🧠 Goal: Learn to handle data and perform basic analysis.
+## 🩵 Entry Level
 
-<details>
-<summary>📊 Pandas & Numpy</summary>
+> 🧩 **Goal:** Build your foundation — Python, OOP, and Statistics.
 
-- Learn to manipulate and clean data using Pandas.  
-- [Datacamp | Intermediate Pandas](https://app.datacamp.com/learn/courses/intermediate-pandas)  
-- [Kaggle | Pandas Tutorial](https://www.kaggle.com/learn/pandas)
+<div align="center">
 
-</details>
+| 🗓️ Week | 🧠 Topic | 📚 Key Resource |
+|:--:|:--|:--|
+| 1 | **📊 Introduction to Statistics**<br/>Understand data, probability & distributions. | [DataCamp – Intro to Statistics](https://app.datacamp.com/learn/courses/introduction-to-statistics) |
+| 2 | **🐍 Python & OOP**<br/>Learn Python basics, loops, and OOP concepts. | [Udacity – Intro to Python](https://www.udacity.com/course/introduction-to-python--ud1110) / [Elzero – Python (Arabic)](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) |
 
----
-
-### 🟩 Intermediate Level
-> 🕸️ Goal: Learn Web Scraping & SQL to gather and query data efficiently.
-
-📅 **Week 1–2: Web Scraping**
-- [Codezilla (Arabic)](https://www.youtube.com/watch?v=q0ert5YP968)
-- [BeautifulSoup Docs](https://beautiful-soup-4.readthedocs.io/en/latest/)
-
-📅 **Week 3–4: SQL**
-- [Udacity | SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+</div>
 
 ---
 
-### 🟥 Advanced Level
-> ⚡ Goal: Dive deep into Machine Learning, Math, and Model Deployment.
+## 💡 Beginner Level
 
-| Phase | Topic | Core Resource |
-|--------|--------|----------------|
-| 1 | Linear Algebra | [3Blue1Brown](https://www.3blue1brown.com/topics/linear-algebra) |
-| 2 | ML Algorithms | [Andrew Ng ML](https://www.coursera.org/learn/machine-learning) |
-| 3 | APIs & FastAPI | [Datacamp FastAPI](https://app.datacamp.com/learn/courses/introduction-to-fastapi) |
+> 🧰 **Goal:** Learn to clean, organize, and visualize your data.
+
+<div align="center">
+
+| 🗓️ Week | 🧠 Topic | 📚 Key Resource |
+|:--:|:--|:--|
+| 1 | 🔢 **NumPy** — Arrays & numerical operations | [Keith Galli – NumPy Tutorial](https://youtu.be/GB9ByFAIAH4) |
+| 2 | 🐼 **Pandas** — Data manipulation | [Corey Schafer – Pandas](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) |
+| 3 | 🧹 **Data Cleaning** — Handling missing, invalid, and duplicate data | [DataCamp – Cleaning Data in Python](https://app.datacamp.com/learn/courses/cleaning-data-in-python) |
+| 4 | 🔣 **RegEx** — Text pattern matching | [DataCamp – Regular Expressions](https://app.datacamp.com/learn/courses/regular-expressions-in-python) |
+| 5 | 📊 **Matplotlib & Seaborn** — Visualization | [Corey Schafer – Matplotlib](https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) |
+
+</div>
 
 ---
 
-### 🚀 Capstone Projects
-> Apply everything you learned.
+## 🔵 Intermediate Level
 
-🧩 Project Ideas:
-- 🧠 Predict student performance  
-- 💬 Sentiment analysis for Arabic text  
-- 🌦️ Weather prediction app using APIs  
+> 🕸️ **Goal:** Get hands-on with data extraction and querying.
+
+<div align="center">
+
+| 🗓️ Week | 🧠 Topic | 📚 Key Resource |
+|:--:|:--|:--|
+| 1 | **🕷 Web Scraping** — Extract structured data from websites | [DataCamp – Web Scraping](https://app.datacamp.com/learn/courses/introduction-to-web-scraping-with-python) / [BeautifulSoup Docs](https://beautiful-soup-4.readthedocs.io/en/latest/) |
+| 2 | **🗂 SQL** — Query databases and analyze data | [Udacity – SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) / [Mode Analytics – SQL Tutorial](https://mode.com/sql-tutorial/) |
+
+</div>
+
+---
+
+## 🧠 Advanced Machine & Deep Learning
+
+> 🎯 **Goal:** Master algorithms, mathematics, and deployment.
+
+<div align="center">
+
+| 🗓️ Phase | 🧠 Topic | 📚 Key Resource |
+|:--:|:--|:--|
+| 1 | 📐 **Linear Algebra** | [Imperial College – Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning) |
+| 2 | 📈 **Multivariate Calculus** | [Imperial College – Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning) |
+| 3–4 | 🕵️ **Supervised Learning** | [Andrew Ng – Machine Learning](https://www.coursera.org/learn/machine-learning) |
+| 5–14 | 🤖 **Hands-On ML (Book)** | [O’Reilly – Hands-On ML (3rd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |
+| 15–18 | 🌲 **Unsupervised & Ensemble Learning** | [DataCamp – Tree-Based Models](https://app.datacamp.com/learn/courses/machine-learning-with-tree-based-models-in-python) |
+| 20 | 🌐 **APIs & Deployment** | [DataCamp – FastAPI](https://app.datacamp.com/learn/courses/introduction-to-fastapi) |
+
+</div>
+
+---
+
+<p align="center">
+  🌟 Designed & Maintained with ❤️ by the <b>CIS Data Science Circle</b>
+</p>
