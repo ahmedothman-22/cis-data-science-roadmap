@@ -1,13 +1,3 @@
-<!-- ========================================================= -->
-<!-- 🚀 CIS DATA SCIENCE ROADMAP 2026 - Modern Dashboard Style -->
-<!-- ========================================================= -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CIS%20Roadmap-2026-green?style=for-the-badge&logo=python" alt="CIS Roadmap">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Maintained%20By-CIS%20Circle-lightgreen?style=for-the-badge">
-</p>
-
 <h1 align="center">🚀 CIS Data Science Roadmap 2026</h1>
 
 <p align="center">
@@ -17,17 +7,14 @@
 
 ---
 
-## 📚 Levels Overview
+## 🧭 Overview
 
-1. [**Entry**](#entry) — Good introduction to the field.  
-2. [**Beginner**](#beginner) — Data scientist toolkit and foundations.  
-3. [**Intermediate**](#intermediate) — Dive deeper and solidly understand and work with data.  
-4. [**Advanced A**](#advanced-a) — Mathematics and Machine Learning.  
-5. [**Advanced B**](#advanced-b) — Deep Learning and specialization.
+This roadmap guides you through a full journey — from beginner to advanced data scientist.  
+Each level is designed to be clear, practical, and achievable for university students.
 
 ---
 
-## 🩵 Entry Level <a name="entry"></a>
+## 🩵 Entry Level
 
 > 🧩 **Goal:** Build your foundation — Python, OOP, and Statistics.
 
@@ -42,7 +29,7 @@
 
 ---
 
-## 💡 Beginner Level <a name="beginner"></a>
+## 💡 Beginner Level
 
 > 🧰 **Goal:** Learn to clean, organize, and visualize your data.
 
@@ -60,7 +47,7 @@
 
 ---
 
-## 🔵 Intermediate Level <a name="intermediate"></a>
+## 🔵 Intermediate Level
 
 > 🕸️ **Goal:** Get hands-on with data extraction and querying.
 
@@ -75,9 +62,9 @@
 
 ---
 
-## 🧠 Advanced A — Machine Learning & Math <a name="advanced-a"></a>
+## 🧠 Advanced Machine & Deep Learning
 
-> 🎯 **Goal:** Master mathematics and algorithms behind ML models.
+> 🎯 **Goal:** Master algorithms, mathematics, and deployment.
 
 <div align="center">
 
@@ -87,42 +74,13 @@
 | 2 | 📈 **Multivariate Calculus** | [Imperial College – Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning) |
 | 3–4 | 🕵️ **Supervised Learning** | [Andrew Ng – Machine Learning](https://www.coursera.org/learn/machine-learning) |
 | 5–14 | 🤖 **Hands-On ML (Book)** | [O’Reilly – Hands-On ML (3rd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |
-
-</div>
-
----
-
-## 🧩 Advanced B — Deep Learning & Deployment <a name="advanced-b"></a>
-
-> 💫 **Goal:** Build neural networks, use deep learning frameworks, and deploy models.
-
-<div align="center">
-
-| 🗓️ Phase | 🧠 Topic | 📚 Key Resource |
-|:--:|:--|:--|
 | 15–18 | 🌲 **Unsupervised & Ensemble Learning** | [DataCamp – Tree-Based Models](https://app.datacamp.com/learn/courses/machine-learning-with-tree-based-models-in-python) |
-| 19–20 | ⚛ **Neural Networks & CNNs** | [DeepLearning.AI TensorFlow](https://www.coursera.org/professional-certificates/tensorflow-in-practice) |
-| 21 | 🌐 **APIs & Deployment** | [DataCamp – FastAPI](https://app.datacamp.com/learn/courses/introduction-to-fastapi) |
+| 20 | 🌐 **APIs & Deployment** | [DataCamp – FastAPI](https://app.datacamp.com/learn/courses/introduction-to-fastapi) |
 
 </div>
-
----
-
-## 🚀 Final Projects & Portfolio
-
-| 🎯 Project Type | 🧩 Description |
-|-----------------|----------------|
-| 🧾 **Data Cleaning** | Work on real-world messy datasets (Kaggle). |
-| 📊 **EDA & Visualization** | Extract insights using Pandas, Matplotlib, and Seaborn. |
-| 🤖 **ML Model** | Predict or classify using Scikit-Learn. |
-| ☁ **Deployment** | Serve your model using FastAPI or Streamlit. |
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2026-lightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Active%20Roadmap-success?style=for-the-badge">
-  <br><br>
-  🌟 Designed & Maintained with ❤️ by the <b>CIS Data Science Circle</b><br/>
-  <i>“From learners, for learners — Empowering future Data Scientists.”</i>
+  🌟 Designed & Maintained with ❤️ by the <b>CIS Data Science Circle</b>
 </p>
