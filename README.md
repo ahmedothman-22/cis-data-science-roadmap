@@ -303,9 +303,9 @@ It includes the following topics:
             </td>
             <td>
                 <ul>
-                    <li><a href="https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning">Imperial College London | Linear Algebra</a> — 16-hour Coursera course (apply for financial aid)</li>
-                    <li><a href="https://www.3blue1brown.com/topics/linear-algebra">3Blue1Brown | Essence of Linear Algebra</a> — Free visual course (recommended)</li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ">Linear Algebra Arabic Course</a> — Free YouTube playlist</li>
+                    <li><a href="https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning">Imperial College London | Linear Algebra</a></li>
+                    <li><a href="https://www.3blue1brown.com/topics/linear-algebra">3Blue1Brown | Essence of Linear Algebra</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ">Linear Algebra Arabic Course</a></li>
                 </ul>
             </td>
         </tr>
@@ -317,7 +317,7 @@ It includes the following topics:
             </td>
             <td>
                 <ul>
-                    <li><a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning">Imperial College London | Multivariate Calculus</a> — 15-hour Coursera course (apply for financial aid)</li>
+                    <li><a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning">Imperial College London | Multivariate Calculus</a></li>
                 </ul>
             </td>
         </tr>
@@ -341,8 +341,8 @@ It includes the following topics:
             </td>
             <td>
                 <ul>
-                    <li><a href="https://www.coursera.org/learn/machine-learning">Andrew Ng | Machine Learning</a> — 34-hour Coursera course (apply for financial aid)</li>
-                    <li><a href="https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn">Supervised Learning with Scikit-Learn</a> — 4-hour DataCamp course (requires subscription)</li>
+                    <li><a href="https://www.coursera.org/learn/machine-learning">Andrew Ng | Machine Learning</a></li>
+                    <li><a href="https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn">Supervised Learning with Scikit-Learn</a></li>
                 </ul>
             </td>
         </tr>
@@ -369,8 +369,8 @@ It includes the following topics:
             </td>
             <td>
                 <ul>
-                    <li><a href="https://app.datacamp.com/learn/courses/unsupervised-learning-in-python">Unsupervised Learning in Python</a> — 4-hour DataCamp course (requires subscription)</li>
-                    <li><a href="https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction">Andrew Ng | Unsupervised Learning, Recommenders, and Reinforcement Learning</a> — 27-hour Coursera course (apply for financial aid)</li>
+                    <li><a href="https://app.datacamp.com/learn/courses/unsupervised-learning-in-python">Unsupervised Learning in Python</a></li>
+                    <li><a href="https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction">Andrew Ng | Unsupervised Learning, Recommenders, and Reinforcement Learning</a></li>
                 </ul>
             </td>
         </tr>
@@ -385,8 +385,8 @@ It includes the following topics:
             </td>
             <td>
                 <ul>
-                    <li><a href="https://app.datacamp.com/learn/courses/machine-learning-with-tree-based-models-in-python">Machine Learning with Tree-Based Models in Python</a> — 5-hour DataCamp course (requires subscription)</li>
-                    <li><a href="https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction">Andrew Ng | Advanced Learning Algorithms</a> — 34-hour Coursera course (apply for financial aid)</li>
+                    <li><a href="https://app.datacamp.com/learn/courses/machine-learning-with-tree-based-models-in-python">Machine Learning with Tree-Based Models in Python</a></li>
+                    <li><a href="https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction">Andrew Ng | Advanced Learning Algorithms</a></li>
                 </ul>
             </td>
         </tr>
@@ -398,13 +398,14 @@ It includes the following topics:
             </td>
             <td>
                 <ul>
-                    <li><a href="https://app.datacamp.com/learn/courses/introduction-to-apis-in-python">Introduction to APIs in Python</a> — 2-hour DataCamp course (requires subscription)</li>
-                    <li><a href="https://app.datacamp.com/learn/courses/introduction-to-fastapi">Introduction to FastAPI</a> — 4-hour DataCamp course (requires subscription)</li>
+                    <li><a href="https://app.datacamp.com/learn/courses/introduction-to-apis-in-python">Introduction to APIs in Python</a></li>
+                    <li><a href="https://app.datacamp.com/learn/courses/introduction-to-fastapi">Introduction to FastAPI</a></li>
                 </ul>
             </td>
         </tr>
     </tbody>
 </table>
+
 
 
 
