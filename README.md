@@ -193,8 +193,61 @@ It includes the following topics:
                     <li><a href="https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn">DataCamp: Introduction to Seaborn</a></li>
                 </ul>
             </td>
+
+---------------
+
+
+
+
+
+<h2 id="intermediate">2.3. Intermediate Level</h2>
+
+It includes the following topics:
+
+- Web Scraping  
+- Structured Query Language (SQL)
+
+<table>
+    <thead>
+        <tr>
+            <th>📅 Week</th>
+            <th>📚 Topics</th>
+            <th>📖 Resources</th>
         </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Week 1</th>
+            <td>
+                <h4>🕸️ Web Scraping</h4>
+                <small>📌 <b>Goal:</b> Learn how to collect and extract data automatically from websites using Python libraries like <b>BeautifulSoup</b>, <b>Requests</b>, and <b>Scrapy</b>.  
+                Understand how to parse HTML, navigate elements, and store structured data for analysis.</small>
+            </td>
+            <td>
+                <ul>
+                    <li>🎥 <a href="https://www.youtube.com/watch?v=q0ert5YP968">Codezilla | Web Scraping with Python (Arabic)</a> — 1-hour YouTube video (Free)</li>
+                    <li>🎥 <a href="https://app.datacamp.com/learn/courses/introduction-to-web-scraping-with-python">DataCamp | Introduction to Web Scraping with Python</a> — Hands-on course</li>
+                    <li>📘 <a href="https://beautiful-soup-4.readthedocs.io/en/latest/">BeautifulSoup Documentation</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 2</th>
+            <td>
+                <h4>🗂️ Structured Query Language (SQL)</h4>
+                <small>📌 <b>Goal:</b> Learn how to extract, filter, and aggregate data from databases using <b>SQL</b>.  
+                Practice writing queries with <b>SELECT</b>, <b>WHERE</b>, <b>JOIN</b>, <b>GROUP BY</b>, and <b>Subqueries</b> to analyze real-world datasets.</small>
+            </td>
+            <td>
+                <ul>
+                    <li>🎥 <a href="https://www.udacity.com/course/sql-for-data-analysis--ud198">Udacity | SQL For Data Analysis</a> — Free Udacity course</li>
+                    <li>🎥 <a href="https://www.youtube.com/watch?v=kb-_GbpH3sQ">Big Data | SQL For Data Analysis (Arabic)</a> — 10-hour YouTube playlist</li>
+                    <li>🧠 <a href="https://mode.com/sql-tutorial/">Mode Analytics | SQL Tutorial</a> — Interactive SQL practice</li>
+                </ul>
+            </td>
+        </tr>  
     </tbody>
 </table>
+
 
 ---
