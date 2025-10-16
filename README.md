@@ -1,14 +1,3 @@
-<!-- ========================================================= -->
-<!-- 🌿 CIS DATA SCIENCE ROADMAP 2026 - Modern Dashboard Style -->
-<!-- ========================================================= -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CIS%20Roadmap-2026-green?style=for-the-badge&logo=data:image/svg+xml;base64," alt="CIS Roadmap">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20&%20AI-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Made%20by-CIS%20Circle-lightgreen?style=for-the-badge">
-</p>
-
-
 <h1 align="center">🚀 CIS Data Science Roadmap 2026</h1>
 
 <p align="center">
@@ -22,11 +11,7 @@
 
 This roadmap guides you through a full journey — from beginner to advanced data scientist.  
 Each level is designed to be clear, practical, and achievable for university students.
-1. [**Entry**](#entry) — Good introduction to the field.  
-2. [**Beginner**](#beginner) — Data scientist toolkit and foundations.  
-3. [**Intermediate**](#intermediate) — Dive deeper and solidly understand and work with data.  
-4. [**Advanced A**](#advanced-a) — Mathematics and Machine Learning.  
-5. [**Advanced B**](#advanced-b) — Deep Learning and specialization.
+
 ---
 
 ## 🩵 Entry Level
