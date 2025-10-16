@@ -249,5 +249,166 @@ It includes the following topics:
     </tbody>
 </table>
 
+---------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 id="advanced-machine-and-deep-learning">2.4. Advanced A Level</h2>
+
+It includes the following topics:
+
+- Math required for Machine Learning:
+  - Linear Algebra
+  - Multi-variate Calculus
+- Machine Learning Algorithms:
+  - Supervised Learning
+  - Unsupervised Learning
+  - Ensemble Learning
+- Model Evaluation and Selection
+- APIs
+
+<table>
+    <thead>
+        <tr>
+            <th>📅 Phase</th>
+            <th>📚 Topics</th>
+            <th>📖 Resources</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Week 1</th>
+            <td>
+                <h4>📐 Linear Algebra</h4>
+                <small>📌 <b>Goal:</b> Understand vector spaces, matrices, and transformations — the mathematical foundation behind data representation and model optimization in Machine Learning.</small>
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning">Imperial College London | Linear Algebra</a> — 16-hour Coursera course (apply for financial aid)</li>
+                    <li><a href="https://www.3blue1brown.com/topics/linear-algebra">3Blue1Brown | Essence of Linear Algebra</a> — Free visual course (recommended)</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ">Linear Algebra Arabic Course</a> — Free YouTube playlist</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 2</th>
+            <td>
+                <h4>📈 Multi-variate Calculus</h4>
+                <small>📌 <b>Goal:</b> Learn partial derivatives, gradients, and optimization concepts essential for understanding how learning algorithms minimize errors and improve model accuracy.</small>
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning">Imperial College London | Multivariate Calculus</a> — 15-hour Coursera course (apply for financial aid)</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>📅 Phase</th>
+            <th>📚 Topics</th>
+            <th>📖 Resources</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Weeks 3–4</th>
+            <td>
+                <h4>🕵️ Supervised Learning</h4>
+                <small>📌 <b>Goal:</b> Understand how models learn from labeled data using algorithms like Linear Regression, Decision Trees, and Support Vector Machines.</small>
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://www.coursera.org/learn/machine-learning">Andrew Ng | Machine Learning</a> — 34-hour Coursera course (apply for financial aid)</li>
+                    <li><a href="https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn">Supervised Learning with Scikit-Learn</a> — 4-hour DataCamp course (requires subscription)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <th>Weeks 5–14</th>
+            <td>
+                <h4>📘 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (3rd Edition)</h4>
+                <small>📌 <b>Goal:</b> Apply Machine Learning techniques in practice using Python, Scikit-Learn, and TensorFlow. Learn how to preprocess data, train models, and evaluate performance.</small>
+            </td>
+            <td>
+                <ul>
+                    <li>Study one chapter per week from the <a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">book</a> until reaching Chapter 9 (end of ML section).</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <th>Weeks 15–16</th>
+            <td>
+                <ul>
+                    <li>🤖 Unsupervised Learning</li>
+                    <li>🎯 Reinforcement Learning</li>
+                </ul>
+                <small>📌 <b>Goal:</b> Learn how models discover hidden patterns and make decisions through exploration without labeled data.</small>
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://app.datacamp.com/learn/courses/unsupervised-learning-in-python">Unsupervised Learning in Python</a> — 4-hour DataCamp course (requires subscription)</li>
+                    <li><a href="https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction">Andrew Ng | Unsupervised Learning, Recommenders, and Reinforcement Learning</a> — 27-hour Coursera course (apply for financial aid)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <th>Weeks 17–18</th>
+            <td>
+                <ul>
+                    <li>🌲 Ensemble Learning</li>
+                    <li>⚛ Neural Networks</li>
+                </ul>
+                <small>📌 <b>Goal:</b> Combine multiple models for stronger predictions and understand the foundations of Neural Networks.</small>
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://app.datacamp.com/learn/courses/machine-learning-with-tree-based-models-in-python">Machine Learning with Tree-Based Models in Python</a> — 5-hour DataCamp course (requires subscription)</li>
+                    <li><a href="https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction">Andrew Ng | Advanced Learning Algorithms</a> — 34-hour Coursera course (apply for financial aid)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 20</th>
+            <td>
+                <h4>🌐 APIs</h4>
+                <small>📌 <b>Goal:</b> Learn how to deploy and serve Machine Learning models using RESTful APIs with Python and FastAPI.</small>
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://app.datacamp.com/learn/courses/introduction-to-apis-in-python">Introduction to APIs in Python</a> — 2-hour DataCamp course (requires subscription)</li>
+                    <li><a href="https://app.datacamp.com/learn/courses/introduction-to-fastapi">Introduction to FastAPI</a> — 4-hour DataCamp course (requires subscription)</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
 
 ---
