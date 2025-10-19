@@ -1,8 +1,9 @@
-<h1 align="center">🚀 CIS Data Science Roadmap 2026</h1>
+<h1 align="center">🚀 CIS AI / Data Science Roadmap 2026</h1>
 
 <p align="center">
   <i>“Learn Data Science the smart, structured, and community-driven way.”</i><br/>
-  Maintained by the <b>CIS Data Science Circle</b> • <a href="https://github.com/ahmedothman-22">@Ahmed Osman</a>
+  Maintained by the <b>CIS Data Science Circle Mentor</b> • <a href="https://github.com/ahmedothman-22">@Ahmed Osman</a>
+  & <b>AI Mentor<b> • <a href="https://github.com/abdullahfayed6">@Abdullah Fayed</a>
 </p>
 
 ---
@@ -62,22 +63,53 @@ Each level is designed to be clear, practical, and achievable for university stu
 
 ---
 
-## 🧠 Advanced Machine & Deep Learning
+## 🧠 Advanced ( A ) Machine Learning
 
-> 🎯 **Goal:** Master algorithms, mathematics, and deployment.
+It includes the following topics:
 
-<div align="center">
+> In this stage, you will build the mathematical and algorithmic foundation for Machine Learning — mastering Linear Algebra, Calculus, core ML algorithms, and model evaluation essentials.
 
-| 🗓️ Phase | 🧠 Topic | 📚 Key Resource |
-|:--:|:--|:--|
-| 1 | 📐 **Linear Algebra** | [Imperial College – Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning) |
-| 2 | 📈 **Multivariate Calculus** | [Imperial College – Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning) |
-| 3–4 | 🕵️ **Supervised Learning** | [Andrew Ng – Machine Learning](https://www.coursera.org/learn/machine-learning) |
-| 5–14 | 🤖 **Hands-On ML (Book)** | [O’Reilly – Hands-On ML (3rd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |
-| 15–18 | 🌲 **Unsupervised & Ensemble Learning** | [DataCamp – Tree-Based Models](https://app.datacamp.com/learn/courses/machine-learning-with-tree-based-models-in-python) |
-| 20 | 🌐 **APIs & Deployment** | [DataCamp – FastAPI](https://app.datacamp.com/learn/courses/introduction-to-fastapi) |
+  
+<div >
+
+| 🗓️ Phase | 🧠 Topic | 📚 Key Resource | Notes |
+|:--:|:--|:--|:--|
+|  | Linear Algebra |  | 
+|  | Multivariate Calculus |  | 
+|  | Supervised Learning |  |
+|  | Hands-On ML (Book) |  |
+|  | Unsupervised Learning |  |
+|  | APIs & Deployment |  |
 
 </div>
+
+## 🧠 Advanced ( B ) Deep Learning
+
+> In this stage, you will enter the Deep Learning and GAN World. 
+
+- Phase 1: Basic concepts of Deep Learning (NN, CNN, RNN, Backpropagation, Optimizers, etc.)
+- Phase 2: Transformers and Generative AI.
+  [tf full ref](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+  [torch into arabic](https://www.youtube.com/playlist?list=PLhBhgortqAcjERnXJE1SqmKvL7UFw7xCp)
+  [dl spe](https://www.youtube.com/@Deeplearningai/playlists)
+  [Transformers / gan](https://www.youtube.com/watch?v=1tgZo2tpK44&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4)
+  [gan](https://www.youtube.com/playlist?list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va)
+<div>
+
+| 🗓️ Phase | 🧠 Topic | 📚 Key Resource | 📝 Notes |
+|:--:|:--|:--|:--|
+|  | Basic concepts of Deep Learning & Intro to TensorFlow |  |  |
+|  | Artificial Neural Networks (ANNs) | | |
+|  | Deep Neural Networks (DNN) | | |
+|  | Convolutional Neural Networks (CNNs) | | |
+|  | sequence models (RNNs, LSTMs, GRUs) | | |
+|  | Transformers | | |
+|  | GAN | | |
+|  | MLOps | | |
+
+
+</div>
+
 
 ---
 
