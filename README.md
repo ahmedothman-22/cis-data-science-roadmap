@@ -59,58 +59,104 @@ Each level is designed to be clear, practical, and achievable for university stu
 | 1 | **🕷 Web Scraping** — Extract structured data from websites | [DataCamp – Web Scraping](https://app.datacamp.com/learn/courses/introduction-to-web-scraping-with-python) / [BeautifulSoup Docs](https://beautiful-soup-4.readthedocs.io/en/latest/) |
 | 2 | **🗂 SQL** — Query databases and analyze data | [Udacity – SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) / [Mode Analytics – SQL Tutorial](https://mode.com/sql-tutorial/) |
 
+
 </div>
 
 ---
 
 ## 🧠 Advanced ( A ) Machine Learning
 
-It includes the following topics:
+> In this stage, you will build the mathematical and algorithmic foundation for Machine Learning — mastering Linear Algebra, Calculus, and key ML algorithms.
 
-> In this stage, you will build the mathematical and algorithmic foundation for Machine Learning — mastering Linear Algebra, Calculus, core ML algorithms, and model evaluation essentials.
+---
 
-  
-<div >
+### ⚙️ Phase 1: Mathematical Foundations
 
-| 🗓️ Phase | 🧠 Topic | 📚 Key Resource | Notes |
-|:--:|:--|:--|:--|
-|  | Linear Algebra |  | 
-|  | Multivariate Calculus |  | 
-|  | Supervised Learning |  |
-|  | Hands-On ML (Book) |  |
-|  | Unsupervised Learning |  |
-|  | APIs & Deployment |  |
-
-</div>
-
-## 🧠 Advanced ( B ) Deep Learning
-
-> In this stage, you will enter the Deep Learning and GAN World. 
-
-- Phase 1: Basic concepts of Deep Learning (NN, CNN, RNN, Backpropagation, Optimizers, etc.)
-- Phase 2: Transformers and Generative AI.
-  [tf full ref](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
-  [torch into arabic](https://www.youtube.com/playlist?list=PLhBhgortqAcjERnXJE1SqmKvL7UFw7xCp)
-  [dl spe](https://www.youtube.com/@Deeplearningai/playlists)
-  [Transformers / gan](https://www.youtube.com/watch?v=1tgZo2tpK44&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4)
-  [gan](https://www.youtube.com/playlist?list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va)
 <div>
 
 | 🗓️ Phase | 🧠 Topic | 📚 Key Resource | 📝 Notes |
 |:--:|:--|:--|:--|
-|  | Basic concepts of Deep Learning & Intro to TensorFlow |  |  |
-|  | Artificial Neural Networks (ANNs) | | |
-|  | Deep Neural Networks (DNN) | | |
-|  | Convolutional Neural Networks (CNNs) | | |
-|  | sequence models (RNNs, LSTMs, GRUs) | | |
-|  | Transformers | | |
-|  | GAN | | |
-|  | MLOps | | |
-
+|  | **Linear Algebra** |  | ♦ Learn vectors, matrices, and matrix operations.<br>♦ Understand eigenvalues/eigenvectors for PCA and dimensionality reduction.<br>♦ Connect linear algebra to regression and SVMs. |
+|  | **Multivariate Calculus** |  | ♦ Learn gradients, partial derivatives, and the chain rule.<br>♦ Understand optimization via gradient descent.<br>♦ See how calculus drives training and backpropagation. |
 
 </div>
 
+---
 
+> You’ve built the **mathematical intuition** behind how ML algorithms learn — understanding how linear algebra powers model representation and how calculus drives optimization.<br>
+> Now you’re ready to apply these foundations to real **machine learning algorithms and models**.
+
+---
+
+### 🤖 Phase 2: Machine Learning Algorithms
+
+<div>
+
+| 🗓️ Phase | 🧠 Topic | 📚 Key Resource | 📝 Notes |
+|:--:|:--|:--|:--|
+|  | **Supervised Learning** |  | ♦ Master regression and classification basics (Linear, Logistic, SVM, Trees).<br>♦ Learn evaluation metrics like accuracy and F1-score.<br>♦ Understand bias–variance tradeoff. |
+|  | **Unsupervised Learning** |  | ♦ Explore clustering (K-Means, DBSCAN) and dimensionality reduction (PCA).<br>♦ Learn to interpret patterns without labels. |
+|  | **Ensemble Learning** |  | ♦ Learn Random Forest, XGBoost, and stacking methods.<br>♦ Understand how combining models improves accuracy and stability. |
+|  | **Intro to Neural Networks** |  | ♦ Learn perceptrons, activations, and forward/backpropagation.<br>♦ Build a small NN in PyTorch or TensorFlow. |
+|  | **APIs & Deployment** |  | ♦ Serve models with FastAPI or Flask.<br>♦ Save/load models using joblib or pickle.<br>♦ Try Docker for simple deployment. |
+|  | **Projects & Portfolio** | *Kaggle Competitions*, *GitHub Portfolio* | ♦ Apply ML algorithms on real datasets.<br>♦ Showcase 3–5 projects (classification, regression, clustering).<br>♦ Share clean, documented notebooks on GitHub. |
+
+</div>
+
+---
+
+## 🧠 Advanced ( B ) Deep Learning
+
+> In this stage, you will enter the Deep Learning and Generative AI world.  
+> You’ll start by mastering neural networks and essential architectures — then move into transformers, GANs, and MLOps.
+
+---
+
+### ⚙️ **Phase 1: Core Deep Learning**
+
+> Build a solid foundation in neural networks and key architectures (ANNs, CNNs, RNNs).  
+> By the end, you’ll understand how deep models learn and generalize.
+
+<div>
+
+| 🗓️ Phase | 🧠 Topic | 📚 Key Resource | 📝 Notes |
+|:--:|:--|:--|:--|
+|  | **Deep Learning Fundamentals** |  | ♦ Understand perceptrons, activations, loss functions, and optimizers.<br>♦ Learn backpropagation and gradient-based learning. |
+|  | **Learn PyTorch (Torch)** |  | ♦ Practice tensors, autograd, and DataLoaders.<br>♦ Build simple ANNs and CNNs from scratch.<br>♦ Focus on flexibility and debugging. |
+|  | **Learn TensorFlow (TF)** |  | ♦ Explore TensorFlow & Keras APIs.<br>♦ Recreate models built in PyTorch.<br>♦ Learn model saving and serving basics. |
+|  | **Artificial & Deep Neural Networks (ANN/DNN)** |  | ♦ Train multi-layer perceptrons.<br>♦ Study optimizers (SGD, Adam) and regularization (dropout, batch norm). |
+|  | **Convolutional Neural Networks (CNNs)** |  | ♦ Learn filters, pooling, and feature extraction.<br>♦ Implement CNNs for image tasks (MNIST, CIFAR-10).<br>♦ Practice transfer learning. |
+|  | **Sequence Models (RNNs, LSTMs, GRUs)** |  | ♦ Model sequential data like text or time series.<br>♦ Understand vanishing gradients and gating mechanisms. |
+
+</div>
+
+---
+
+✅ **By now, you’ve mastered the foundations of Deep Learning** — from ANNs and CNNs to RNNs.  
+You can train, evaluate, and optimize deep models for vision and sequence tasks.
+
+---
+
+### 🚀 **Phase 2: Transformers & Generative AI**
+
+> Move into modern architectures like Transformers and GANs, and learn how to deploy and manage deep models efficiently.
+
+<div>
+
+| 🗓️ Phase | 🧠 Topic | 📚 Key Resource | 📝 Notes |
+|:--:|:--|:--|:--|
+|  | **Transformers & Attention Mechanisms** | *Attention Is All You Need (Paper)* | ♦ Understand self-attention and encoder-decoder design.<br>♦ Fine-tune models like BERT, GPT, and T5 with Hugging Face. |
+|  | **Generative Adversarial Networks (GANs)** |  | ♦ Build GANs using PyTorch.<br>♦ Experiment with DCGAN and StyleGAN.<br>♦ Learn key challenges like mode collapse and stability. |
+|  | **MLOps & Deployment** |  | ♦ Package and deploy models with FastAPI or Flask.<br>♦ Track experiments using MLflow or TensorBoard.<br>♦ Learn containerization with Docker. |
+|  | **Deep Learning Projects & Portfolio** | *Kaggle DL Competitions*, *GitHub* | ♦ Build 3–4 projects across vision, NLP, and generative tasks.<br>♦ Use both PyTorch and TensorFlow.<br>♦ Deploy at least one model publicly. |
+
+</div>
+
+[tf full ref](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+[torch into arabic](https://www.youtube.com/playlist?list=PLhBhgortqAcjERnXJE1SqmKvL7UFw7xCp)
+[dl spe](https://www.youtube.com/@Deeplearningai/playlists)
+[Transformers / gan](https://www.youtube.com/watch?v=1tgZo2tpK44&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4)
+[gan](https://www.youtube.com/playlist?list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va)  
 ---
 
 <p align="center">
