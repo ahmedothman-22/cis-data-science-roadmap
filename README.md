@@ -4,6 +4,7 @@
   <i>“Learn Data Science the smart, structured, and community-driven way.”</i><br/>
   Maintained by the <b>CIS Data Science Circle Mentor</b> • <a href="https://github.com/ahmedothman-22">@Ahmed Osman</a>
   & <b>AI Mentor<b> • <a href="https://github.com/abdullahfayed6">@Abdullah Fayed</a>
+  & <b>Data Analysis Mentor<b> • <a href="https://github.com/ibrahimreda114">@Ibrahim Reda</a>
 </p>
 
 ---
@@ -61,6 +62,24 @@ Each level is designed to be clear, practical, and achievable for university stu
 
 
 </div>
+
+---
+## 🧭 Advanced Data Analysis
+
+> 🧰 **Goal:** Build a solid foundation in data analysis step by step.
+
+<div align="center">
+
+| 🗓️ Phase | 🧠 Topic | 📚 Key Resource | 📝 Notes |
+|:--:|:--|:--|:--|
+| 1 | **SQL Basics & Data Analysis With Sql** |  | ♦ Introduction to SQL.<br>♦ Joins & Relationships.<br>♦ Aggregations.<br>♦ Subqueries & Filtering. |
+| 2 | **Excel Fundamentals** |  | ♦ Formulas & Functions.<br>♦ Formatting & Visualization.<br>♦Sorting & Filtering. |
+| 3 | **Data Analysis with Excel** |  | ♦ Data Cleaning With Power Query.<br>♦Pivot Tables & DAX & Data Modeling.<br>♦Charts & Dashboards|
+| 4 | **Power BI** |  | ♦ Import Data from diffrent resourses<br>♦ Data Cleaning.<br>♦Dashboard & Storytelling With Data. |
+
+</div>
+
+
 
 ---
 
