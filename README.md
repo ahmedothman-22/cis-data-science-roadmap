@@ -166,7 +166,7 @@ You can train, evaluate, and optimize deep models for vision and sequence tasks.
 | 🗓️ Phase | 🧠 Topic | 📚 Key Resource | 📝 Notes |
 |:--:|:--|:--|:--|
 |  | **Transformers & Attention Mechanisms** | *Attention Is All You Need (Paper)* | ♦ Understand self-attention and encoder-decoder design.<br>♦ Fine-tune models like BERT, GPT, and T5 with Hugging Face. |
-|  | **Generative Adversarial Networks (GANs)** |  | ♦ Build GANs using PyTorch.<br>♦ Experiment with DCGAN and StyleGAN.<br>♦ Learn key challenges like mode collapse and stability. |
+|  | **Generative Adversarial Networks (GANs) / Diffusion Models** |  | ♦ Build GANs using PyTorch.<br>♦ Experiment with DCGAN and StyleGAN.<br>♦ Learn key challenges like mode collapse and stability. |
 |  | **MLOps & Deployment** |  | ♦ Package and deploy models with FastAPI or Flask.<br>♦ Track experiments using MLflow or TensorBoard.<br>♦ Learn containerization with Docker. |
 |  | **Deep Learning Projects & Portfolio** | *Kaggle DL Competitions*, *GitHub* | ♦ Build 3–4 projects across vision, NLP, and generative tasks.<br>♦ Use both PyTorch and TensorFlow.<br>♦ Deploy at least one model publicly. |
 
