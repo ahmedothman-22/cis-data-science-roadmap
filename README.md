@@ -4,6 +4,7 @@
   <i>“Learn Data Science the smart, structured, and community-driven way.”</i><br/>
   Maintained by the <b>CIS Data Science Circle Mentor</b> • <a href="https://github.com/ahmedothman-22">@Ahmed Osman</a>
   & <b>AI Mentor<b> • <a href="https://github.com/abdullahfayed6">@Abdullah Fayed</a>
+  & <b>AI Supervisor<b> • <a href="https://github.com/ahmedayman2005">@Ahmed Ayman</a>
   & <b>Data Analysis Mentor<b> • <a href="https://github.com/ibrahimreda114">@Ibrahim Reda</a>
 </p>
 
