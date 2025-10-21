@@ -46,7 +46,7 @@ Each level is designed to be clear, practical, and achievable for university stu
 | 4 | 🔣 **RegEx** — Text pattern matching | [DataCamp – Regular Expressions (requires subscription)](https://app.datacamp.com/learn/courses/regular-expressions-in-python)  <br/> [Osama Elzero – RegEx Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) |
 | 5 | 📊 **Matplotlib** — Visualization | [Corey Schafer – Matplotlib](https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) |
 | 6 | 🌊 **Seaborn** — Visualization | [Corey Schafer – Seaborn](https://www.youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j) |
-| 7 | 📈 **EDA** — Exploratory Data Analysis | [DataCamp – EDA](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) |
+| 7 | 📈 **EDA** — Exploratory Data Analysis | [DataCamp – EDA (requires subscription)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) |
 
 </div>
 
