@@ -171,7 +171,13 @@ You can train, evaluate, and optimize deep models for vision and sequence tasks.
 |  | **Deep Learning Projects & Portfolio** | *Kaggle DL Competitions*, *GitHub* | ♦ Build 3–4 projects across vision, NLP, and generative tasks.<br>♦ Use both PyTorch and TensorFlow.<br>♦ Deploy at least one model publicly. |
 
 </div>
-
+[Attention Is All You Need - abu bakr](https://www.youtube.com/watch?v=6JGzwI2pNfo)
+[Transformers from scratch](https://www.youtube.com/watch?v=1tgZo2tpK44&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4)
+[Generative Adversarial Networks (GANs) Playlist](https://www.youtube.com/playlist?list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va)
+[Transformer & LLMs](https://cme295.stanford.edu/syllabus/)
+[agentic-ai - andwro](https://www.deeplearning.ai/courses/agentic-ai/)
+[Building Transformer Models from Scratch](https://machinelearningmastery.com/building-transformer-models-from-scratch-with-pytorch-10-day-mini-course/)
+[Large Language Models (LLMs)](https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05)
 ---
 
 <p align="center">
