@@ -25,10 +25,12 @@ Each level is designed to be clear, practical, and achievable for university stu
 
 | 🗓️ Week | 🧠 Topic | 📚 Key Resource |
 |:--:|:--|:--|
-| 1 | **📊 Introduction to Statistics**<br/>Understand data, probability & distributions. | [DataCamp – Intro to Statistics](https://app.datacamp.com/learn/courses/introduction-to-statistics) |
-| 2 | **🐍 Python & OOP**<br/>Learn Python basics, loops, and OOP concepts. | [Udacity – Intro to Python](https://www.udacity.com/course/introduction-to-python--ud1110) / [Elzero – Python (Arabic)](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) |
+| 1 | 📊 **Data Literacy** <br/> 🔍 **Understanding Data Science** | [Introduction to Data Literacy (requires subscription)](https://app.datacamp.com/learn/courses/introduction-to-data-literacy) <br/> [Understanding Data Science (requires subscription)](https://app.datacamp.com/learn/courses/understanding-data-science) |
+| 2 | 📊 **Introduction to Statistics** <br/> Understand data, probability & distributions | [DataCamp – Intro to Statistics (requires subscription)](https://app.datacamp.com/learn/courses/introduction-to-statistics) <br/> [YouTube – Descriptive Statistics Basics](https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW) |
+| 3 | 🐍 **Python & OOP** <br/> Learn Python basics, loops, and OOP concepts | [Elzero – Python](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) |
 
 </div>
+
 
 ---
 
