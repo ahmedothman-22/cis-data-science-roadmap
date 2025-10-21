@@ -140,12 +140,11 @@ Each level is designed to be clear, practical, and achievable for university stu
 
 | 🗓️ Phase | 🧠 Topic | 📚 Key Resource | 📝 Notes |
 |:--:|:--|:--|:--|
-|  | **Deep Learning Fundamentals** |  | ♦ Understand perceptrons, activations, loss functions, and optimizers.<br>♦ Learn backpropagation and gradient-based learning. |
-|  | **Learn PyTorch (Torch)** |  | ♦ Practice tensors, autograd, and DataLoaders.<br>♦ Build simple ANNs and CNNs from scratch.<br>♦ Focus on flexibility and debugging. |
-|  | **Learn TensorFlow (TF)** |  | ♦ Explore TensorFlow & Keras APIs.<br>♦ Recreate models built in PyTorch.<br>♦ Learn model saving and serving basics. |
-|  | **Artificial & Deep Neural Networks (ANN/DNN)** |  | ♦ Train multi-layer perceptrons.<br>♦ Study optimizers (SGD, Adam) and regularization (dropout, batch norm). |
-|  | **Convolutional Neural Networks (CNNs)** |  | ♦ Learn filters, pooling, and feature extraction.<br>♦ Implement CNNs for image tasks (MNIST, CIFAR-10).<br>♦ Practice transfer learning. |
-|  | **Sequence Models (RNNs, LSTMs, GRUs)** |  | ♦ Model sequential data like text or time series.<br>♦ Understand vanishing gradients and gating mechanisms. |
+|  | **Learn PyTorch (Torch)** | [Intro to Pytorch - Arabic](https://youtube.com/playlist?list=PLhBhgortqAcjERnXJE1SqmKvL7UFw7xCp&si=bg4T4BBQowP3gIFg) | ♦ Practice tensors, autograd, and DataLoaders.<br>♦ Build simple ANNs and CNNs from scratch.<br>♦ Focus on flexibility and debugging. |
+|  | **Learn TensorFlow (TF)** | [Intro to TensorFlow - Arabic](https://www.youtube.com/playlist?list=PLBPdtL8DZBZIjUFs0ZynreJMopJN3dS30) | ♦ Explore TensorFlow & Keras APIs.<br>♦ Recreate models built in PyTorch.<br>♦ Learn model saving and serving basics. |
+|  | **Artificial & Deep Neural Networks (ANN/DNN)** | [Artificial Neural Networks - Androw Ng](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0) <br> [Deep Neural Networks - Androw Ng ](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc) <br> [From Theory to Practice](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)| ♦ Train multi-layer perceptrons.<br>♦ Study optimizers (SGD, Adam) and regularization (dropout, batch norm). |
+|  | **Convolutional Neural Networks (CNNs)** | [Convolutional Neural Networks - Androw Ng ](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF) <br> [From Theory to Practice](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) | ♦ Learn filters, pooling, and feature extraction.<br>♦ Implement CNNs for image tasks (MNIST, CIFAR-10).<br>♦ Practice transfer learning. |
+|  | **Sequence Models (RNNs, LSTMs, GRUs)** | [Sequence Models - Androw Ng](https://www.youtube.com/watch?v=S7oA5C43Rbc) <br> [From Theory to Practice](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)| ♦ Model sequential data like text or time series.<br>♦ Understand vanishing gradients and gating mechanisms. |
 
 </div>
 
@@ -171,11 +170,6 @@ You can train, evaluate, and optimize deep models for vision and sequence tasks.
 
 </div>
 
-[tf full ref](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
-[torch into arabic](https://www.youtube.com/playlist?list=PLhBhgortqAcjERnXJE1SqmKvL7UFw7xCp)
-[dl spe](https://www.youtube.com/@Deeplearningai/playlists)
-[Transformers / gan](https://www.youtube.com/watch?v=1tgZo2tpK44&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4)
-[gan](https://www.youtube.com/playlist?list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va)  
 ---
 
 <p align="center">
