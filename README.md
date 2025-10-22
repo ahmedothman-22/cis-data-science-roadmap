@@ -89,7 +89,7 @@ Each level is designed to be clear, practical, and achievable for university stu
 
 ---
 
-## 🧠 Advanced ( A ) Machine Learning
+## 🧠 Intermediate Machine Learning
 
 > In this stage, you will build the mathematical and algorithmic foundation for Machine Learning — mastering Linear Algebra, Calculus, and key ML algorithms.
 
@@ -130,7 +130,7 @@ Each level is designed to be clear, practical, and achievable for university stu
 
 ---
 
-## 🧠 Advanced ( B ) Deep Learning
+## 🧠 Advanced Deep Learning
 
 > In this stage, you will enter the Deep Learning and Generative AI world.  
 > You’ll start by mastering neural networks and essential architectures — then move into transformers, GANs, and MLOps.
