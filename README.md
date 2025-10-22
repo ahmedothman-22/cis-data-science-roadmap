@@ -77,7 +77,7 @@ Each level is designed to be clear, practical, and achievable for university stu
 
 | 🗓️ Phase | 🧠 Topic | 📚 Key Resource | 📝 Notes |
 |:--:|:--|:--|:--|
-| 1 | **SQL Basics & Data Analysis With Sql** |  | ♦ Introduction to SQL.<br>♦ Joins & Relationships.<br>♦ Aggregations.<br>♦ Subqueries & Filtering. |
+| 1 | **SQL Basics & Data Analysis With Sql** | [iti Course SQL Server](https://www.youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_) OR [DataCamP_Associate Data Analyst in SQL](https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql) | ♦ Introduction to SQL.<br>♦ Joins & Relationships.<br>♦ Aggregations.<br>♦ Subqueries & Filtering. |
 | 2 | **Excel Fundamentals** |  | ♦ Formulas & Functions.<br>♦ Formatting & Visualization.<br>♦Sorting & Filtering. |
 | 3 | **Data Analysis with Excel** |  | ♦ Data Cleaning With Power Query.<br>♦Pivot Tables & DAX & Data Modeling.<br>♦Charts & Dashboards|
 | 4 | **Power BI** |  | ♦ Import Data from diffrent resourses<br>♦ Data Cleaning.<br>♦Dashboard & Storytelling With Data. |
