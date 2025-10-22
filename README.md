@@ -82,6 +82,7 @@ Each level is designed to be clear, practical, and achievable for university stu
 | 3 | **Data Analysis with Excel** |if you need to understand process==>[excel for data analysis](https://www.youtube.com/playlist?list=PLXlHqMRg9lAbetpJy3ePXsN0sj9Zs-pvT)<br> if you need detailed explanation==>[Power Query](https://www.youtube.com/watch?v=oyJDaaCrWQ8&list=PL5NlUYOM2iOioKHGTJKFkykyp1oudj4HC) And [Power Pivot & DAX](https://www.youtube.com/watch?v=PScGRK9AQeA&list=PL5NlUYOM2iOgpYyGRs-m33ifHRwbB8MTV) | ♦ Data Cleaning With Power Query.<br>♦Pivot Tables & DAX & Data Modeling.<br>♦Charts & Dashboards|
 | 4 | **Power BI** | [Zanoon Lab](https://www.youtube.com/playlist?list=PL69umUTzySPGWMxnmhX9SV5PIEbdnHv63) Or [Fouad Zawadi](https://www.youtube.com/playlist?list=PL-qR2lCbzf-qKcSx6v7IVz30G5A711xKA) Or [Munthir Saffan](https://www.youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)  | ♦ Import Data from diffrent resourses<br>♦ Data Cleaning.<br>♦Dashboard & Storytelling With Data. |
 
+>**Projects:** Don't understand to apply project after each phase
 </div>
 
 
