@@ -183,6 +183,7 @@ You can train, evaluate, and optimize deep models for vision and sequence tasks.
 [Large Language Models (LLMs)](https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05)
 [Transformers in Deep Learning Course](https://www.youtube.com/playlist?list=PLuhqtP7jdD8CQTxwVsuiFYGvHtFpNhlR3)
 [Evolution of the Transformer Architecture Used in LLMs (2017–2025) – Full Course](https://www.youtube.com/watch?v=8WBS0dT0h2I)
+[mage Generation using GANs](https://www.youtube.com/watch?v=QpR4QEv5Urk)
 
 ---
 
