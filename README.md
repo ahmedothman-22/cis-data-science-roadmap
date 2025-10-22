@@ -181,6 +181,7 @@ You can train, evaluate, and optimize deep models for vision and sequence tasks.
 [agentic-ai - andwro](https://www.deeplearning.ai/courses/agentic-ai/)
 [Building Transformer Models from Scratch](https://machinelearningmastery.com/building-transformer-models-from-scratch-with-pytorch-10-day-mini-course/)
 [Large Language Models (LLMs)](https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05)
+[Transformers in Deep Learning Course](https://www.youtube.com/playlist?list=PLuhqtP7jdD8CQTxwVsuiFYGvHtFpNhlR3)
 
 ---
 
