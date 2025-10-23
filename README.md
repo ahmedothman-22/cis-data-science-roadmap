@@ -184,6 +184,16 @@ You can train, evaluate, and optimize deep models for vision and sequence tasks.
 [Transformers in Deep Learning Course](https://www.youtube.com/playlist?list=PLuhqtP7jdD8CQTxwVsuiFYGvHtFpNhlR3)
 [Evolution of the Transformer Architecture Used in LLMs (2017–2025) – Full Course](https://www.youtube.com/watch?v=8WBS0dT0h2I)
 [mage Generation using GANs](https://www.youtube.com/watch?v=QpR4QEv5Urk)
+[LLMs Fine-Tuning تطبيق عملي على ال](https://www.youtube.com/watch?v=S9VHQhC3HPc)
+[How to Fine-tune LLMs with Unsloth: Complete Guide](https://www.youtube.com/watch?v=Lt7KrFMcCis)
+[Fine-tuning Large Language Models (LLMs) | w/ Example Code](https://www.youtube.com/watch?v=eC6Hd1hFvos)
+[Everything you need to know about Fine-tuning and Merging LLMs: Maxime Labonne](https://www.youtube.com/watch?v=uLrOI65XbDw)
+[Finetune LLMs to teach them ANYTHING with Huggingface and Pytorch | Step-by-step tutorial](https://www.youtube.com/watch?v=bZcKYiwtw1I)
+[LoRA & QLoRA Fine-tuning Explained In-Depth](https://www.youtube.com/watch?v=t1caDsMzWBk)
+[Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://www.youtube.com/watch?v=wjZofJX0v4M)
+[From RNN to Transformers](https://www.youtube.com/playlist?list=PLoOabVweB2r6i93vGocJq-LeHqcOZaYM7)
+[Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
+[Large Language Models (LLMs)](https://www.youtube.com/playlist?list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0)
 
 ---
 
