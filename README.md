@@ -25,9 +25,9 @@ Each level is designed to be clear, practical, and achievable for university stu
 
 | 🗓️ Week | 🧠 Topic | 📚 Key Resource |
 |:--:|:--|:--|
-| 1 | 📊 **Data Literacy** <br/> 🔍 **Understanding Data Science** | [Introduction to Data Literacy (requires subscription)](https://app.datacamp.com/learn/courses/introduction-to-data-literacy) **And**<br/> [Understanding Data Science (requires subscription)](https://app.datacamp.com/learn/courses/understanding-data-science) |
-| 2 | 📊 **Introduction to Statistics** <br/> Understand data, probability & distributions | [DataCamp – Intro to Statistics (requires subscription)](https://app.datacamp.com/learn/courses/introduction-to-statistics) **Or** <br/> [YouTube – Descriptive Statistics Basics](https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW) |
-| 3 | 🐍 **Python & OOP** <br/> Learn Python basics, loops, and OOP concepts | [Elzero – Python](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) |
+| 1 | 📊 **Data Literacy** <br/> 🔍 **Understanding Data Science** | [Introduction to Data Literacy (requires subscription)](https://app.datacamp.com/learn/courses/introduction-to-data-literacy) **and** <br/> [Understanding Data Science (requires subscription)](https://app.datacamp.com/learn/courses/understanding-data-science) |
+| 2 | 📊 **Introduction to Statistics** <br/> Understand data, probability & distributions | [DataCamp – Intro to Statistics (requires subscription)](https://app.datacamp.com/learn/courses/introduction-to-statistics) **or** <br/> [YouTube – Descriptive Statistics Basics](https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW) **or** <br/> [Statistics 1](https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&si=yMkak4k5mx1Y0nu8)|
+| 3 | 🐍 **Python & OOP** <br/> Learn Python basics, loops, and OOP concepts | [Elzero – Python](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) **or** <br/> [freeCodeCamp - Python Basics](https://youtu.be/rfscVS0vtbw?si=rh6Ff_j05Dr2MuLu) **and** [freeCodeCamp - Python OOP](https://youtu.be/Ej_02ICOIgs?si=b4r1mYGEp5AhbI89) |
 
 </div>
 
@@ -42,12 +42,12 @@ Each level is designed to be clear, practical, and achievable for university stu
 
 | 🗓️ Week | 🧠 Topic | 📚 Key Resource |
 |:--:|:--|:--|
-| 1 | 🔢 **NumPy** — Arrays & numerical operations | [NumPy](https://youtu.be/GB9ByFAIAH4) |
+| 1 | 🔢 **NumPy** — Arrays & numerical operations | [NumPy](https://youtu.be/GB9ByFAIAH4) **or** <br/> [DataCamp - NumPy (requires subscription)](https://app.datacamp.com/learn/courses/introduction-to-numpy) |
 | 2 | 🐼 **Pandas** — Data manipulation | [Corey Schafer – Pandas](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) |
-| 3 | 🧹 **Data Cleaning** — Handling missing, invalid, and duplicate data | [DataCamp – Cleaning Data (requires subscription) ](https://app.datacamp.com/learn/courses/cleaning-data-in-python) **And** <br/> [Data Cleaning Arabic](https://youtu.be/TXiKPcbHmO8?si=-bfKgHWEI0_AO0r5) |
-| 4 | 🔣 **RegEx** — Text pattern matching | [DataCamp – Regular Expressions (requires subscription)](https://app.datacamp.com/learn/courses/regular-expressions-in-python) **Or** <br/> [Osama Elzero – RegEx Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) |
+| 3 | 🧹 **Data Cleaning** — Handling missing, invalid, and duplicate data | [DataCamp – Cleaning Data (requires subscription) ](https://app.datacamp.com/learn/courses/cleaning-data-in-python) **and** <br/> [Data Cleaning Arabic](https://youtu.be/TXiKPcbHmO8?si=-bfKgHWEI0_AO0r5) |
+| 4 | 🔣 **RegEx** — Text pattern matching | [DataCamp – Regular Expressions (requires subscription)](https://app.datacamp.com/learn/courses/regular-expressions-in-python) **or** <br/> [Osama Elzero – RegEx Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) |
 | 5 | 📊 **Matplotlib** — Visualization | [Corey Schafer – Matplotlib](https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) |
-| 6 | 🌊 **Seaborn** — Visualization | [Corey Schafer – Seaborn](https://www.youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j) |
+| 6 | 🌊 **Seaborn** — Visualization | [Kimberly Fessel - Seaborn](https://youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&si=iDQ4aY7QZwuIPtPP) **or** <br/> [Corey Schafer – Seaborn](https://www.youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j) |
 | 7 | 📈 **EDA** — Exploratory Data Analysis | [DataCamp – EDA (requires subscription)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) |
 
 </div>
@@ -62,8 +62,8 @@ Each level is designed to be clear, practical, and achievable for university stu
 
 | 🗓️ Week | 🧠 Topic | 📚 Key Resource |
 |:--:|:--|:--|
-| 1 | **🕷 Web Scraping** — Extract structured data from websites | [DataCamp – Web Scraping](https://app.datacamp.com/learn/courses/introduction-to-web-scraping-with-python) / [BeautifulSoup Docs](https://beautiful-soup-4.readthedocs.io/en/latest/) |
-| 2 | **🗂 SQL** — Query databases and analyze data | [Udacity – SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) / [Mode Analytics – SQL Tutorial](https://mode.com/sql-tutorial/) |
+| 1 | **🕷 Web Scraping** — Extract structured data from websites | [DataCamp – Web Scraping](https://app.datacamp.com/learn/courses/introduction-to-web-scraping-with-python) / [BeautifulSoup Docs](https://beautiful-soup-4.readthedocs.io/en/latest/) **or** <br/> [Codezilla - Web Scraping w/ beautiful soup](https://youtu.be/q0ert5YP968?si=xV0tlimToAUijocI) |
+| 2 | **🗂 SQL** — Query databases and analyze data | [Udacity – SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) / [Mode Analytics – SQL Tutorial](https://mode.com/sql-tutorial/) **or** <br/> [Data with Baraa - SQL (1 to 29)](https://youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe&si=Vp-W4j0QG5uRkzwE) / [Videos Material](https://datawithbaraa.substack.com) |
 
 
 </div>
