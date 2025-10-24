@@ -1,180 +1,388 @@
 <h1 align="center">🚀 CIS AI / Data Science Roadmap 2026</h1>
 
-<p align="center">
-  <i>“Learn Data Science the smart, structured, and community-driven way.”</i><br/>
-  Maintained by the <b>CIS Data Science Circle Mentor</b> • <a href="https://github.com/ahmedothman-22">@Ahmed Osman</a>
-  , <b>DS Basics Mentor<b> • <a href="https://github.com/Rahma-Hosam">@Rahma Hosam</a>
-  , <b>AI Mentor<b> • <a href="https://github.com/abdullahfayed6">@Abdullah Fayed</a>
-  , <b>AI Supervisor<b> • <a href="https://github.com/ahmedayman2005">@Ahmed Ayman</a>
-  & <b>Data Analysis Mentor<b> • <a href="https://github.com/ibrahimreda114">@Ibrahim Reda</a>
-</p>
+<h2>🧭 Overview</h2>
+<p>This roadmap guides you through a full journey — from beginner to advanced data scientist.<br>
+Each level is designed to be clear, practical, and achievable for university students.</p>
 
----
+## 🗺️ How to Use This Roadmap
 
-## 🧭 Overview
+This roadmap is divided into clear sections, each representing a stage in your journey to becoming a data scientist or AI practitioner. Here’s how to get the most out of it:
 
-This roadmap guides you through a full journey — from beginner to advanced data scientist.  
-Each level is designed to be clear, practical, and achievable for university students.
+<ul>
+  <li><a href="#entry-level">Entry Level</a></li>
+  <li><a href="#beginner-level">Beginner Level</a></li>
+  <li><a href="#intermediate-level">Intermediate Level</a></li>
+  <li><a href="#advanced-data-analysis">Advanced Data Analysis</a></li>
+  <li><a href="#intermediate-machine-learning">Intermediate Machine Learning</a></li>
+  <li><a href="#advanced-deep-learning">Advanced Deep Learning</a></li>
+</ul>
 
----
 
-## 🩵 Entry Level
-
-> 🧩 **Goal:** Build your foundation — Python, OOP, and Statistics.
-
+Ready? Start your journey below! 🚀
+<h2 id="entry-level">🩵 Entry Level</h2>
+<blockquote>🧩 <strong>Goal:</strong> Build your foundation — Python, OOP, and Statistics.</blockquote>
 <div align="center">
-
-| 🗓️ Week | 🧠 Topic | 📚 Key Resource |
-|:--:|:--|:--|
-| 1 | 📊 **Data Literacy** <br/> 🔍 **Understanding Data Science** | [Introduction to Data Literacy (requires subscription)](https://app.datacamp.com/learn/courses/introduction-to-data-literacy) **and** <br/> [Understanding Data Science (requires subscription)](https://app.datacamp.com/learn/courses/understanding-data-science) |
-| 2 | 📊 **Introduction to Statistics** <br/> Understand data, probability & distributions | [DataCamp – Intro to Statistics (requires subscription)](https://app.datacamp.com/learn/courses/introduction-to-statistics) **or** <br/> [YouTube – Descriptive Statistics Basics](https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW) **or** <br/> [Statistics 1](https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&si=yMkak4k5mx1Y0nu8)|
-| 3 | 🐍 **Python & OOP** <br/> Learn Python basics, loops, and OOP concepts | [Elzero – Python](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) **or** <br/> [freeCodeCamp - Python Basics](https://youtu.be/rfscVS0vtbw?si=rh6Ff_j05Dr2MuLu) **and** [freeCodeCamp - Python OOP](https://youtu.be/Ej_02ICOIgs?si=b4r1mYGEp5AhbI89) |
-
-</div>
-
-
----
-
-## 💡 Beginner Level
-
-> 🧰 **Goal:** Learn to clean, organize, and visualize your data.
-
-<div align="center">
-
-| 🗓️ Week | 🧠 Topic | 📚 Key Resource |
-|:--:|:--|:--|
-| 1 | 🔢 **NumPy** — Arrays & numerical operations | [NumPy](https://youtu.be/GB9ByFAIAH4) **or** <br/> [DataCamp - NumPy (requires subscription)](https://app.datacamp.com/learn/courses/introduction-to-numpy) |
-| 2 | 🐼 **Pandas** — Data manipulation | [Corey Schafer – Pandas](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) |
-| 3 | 🧹 **Data Cleaning** — Handling missing, invalid, and duplicate data | [DataCamp – Cleaning Data (requires subscription) ](https://app.datacamp.com/learn/courses/cleaning-data-in-python) **and** <br/> [Data Cleaning Arabic](https://youtu.be/TXiKPcbHmO8?si=-bfKgHWEI0_AO0r5) |
-| 4 | 🔣 **RegEx** — Text pattern matching | [DataCamp – Regular Expressions (requires subscription)](https://app.datacamp.com/learn/courses/regular-expressions-in-python) **or** <br/> [Osama Elzero – RegEx Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) |
-| 5 | 📊 **Matplotlib** — Visualization | [Corey Schafer – Matplotlib](https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) |
-| 6 | 🌊 **Seaborn** — Visualization | [Kimberly Fessel - Seaborn](https://youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&si=iDQ4aY7QZwuIPtPP) **or** <br/> [Corey Schafer – Seaborn](https://www.youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j) |
-| 7 | 📈 **EDA** — Exploratory Data Analysis | [DataCamp – EDA (requires subscription)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) |
-
-</div>
-
----
-
-## 🔵 Intermediate Level
-
-> 🕸️ **Goal:** Get hands-on with data extraction and querying.
-
-<div align="center">
-
-| 🗓️ Week | 🧠 Topic | 📚 Key Resource |
-|:--:|:--|:--|
-| 1 | **🕷 Web Scraping** — Extract structured data from websites | [DataCamp – Web Scraping](https://app.datacamp.com/learn/courses/introduction-to-web-scraping-with-python) / [BeautifulSoup Docs](https://beautiful-soup-4.readthedocs.io/en/latest/) **or** <br/> [Codezilla - Web Scraping w/ beautiful soup](https://youtu.be/q0ert5YP968?si=xV0tlimToAUijocI) |
-| 2 | **🗂 SQL** — Query databases and analyze data | [Udacity – SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) / [Mode Analytics – SQL Tutorial](https://mode.com/sql-tutorial/) **or** <br/> [Data with Baraa - SQL (1 to 29)](https://youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe&si=Vp-W4j0QG5uRkzwE) / [Videos Material](https://datawithbaraa.substack.com) |
-
-
-</div>
-
----
-## 🧭 Advanced Data Analysis
-
-> 🧰 **Goal:** Build a solid foundation in data analysis step by step.
-
-<div align="center">
-
-| 🗓️ Phase | 🧠 Topic | 📚 Key Resource | 📝 Notes |
-|:--:|:--|:--|:--|
-| 1 | **SQL Basics & Data Analysis With Sql** | [iti Course SQL Server](https://www.youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_) Or [DatacamP_Associate Data Analyst in SQL](https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql) | ♦ Introduction to SQL.<br>♦ Joins & Relationships.<br>♦ Aggregations.<br>♦ Subqueries & Filtering. |
-| 2 | **Excel Fundamentals** | [Excel Fundamentals](https://www.youtube.com/playlist?list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-) And [this book](https://drive.google.com/file/d/1FxGvB-ilJ0mYNCg9u8Rx5BD99M89dMfp/view?usp=sharing) | ♦ Formulas & Functions.<br>♦ Formatting & Visualization.<br>♦Sorting & Filtering. |
-| 3 | **Data Analysis with Excel** |if you need to understand process==>[excel for data analysis](https://www.youtube.com/playlist?list=PLXlHqMRg9lAbetpJy3ePXsN0sj9Zs-pvT)<br> if you need detailed explanation==>[Power Query](https://www.youtube.com/watch?v=oyJDaaCrWQ8&list=PL5NlUYOM2iOioKHGTJKFkykyp1oudj4HC) And [Power Pivot & DAX](https://www.youtube.com/watch?v=PScGRK9AQeA&list=PL5NlUYOM2iOgpYyGRs-m33ifHRwbB8MTV) | ♦ Data Cleaning With Power Query.<br>♦Pivot Tables & DAX & Data Modeling.<br>♦Charts & Dashboards|
-| 4 | **Power BI** | [Zanoon Lab](https://www.youtube.com/playlist?list=PL69umUTzySPGWMxnmhX9SV5PIEbdnHv63) Or [Fouad Zawadi](https://www.youtube.com/playlist?list=PL-qR2lCbzf-qKcSx6v7IVz30G5A711xKA) Or [Munthir Saffan](https://www.youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)  | ♦ Import Data from diffrent resourses<br>♦ Data Cleaning.<br>♦Dashboard & Storytelling With Data. |
-
->**Projects:** Don't understand to apply project after each phase
+<table>
+  <thead>
+    <tr>
+      <th>🗓️ Week</th>
+      <th>🧠 Topic</th>
+      <th>📚 Key Resource</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>📊 <strong>Data Literacy</strong> <br/> 🔍 <strong>Understanding Data Science</strong></td>
+      <td><a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">Introduction to Data Literacy (requires subscription)</a> <strong>and</strong> <br/> <a href="https://app.datacamp.com/learn/courses/understanding-data-science">Understanding Data Science (requires subscription)</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>📊 <strong>Introduction to Statistics</strong> <br/> Understand data, probability &amp; distributions</td>
+      <td><a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp – Intro to Statistics (requires subscription)</a> <strong>or</strong> <br/> <a href="https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW">YouTube – Descriptive Statistics Basics</a> <strong>or</strong> <br/> <a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&si=yMkak4k5mx1Y0nu8">Statistics 1</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>🐍 <strong>Python &amp; OOP</strong> <br/> Learn Python basics, loops, and OOP concepts</td>
+      <td><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero – Python</a> <strong>or</strong> <br/> <a href="https://youtu.be/rfscVS0vtbw?si=rh6Ff_j05Dr2MuLu">freeCodeCamp - Python Basics</a> <strong>and</strong> <a href="https://youtu.be/Ej_02ICOIgs?si=b4r1mYGEp5AhbI89">freeCodeCamp - Python OOP</a></td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 
 
+
+
+<h2 id="beginner-level">💡 Beginner Level</h2>
+<blockquote>🧰 <strong>Goal:</strong> Learn to clean, organize, and visualize your data.</blockquote>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>🗓️ Week</th>
+      <th>🧠 Topic</th>
+      <th>📚 Key Resource</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>🔢 <strong>NumPy</strong> — Arrays &amp; numerical operations</td>
+      <td><a href="https://youtu.be/GB9ByFAIAH4">NumPy</a> <strong>or</strong> <br/> <a href="https://app.datacamp.com/learn/courses/introduction-to-numpy">DataCamp - NumPy (requires subscription)</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>🐼 <strong>Pandas</strong> — Data manipulation</td>
+      <td><a href="https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS">Corey Schafer – Pandas</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>🧹 <strong>Data Cleaning</strong> — Handling missing, invalid, and duplicate data</td>
+      <td><a href="https://app.datacamp.com/learn/courses/cleaning-data-in-python">DataCamp – Cleaning Data (requires subscription)</a> <strong>and</strong> <br/> <a href="https://youtu.be/TXiKPcbHmO8?si=-bfKgHWEI0_AO0r5">Data Cleaning Arabic</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>🔣 <strong>RegEx</strong> — Text pattern matching</td>
+      <td><a href="https://app.datacamp.com/learn/courses/regular-expressions-in-python">DataCamp – Regular Expressions (requires subscription)</a> <strong>or</strong> <br/> <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Osama Elzero – RegEx Arabic</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>📊 <strong>Matplotlib</strong> — Visualization</td>
+      <td><a href="https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_">Corey Schafer – Matplotlib</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>🌊 <strong>Seaborn</strong> — Visualization</td>
+      <td><a href="https://youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&si=iDQ4aY7QZwuIPtPP">Kimberly Fessel - Seaborn</a> <strong>or</strong> <br/> <a href="https://www.youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j">Corey Schafer – Seaborn</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>📈 <strong>EDA</strong> — Exploratory Data Analysis</td>
+      <td><a href="https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python">DataCamp – EDA (requires subscription)</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+<h2 id="intermediate-level">🔵 Intermediate Level</h2>
+<blockquote>🕸️ <strong>Goal:</strong> Get hands-on with data extraction and querying.</blockquote>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>🗓️ Week</th>
+      <th>🧠 Topic</th>
+      <th>📚 Key Resource</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><strong>🕷 Web Scraping</strong> — Extract structured data from websites</td>
+      <td><a href="https://app.datacamp.com/learn/courses/introduction-to-web-scraping-with-python">DataCamp – Web Scraping</a> / <a href="https://beautiful-soup-4.readthedocs.io/en/latest/">BeautifulSoup Docs</a> <strong>or</strong> <br/> <a href="https://youtu.be/q0ert5YP968?si=xV0tlimToAUijocI">Codezilla - Web Scraping w/ beautiful soup</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><strong>🗂 SQL</strong> — Query databases and analyze data</td>
+      <td><a href="https://www.udacity.com/course/sql-for-data-analysis--ud198">Udacity – SQL for Data Analysis</a> / <a href="https://mode.com/sql-tutorial/">Mode Analytics – SQL Tutorial</a> <strong>or</strong> <br/> <a href="https://youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe&si=Vp-W4j0QG5uRkzwE">Data with Baraa - SQL (1 to 29)</a> / <a href="https://datawithbaraa.substack.com">Videos Material</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 ---
 
-## 🧠 Intermediate Machine Learning
+<h2 id="advanced-data-analysis">🧭 Advanced Data Analysis</h2>
+<blockquote>🧰 <strong>Goal:</strong> Build a solid foundation in data analysis step by step.</blockquote>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>🗓️ Phase</th>
+      <th>🧠 Topic</th>
+      <th>📚 Key Resource</th>
+      <th>📝 Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><strong>SQL Basics &amp; Data Analysis With Sql</strong></td>
+      <td><a href="https://www.youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_">iti Course SQL Server</a> Or <a href="https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql">DatacamP_Associate Data Analyst in SQL</a></td>
+      <td>♦ Introduction to SQL.<br>♦ Joins &amp; Relationships.<br>♦ Aggregations.<br>♦ Subqueries &amp; Filtering.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><strong>Excel Fundamentals</strong></td>
+      <td><a href="https://www.youtube.com/playlist?list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-">Excel Fundamentals</a> And <a href="https://drive.google.com/file/d/1FxGvB-ilJ0mYNCg9u8Rx5BD99M89dMfp/view?usp=sharing">this book</a></td>
+      <td>♦ Formulas &amp; Functions.<br>♦ Formatting &amp; Visualization.<br>♦Sorting &amp; Filtering.</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td><strong>Data Analysis with Excel</strong></td>
+      <td>if you need to understand process==&gt;<a href="https://www.youtube.com/playlist?list=PLXlHqMRg9lAbetpJy3ePXsN0sj9Zs-pvT">excel for data analysis</a><br> if you need detailed explanation==&gt;<a href="https://www.youtube.com/watch?v=oyJDaaCrWQ8&list=PL5NlUYOM2iOioKHGTJKFkykyp1oudj4HC">Power Query</a> And <a href="https://www.youtube.com/watch?v=PScGRK9AQeA&list=PL5NlUYOM2iOgpYyGRs-m33ifHRwbB8MTV">Power Pivot &amp; DAX</a></td>
+      <td>♦ Data Cleaning With Power Query.<br>♦Pivot Tables &amp; DAX &amp; Data Modeling.<br>♦Charts &amp; Dashboards</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td><strong>Power BI</strong></td>
+      <td><a href="https://www.youtube.com/playlist?list=PL69umUTzySPGWMxnmhX9SV5PIEbdnHv63">Zanoon Lab</a> Or <a href="https://www.youtube.com/playlist?list=PL-qR2lCbzf-qKcSx6v7IVz30G5A711xKA">Fouad Zawadi</a> Or <a href="https://www.youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw">Munthir Saffan</a></td>
+      <td>♦ Import Data from diffrent resourses<br>♦ Data Cleaning.<br>♦Dashboard &amp; Storytelling With Data.</td>
+    </tr>
+  </tbody>
+</table>
+<blockquote><strong>Projects:</strong> Don't understand to apply project after each phase</blockquote>
+</div>
 
-> In this stage, you will build the mathematical and algorithmic foundation for Machine Learning — mastering Linear Algebra, Calculus, and key ML algorithms.
+
 
 ---
 
-### ⚙️ Phase 1: Mathematical Foundations
 
+<h2 id="intermediate-machine-learning">🧠 Intermediate Machine Learning</h2>
+<blockquote>In this stage, you will build the mathematical and algorithmic foundation for Machine Learning — mastering Linear Algebra, Calculus, and key ML algorithms.</blockquote>
+
+
+
+<h3>⚙️ Phase 1: Mathematical Foundations</h3>
 <div>
-
-| 🗓️ Phase | 🧠 Topic                  | 📚 Key Resources                                                                                                                                                                                                                                                                          | 📝 Notes                                                                                                                                                                  |
-| :-------: | :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|    week 1       | **Linear Algebra**        | <h3>Base Resources</h3> ➜ [Master Linear Algebra - Dr. Hatem Elattar](https://youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ&si=XeEifgHiFlXAF5ca)<br><br><h3>Alternative Resources</h3> ➜ [Linear Algebra - 3Blue1Brown](https://www.3blue1brown.com/topics/linear-algebra) | ♦ Learn vectors, matrices, and matrix operations.<br>♦ Understand eigenvalues/eigenvectors for PCA and dimensionality reduction.                                          |
-|     Weeks 2 - 3      | **Multivariate Calculus** | <h3>Base Resources</h3> ➜ [Master Calculus - Dr. Hatem Elattar](https://www.youtube.com/watch?v=LhGDFf411jE&list=PLJM7jJIw2GC1QOEq2RoIXSu08dT037xXb)<br><br><h3>Alternative Resources</h3> ➜ [Calculus - 3Blue1Brown](https://www.3blue1brown.com/topics/calculus)                        | ♦ Learn gradients, partial derivatives, and the chain rule.<br>♦ Understand optimization via gradient descent.<br>♦ See how calculus drives training and backpropagation. |
-
+<table>
+  <thead>
+    <tr>
+      <th>🗓️ Phase</th>
+      <th>🧠 Topic</th>
+      <th>📚 Key Resources</th>
+      <th>📝 Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>week 1</td>
+      <td><strong>Linear Algebra</strong></td>
+      <td><h3>Base Resources</h3> ➜ <a href="https://youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ&si=XeEifgHiFlXAF5ca">Master Linear Algebra - Dr. Hatem Elattar</a><br><br><h3>Alternative Resources</h3> ➜ <a href="https://www.3blue1brown.com/topics/linear-algebra">Linear Algebra - 3Blue1Brown</a></td>
+      <td>♦ Learn vectors, matrices, and matrix operations.<br>♦ Understand eigenvalues/eigenvectors for PCA and dimensionality reduction.</td>
+    </tr>
+    <tr>
+      <td>Weeks 2 - 3</td>
+      <td><strong>Multivariate Calculus</strong></td>
+      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/watch?v=LhGDFf411jE&list=PLJM7jJIw2GC1QOEq2RoIXSu08dT037xXb">Master Calculus - Dr. Hatem Elattar</a><br><br><h3>Alternative Resources</h3> ➜ <a href="https://www.3blue1brown.com/topics/calculus">Calculus - 3Blue1Brown</a></td>
+      <td>♦ Learn gradients, partial derivatives, and the chain rule.<br>♦ Understand optimization via gradient descent.<br>♦ See how calculus drives training and backpropagation.</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
----
 
-> You’ve built the **mathematical intuition** behind how ML algorithms learn — understanding how linear algebra powers model representation and how calculus drives optimization.<br>
-> Now you’re ready to apply these foundations to real **machine learning algorithms and models**.
+<blockquote>You’ve built the <strong>mathematical intuition</strong> behind how ML algorithms learn — understanding how linear algebra powers model representation and how calculus drives optimization.<br>
+Now you’re ready to apply these foundations to real <strong>machine learning algorithms and models</strong>.</blockquote>
 
----
 
-### 🤖 Phase 2: Machine Learning Algorithms
 
+<h3>🤖 Phase 2: Machine Learning Algorithms</h3>
 <div>
-
-| 🗓️ Phase | 🧠 Topic                                         | 📚 Key Resources                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 📝 Notes                                                                                                                                                                                                                                      |
-| :-------: | :----------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     Weeks 3 - 9      | **Supervised Learning**                          | <h3>Base Resources</h3> ➜ [Supervised Machine Learning - Andrew Ng](https://www.youtube.com/watch?v=ZkHCcvjXjb4&list=PLYgoNb4RaVpVBf8EXw8Eca7eko9Xc4dJh) — *Perfect for understanding core supervised algorithms and evaluation metrics.*<br>➜ *[Hands-On Machine Learning](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)* (Ch 1–2–3–4–5–6) — *Practical coding approach using Scikit-Learn with real-world datasets.*<br><br><h3>Alternative Resources</h3> ➜ [Machine Learning Full Course - Ahmed Ibrahim](https://www.youtube.com/playlist?list=PLyhJeMedQd9QLVWS-hQtfQvlTuJLQVt6v)<br>➜ [Machine Learning Course - Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABapMXzdpFXBScfZerZygcrz) | ♦ Master regression and classification basics (Linear, Logistic, SVM, Trees).<br>♦ Learn evaluation metrics like accuracy and F1-score.<br>♦ Understand bias–variance tradeoff.                                                               |
-|      Weeks 9 - 12     | **Unsupervised Learning**                        | <h3>Base Resources</h3> ➜ [Unsupervised Learning - Andrew Ng](https://www.youtube.com/playlist?list=PLTX7gaScRvTkd86Nv0LptVrMSto3J8Rt9) — *Explains clustering and dimensionality reduction with strong intuition.*<br>➜ *[Hands-On Machine Learning](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)* (Ch 8–9) — *Teaches practical implementation of PCA and clustering algorithms.*<br><br><h3>Alternative Resources</h3> ➜ [Machine Learning Full Course - Ahmed Ibrahim](https://www.youtube.com/playlist?list=PLyhJeMedQd9QLVWS-hQtfQvlTuJLQVt6v)<br>➜ [Machine Learning Course - Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABapMXzdpFXBScfZerZygcrz)                                   | ♦ Explore clustering (K-Means, DBSCAN) and dimensionality reduction (PCA).<br>♦ Learn to interpret patterns without labels.                                                                                                                   |
-|     Weeks 12 - 15      | **Ensemble Learning / Intro to Neural Networks** | <h3>Base Resources</h3> ➜ [Advanced Learning Algorithms - Andrew Ng](https://www.youtube.com/watch?v=ggWLvh484hs&list=PLyoNSC4BT4eVpykPF0Yx8C1Zs50XtD17L) — *Covers ensemble models and introduces neural network fundamentals.*<br>➜ *[Hands-On Machine Learning](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)* (Ch 7–10) — *Guides you through building ensembles and basic neural nets with TensorFlow.*<br><br><h3>Alternative Resources</h3> ➜ [Machine Learning Full Course - Ahmed Ibrahim](https://www.youtube.com/playlist?list=PLyhJeMedQd9QLVWS-hQtfQvlTuJLQVt6v)<br>➜ [Machine Learning Course - Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABapMXzdpFXBScfZerZygcrz)           | ♦ Learn Random Forest, XGBoost, and stacking methods.<br>♦ Understand how combining models improves accuracy and stability.<br>♦ Learn perceptrons, activations, and forward/backpropagation.<br>♦ Build a small NN in PyTorch or TensorFlow. |
-|      Weeks 15 - 16     | **APIs & Deployment**                            | ➜ [FastAPI for Machine Learning](https://youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ&si=-fmzCFyvKWTZnhpt)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | ♦ Serve models with FastAPI.<br>♦ Save/load models using joblib or pickle.<br>♦ Try Docker for simple deployment.                                                                                                                             |
-|      Weeks 16 - 17     | **Projects & Portfolio**                         | *Kaggle Competitions*, *GitHub Portfolio*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | ♦ Apply ML algorithms on real datasets.<br>♦ Showcase 3–5 projects (classification, regression, clustering).<br>♦ Share clean, documented notebooks on GitHub.                                                                                |
-
+<table>
+  <thead>
+    <tr>
+      <th>🗓️ Phase</th>
+      <th>🧠 Topic</th>
+      <th>📚 Key Resources</th>
+      <th>📝 Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Weeks 3 - 9</td>
+      <td><strong>Supervised Learning</strong></td>
+      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/watch?v=ZkHCcvjXjb4&list=PLYgoNb4RaVpVBf8EXw8Eca7eko9Xc4dJh">Supervised Machine Learning - Andrew Ng</a> — <em>Perfect for understanding core supervised algorithms and evaluation metrics.</em><br>➜ <em><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a></em> (Ch 1–2–3–4–5–6) — <em>Practical coding approach using Scikit-Learn with real-world datasets.</em><br><br><h3>Alternative Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLyhJeMedQd9QLVWS-hQtfQvlTuJLQVt6v">Machine Learning Full Course - Ahmed Ibrahim</a><br>➜ <a href="https://www.youtube.com/playlist?list=PLPBnj6azlABapMXzdpFXBScfZerZygcrz">Machine Learning Course - Ahmed Yousry</a></td>
+      <td>♦ Master regression and classification basics (Linear, Logistic, SVM, Trees).<br>♦ Learn evaluation metrics like accuracy and F1-score.<br>♦ Understand bias–variance tradeoff.</td>
+    </tr>
+    <tr>
+      <td>Weeks 9 - 12</td>
+      <td><strong>Unsupervised Learning</strong></td>
+      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLTX7gaScRvTkd86Nv0LptVrMSto3J8Rt9">Unsupervised Learning - Andrew Ng</a> — <em>Explains clustering and dimensionality reduction with strong intuition.</em><br>➜ <em><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a></em> (Ch 8–9) — <em>Teaches practical implementation of PCA and clustering algorithms.</em><br><br><h3>Alternative Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLyhJeMedQd9QLVWS-hQtfQvlTuJLQVt6v">Machine Learning Full Course - Ahmed Ibrahim</a><br>➜ <a href="https://www.youtube.com/playlist?list=PLPBnj6azlABapMXzdpFXBScfZerZygcrz">Machine Learning Course - Ahmed Yousry</a></td>
+      <td>♦ Explore clustering (K-Means, DBSCAN) and dimensionality reduction (PCA).<br>♦ Learn to interpret patterns without labels.</td>
+    </tr>
+    <tr>
+      <td>Weeks 12 - 15</td>
+      <td><strong>Ensemble Learning / Intro to Neural Networks</strong></td>
+      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/watch?v=ggWLvh484hs&list=PLyoNSC4BT4eVpykPF0Yx8C1Zs50XtD17L">Advanced Learning Algorithms - Andrew Ng</a> — <em>Covers ensemble models and introduces neural network fundamentals.</em><br>➜ <em><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a></em> (Ch 7–10) — <em>Guides you through building ensembles and basic neural nets with TensorFlow.</em><br><br><h3>Alternative Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLyhJeMedQd9QLVWS-hQtfQvlTuJLQVt6v">Machine Learning Full Course - Ahmed Ibrahim</a><br>➜ <a href="https://www.youtube.com/playlist?list=PLPBnj6azlABapMXzdpFXBScfZerZygcrz">Machine Learning Course - Ahmed Yousry</a></td>
+      <td>♦ Learn Random Forest, XGBoost, and stacking methods.<br>♦ Understand how combining models improves accuracy and stability.<br>♦ Learn perceptrons, activations, and forward/backpropagation.<br>♦ Build a small NN in PyTorch or TensorFlow.</td>
+    </tr>
+    <tr>
+      <td>Weeks 15 - 16</td>
+      <td><strong>APIs & Deployment</strong></td>
+      <td>➜ <a href="https://youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ&si=-fmzCFyvKWTZnhpt">FastAPI for Machine Learning</a></td>
+      <td>♦ Serve models with FastAPI.<br>♦ Save/load models using joblib or pickle.<br>♦ Try Docker for simple deployment.</td>
+    </tr>
+    <tr>
+      <td>Weeks 16 - 17</td>
+      <td><strong>Projects & Portfolio</strong></td>
+      <td><em>Kaggle Competitions</em>, <em>GitHub Portfolio</em></td>
+      <td>♦ Apply ML algorithms on real datasets.<br>♦ Showcase 3–5 projects (classification, regression, clustering).<br>♦ Share clean, documented notebooks on GitHub.</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 ---
 
-## 🧠 Advanced Deep Learning
+<h2 id="advanced-deep-learning">🧠 Advanced Deep Learning</h2>
 
 > In this stage, you will enter the Deep Learning and Generative AI world.  
 > You’ll start by mastering neural networks and essential architectures — then move into transformers, GANs, and MLOps.
 
 ---
 
-### ⚙️ **Phase 1: Core Deep Learning**
 
-> Build a solid foundation in neural networks and key architectures (ANNs, CNNs, RNNs).  
-> By the end, you’ll understand how deep models learn and generalize.
-
+<h3>⚙️ Phase 1: Core Deep Learning</h3>
+<blockquote>Build a solid foundation in neural networks and key architectures (ANNs, CNNs, RNNs).<br>By the end, you’ll understand how deep models learn and generalize.</blockquote>
 <div>
-  
-| 🗓️ Phase | 🧠 Topic                                        | 📚 Key Resource                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 📝 Notes                                                                                                                                  |
-| :-------: | :---------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-|   Week 1    | **Learn PyTorch (Torch)**                       | <h3>Base Resources</h3> ➜ [Intro to PyTorch - Arabic](https://youtube.com/playlist?list=PLhBhgortqAcjERnXJE1SqmKvL7UFw7xCp&si=bg4T4BBQowP3gIFg) — A beginner-friendly Arabic series covering tensors, autograd, and neural network basics using PyTorch.<br><h3>Alternative Resources</h3> ➜ [PyTorch Full Course (25 Hours)](https://www.youtube.com/watch?v=V_xro1bcAuA&t=11s) — Comprehensive PyTorch masterclass covering fundamentals to advanced applications including computer vision.<br>➜ [PyTorch in 6 Hours](https://www.youtube.com/watch?v=E0bwEAWmVEM&t=5487s) — Fast-paced hands-on course teaching PyTorch concepts through practical examples.<br>➜ [Deep Learning with PyTorch (Playlist)](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) | ♦ Practice tensors, autograd, and DataLoaders.<br>♦ Build simple ANNs and CNNs from scratch.<br>♦ Focus on flexibility and debugging.     |
-|  Weeks 1 - 2  | **Learn TensorFlow (TF)**                       | <h3>Base Resources</h3> ➜ [Intro to TensorFlow - Arabic](https://www.youtube.com/playlist?list=PLBPdtL8DZBZIjUFs0ZynreJMopJN3dS30) — Arabic guide to TensorFlow & Keras, focusing on building, training, and deploying deep learning models.<br>➜ [Keras with TensorFlow Course](https://www.youtube.com/watch?v=qFJeN9V1ZsI) — Full beginner-friendly deep learning course covering Keras and TensorFlow from basics to practical model building.                                                                                                                                                                                                                                                                                                                                                                                                                            | ♦ Explore TensorFlow & Keras APIs.<br>♦ Recreate models built in PyTorch.<br>♦ Learn model saving and serving basics.                     |
-|  Weeks  2 - 4   | **Artificial & Deep Neural Networks (ANN/DNN)** | <h3>Base Resources</h3> ➜ [Artificial Neural Networks – Andrew Ng](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0) — Core concepts of neural networks and backpropagation.<br>➜ [Deep Neural Networks – Andrew Ng](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc) — Advanced optimization and architecture tuning.<br>➜ *[Hands-On Machine Learning](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)* (Ch 10–12) — Implementation-focused chapters on building and training deep networks.<br><h3>Alternative Resources</h3> ➜ [From Theory to Practice](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) — Practical coding applications of deep learning models.                                                                                                                                                                                | ♦ Train multi-layer perceptrons.<br>♦ Study optimizers (SGD, Adam) and regularization (dropout, batch norm).                              |
-|      Weeks  4 - 6     | **Convolutional Neural Networks (CNNs)**        | <h3>Base Resources</h3> ➜ [Convolutional Neural Networks – Andrew Ng](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF) — Foundations of CNNs for computer vision tasks.<br>➜ *[Hands-On Machine Learning](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)* (Ch 13–14) — Step-by-step guide to building CNNs and applying transfer learning.<br><h3>Alternative Resources</h3> ➜ [From Theory to Practice](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) — Real-world CNN implementations and experiments.                                                                                                                                                                                                                                                                                                                                                       | ♦ Learn filters, pooling, and feature extraction.<br>♦ Implement CNNs for image tasks (MNIST, CIFAR-10).<br>♦ Practice transfer learning. |
-|      Weeks  6 - 8     | **Sequence Models (RNNs, LSTMs, GRUs)**         | <h3>Base Resources</h3> ➜ [Sequence Models – Andrew Ng](https://www.youtube.com/watch?v=S7oA5C43Rbc) — Covers RNNs, LSTMs, and GRUs for handling sequential data.<br>➜ *[Hands-On Machine Learning](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)* (Ch 15–16) — Practical implementations of sequence models with Keras/TensorFlow.<br><h3>Alternative Resources</h3> ➜ [From Theory to Practice](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) — Hands-on projects for text and time-series data.                                                                                                                                                                                                                                                                                                                                                                                                | ♦ Model sequential data like text or time series.<br>♦ Understand vanishing gradients and gating mechanisms.                              |
-
+<table>
+  <thead>
+    <tr>
+      <th>🗓️ Phase</th>
+      <th>🧠 Topic</th>
+      <th>📚 Key Resource</th>
+      <th>📝 Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Week 1</td>
+      <td><strong>Learn PyTorch (Torch)</strong></td>
+      <td><h3>Base Resources</h3> ➜ <a href="https://youtube.com/playlist?list=PLhBhgortqAcjERnXJE1SqmKvL7UFw7xCp&si=bg4T4BBQowP3gIFg">Intro to PyTorch - Arabic</a> — A beginner-friendly Arabic series covering tensors, autograd, and neural network basics using PyTorch.<br><h3>Alternative Resources</h3> ➜ <a href="https://www.youtube.com/watch?v=V_xro1bcAuA&t=11s">PyTorch Full Course (25 Hours)</a> — Comprehensive PyTorch masterclass covering fundamentals to advanced applications including computer vision.<br>➜ <a href="https://www.youtube.com/watch?v=E0bwEAWmVEM&t=5487s">PyTorch in 6 Hours</a> — Fast-paced hands-on course teaching PyTorch concepts through practical examples.<br>➜ <a href="https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4">Deep Learning with PyTorch (Playlist)</a></td>
+      <td>♦ Practice tensors, autograd, and DataLoaders.<br>♦ Build simple ANNs and CNNs from scratch.<br>♦ Focus on flexibility and debugging.</td>
+    </tr>
+    <tr>
+      <td>Weeks 1 - 2</td>
+      <td><strong>Learn TensorFlow (TF)</strong></td>
+      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLBPdtL8DZBZIjUFs0ZynreJMopJN3dS30">Intro to TensorFlow - Arabic</a> — Arabic guide to TensorFlow & Keras, focusing on building, training, and deploying deep learning models.<br>➜ <a href="https://www.youtube.com/watch?v=qFJeN9V1ZsI">Keras with TensorFlow Course</a> — Full beginner-friendly deep learning course covering Keras and TensorFlow from basics to practical model building.</td>
+      <td>♦ Explore TensorFlow & Keras APIs.<br>♦ Recreate models built in PyTorch.<br>♦ Learn model saving and serving basics.</td>
+    </tr>
+    <tr>
+      <td>Weeks 2 - 4</td>
+      <td><strong>Artificial & Deep Neural Networks (ANN/DNN)</strong></td>
+      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0">Artificial Neural Networks – Andrew Ng</a> — Core concepts of neural networks and backpropagation.<br>➜ <a href="https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc">Deep Neural Networks – Andrew Ng</a> — Advanced optimization and architecture tuning.<br>➜ <em><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a></em> (Ch 10–12) — Implementation-focused chapters on building and training deep networks.<br><h3>Alternative Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO">From Theory to Practice</a> — Practical coding applications of deep learning models.</td>
+      <td>♦ Train multi-layer perceptrons.<br>♦ Study optimizers (SGD, Adam) and regularization (dropout, batch norm).</td>
+    </tr>
+    <tr>
+      <td>Weeks 4 - 6</td>
+      <td><strong>Convolutional Neural Networks (CNNs)</strong></td>
+      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF">Convolutional Neural Networks – Andrew Ng</a> — Foundations of CNNs for computer vision tasks.<br>➜ <em><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a></em> (Ch 13–14) — Step-by-step guide to building CNNs and applying transfer learning.<br><h3>Alternative Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO">From Theory to Practice</a> — Real-world CNN implementations and experiments.</td>
+      <td>♦ Learn filters, pooling, and feature extraction.<br>♦ Implement CNNs for image tasks (MNIST, CIFAR-10).<br>♦ Practice transfer learning.</td>
+    </tr>
+    <tr>
+      <td>Weeks 6 - 8</td>
+      <td><strong>Sequence Models (RNNs, LSTMs, GRUs)</strong></td>
+      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/watch?v=S7oA5C43Rbc">Sequence Models – Andrew Ng</a> — Covers RNNs, LSTMs, and GRUs for handling sequential data.<br>➜ <em><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a></em> (Ch 15–16) — Practical implementations of sequence models with Keras/TensorFlow.<br><h3>Alternative Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO">From Theory to Practice</a> — Hands-on projects for text and time-series data.</td>
+      <td>♦ Model sequential data like text or time series.<br>♦ Understand vanishing gradients and gating mechanisms.</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
----
 
-✅ **By now, you’ve mastered the foundations of Deep Learning** — from ANNs and CNNs to RNNs.  
-You can train, evaluate, and optimize deep models for vision and sequence tasks.
+<blockquote>✅ <strong>By now, you’ve mastered the foundations of Deep Learning</strong> — from ANNs and CNNs to RNNs.<br>
+You can train, evaluate, and optimize deep models for vision and sequence tasks.</blockquote>
 
----
 
-### 🚀 **Phase 2: Transformers & Generative AI**
 
-> Move into modern architectures like Transformers and GANs, and learn how to deploy and manage deep models efficiently.
+<h3>🚀 Phase 2: Transformers & Generative AI</h3>
+<blockquote>Move into modern architectures like Transformers and GANs, and learn how to deploy and manage deep models efficiently.</blockquote>
+<table>
+  <thead>
+    <tr>
+      <th>🗓️ Phase</th>
+      <th>🧠 Topic</th>
+      <th>📚 Key Resources</th>
+      <th>📝 Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Weeks 9–11</strong></td>
+      <td><strong>Transformers, Attention Mechanisms & Tokenization</strong></td>
+      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLoOabVweB2r6i93vGocJq-LeHqcOZaYM7">From RNN to Transformers (Playlist)</a> – step-by-step evolution from RNNs to Transformers.<br>➜ <a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need (Paper)</a> – introduces the Transformer architecture and self-attention concept.<br>➜ <a href="https://www.youtube.com/watch?v=6JGzwI2pNfo">Attention Is All You Need – Abu Bakr</a> – Arabic explanation of the paper and core ideas.<br>➜ <a href="https://www.youtube.com/watch?v=1tgZo2tpK44&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4">Transformers from Scratch</a> – builds a Transformer step by step in Python.<br><h3>Alternative Resources</h3> ➜ <a href="https://www.youtube.com/watch?v=8WBS0dT0h2I">Evolution of the Transformer Architecture (2017–2025)</a> – overview of Transformer</td>
+      <td>♦ Understand <strong>self-attention</strong> and <strong>encoder–decoder</strong> design.<br>♦ Fine-tune models like <strong>BERT</strong>, <strong>GPT</strong>, and <strong>T5</strong> with Hugging Face.</td>
+    </tr>
+    <tr>
+      <td><strong>Weeks 11–13</strong></td>
+      <td><strong>Large Language Models (LLMs)</strong></td>
+      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/watch?v=Lt7KrFMcCis">Fine-tuning LLMs with Unsloth: Complete Guide</a> – full workflow for fine-tuning large models efficiently.<br>➜ <a href="https://www.youtube.com/watch?v=t1caDsMzWBk">LoRA & QLoRA Fine-tuning Explained In-Depth</a> – deep dive into parameter-efficient fine-tuning methods.<br>➜ <a href="https://www.youtube.com/playlist?list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0">Large Language Models (LLMs) Playlist</a> – covers the theory, structure, and scaling of LLMs.<br>➜ <a href="https://cme295.stanford.edu/syllabus/">Transformer & LLMs – Stanford CME295</a> – advanced Stanford course on Transformers and LLMs.</td>
+      <td>♦ Learn <strong>fine-tuning</strong>, <strong>LoRA/QLoRA</strong>, and <strong>tokenization</strong> concepts.<br>♦ Understand <strong>scaling laws</strong>, <strong>architecture evolution</strong>, and <strong>prompt-based learning</strong>.</td>
+    </tr>
+    <tr>
+      <td><strong>Weeks 13–15</strong></td>
+      <td><strong>Practical: Transformers & LLMs Implementation</strong></td>
+      <td><h3>Base Resources</h3> ➜ <a href="https://machinelearningmastery.com/building-transformer-models-from-scratch-with-pytorch-10-day-mini-course/">Building Transformer Models from Scratch (Mini-Course)</a> – implement Transformers layer by layer in PyTorch.<br>➜ <a href="https://www.youtube.com/watch?v=zduSFxRajkE">Let's Build the GPT Tokenizer</a> – code your own GPT-style tokenizer from scratch.<br>➜ <a href="https://www.youtube.com/watch?v=S9VHQhC3HPc">LLMs Fine-Tuning تطبيق عملي على ال</a> – Arabic hands-on fine-tuning tutorial for LLMs.</td>
+      <td>♦ Implement <strong>Transformers</strong> and <strong>tokenizers</strong> manually.<br>♦ Perform hands-on <strong>LLM fine-tuning</strong>.<br>♦ Understand end-to-end pipeline from data to deployment.</td>
+    </tr>
+    <tr>
+      <td><strong>Weeks 15–17</strong></td>
+      <td><strong>Generative Adversarial Networks (GANs)</strong></td>
+      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va">GANs Full Playlist</a> – detailed guide from basics to advanced GAN types.<br>➜ <a href="https://www.youtube.com/watch?v=QpR4QEv5Urk">Image Generation Using GANs</a> – demonstrates image creation using DCGAN in PyTorch.</td>
+      <td>♦ Build <strong>GANs</strong> with PyTorch.<br>♦ Experiment with <strong>DCGAN</strong> and <strong>StyleGAN</strong>.<br>♦ Understand <strong>mode collapse</strong> and <strong>training stability</strong>.</td>
+    </tr>
+    <tr>
+      <td><strong>Weeks 17–19</strong></td>
+      <td><strong>Deep Learning Projects & Portfolio</strong></td>
+      <td><em>Kaggle DL Competitions</em>, <em>GitHub Portfolio</em></td>
+      <td>♦ Build <strong>3–4 projects</strong> (Vision, NLP, Generative).<br>♦ Use both <strong>PyTorch</strong> and <strong>TensorFlow</strong>.<br>♦ Deploy <strong>at least one model publicly</strong>.</td>
+    </tr>
+  </tbody>
+</table>
 
-|    🗓️ Phase    | 🧠 Topic                                              | 📚 Key Resources                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 📝 Notes                                                                                                                                                             |
-| :-------------: | :---------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  **Weeks 9–11** | **Transformers, Attention Mechanisms & Tokenization** | <h3>Base Resources</h3> ➜ [From RNN to Transformers (Playlist)](https://www.youtube.com/playlist?list=PLoOabVweB2r6i93vGocJq-LeHqcOZaYM7) – step-by-step evolution from RNNs to Transformers.<br>➜ [Attention Is All You Need (Paper)](https://arxiv.org/abs/1706.03762) – introduces the Transformer architecture and self-attention concept.<br>➜ [Attention Is All You Need – Abu Bakr](https://www.youtube.com/watch?v=6JGzwI2pNfo) – Arabic explanation of the paper and core ideas.<br>➜ [Transformers from Scratch](https://www.youtube.com/watch?v=1tgZo2tpK44&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4) – builds a Transformer step by step in Python.<br><br><h3>Alternative Resources</h3> ➜ [Evolution of the Transformer Architecture (2017–2025)](https://www.youtube.com/watch?v=8WBS0dT0h2I) – overview of Transformer         | ♦ Understand **self-attention** and **encoder–decoder** design.<br>♦ Fine-tune models like **BERT**, **GPT**, and **T5** with Hugging Face.                          |
-| **Weeks 11–13** | **Large Language Models (LLMs)**                      | <h3>Base Resources</h3> ➜ [Fine-tuning LLMs with Unsloth: Complete Guide](https://www.youtube.com/watch?v=Lt7KrFMcCis) – full workflow for fine-tuning large models efficiently.<br>➜ [LoRA & QLoRA Fine-tuning Explained In-Depth](https://www.youtube.com/watch?v=t1caDsMzWBk) – deep dive into parameter-efficient fine-tuning methods.<br>➜ [Large Language Models (LLMs) Playlist](https://www.youtube.com/playlist?list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0) – covers the theory, structure, and scaling of LLMs.<br>➜ [Transformer & LLMs – Stanford CME295](https://cme295.stanford.edu/syllabus/) – advanced Stanford course on Transformers and LLMs.| ♦ Learn **fine-tuning**, **LoRA/QLoRA**, and **tokenization** concepts.<br>♦ Understand **scaling laws**, **architecture evolution**, and **prompt-based learning**. |
-| **Weeks 13–15** | **Practical: Transformers & LLMs Implementation**     | <h3>Base Resources</h3> ➜ [Building Transformer Models from Scratch (Mini-Course)](https://machinelearningmastery.com/building-transformer-models-from-scratch-with-pytorch-10-day-mini-course/) – implement Transformers layer by layer in PyTorch.<br>➜ [Let's Build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE) – code your own GPT-style tokenizer from scratch.<br>➜ [LLMs Fine-Tuning تطبيق عملي على ال](https://www.youtube.com/watch?v=S9VHQhC3HPc) – Arabic hands-on fine-tuning tutorial for LLMs.| ♦ Implement **Transformers** and **tokenizers** manually.<br>♦ Perform hands-on **LLM fine-tuning**.<br>♦ Understand end-to-end pipeline from data to deployment.    |
-| **Weeks 15–17** | **Generative Adversarial Networks (GANs)**            | <h3>Base Resources</h3> ➜ [GANs Full Playlist](https://www.youtube.com/playlist?list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va) – detailed guide from basics to advanced GAN types.<br>➜ [Image Generation Using GANs](https://www.youtube.com/watch?v=QpR4QEv5Urk) – demonstrates image creation using DCGAN in PyTorch.| ♦ Build **GANs** with PyTorch.<br>♦ Experiment with **DCGAN** and **StyleGAN**.<br>♦ Understand **mode collapse** and **training stability**.                        |
-| **Weeks 17–19** | **Deep Learning Projects & Portfolio**                | *Kaggle DL Competitions*, *GitHub Portfolio*  | ♦ Build **3–4 projects** (Vision, NLP, Generative).<br>♦ Use both **PyTorch** and **TensorFlow**.<br>♦ Deploy **at least one model publicly**.                       |
-
----
 
 <p align="center">
-  🌟 Designed & Maintained with ❤️ by the <b>CIS Data Science Circle</b>
+  🌟 Designed &amp; Maintained with ❤️ by the <strong>CIS AI / Data Science Circle</strong><br>
+  <br>
+  • <strong>CIS Data Science Circle Mentor</strong> <a href="https://github.com/ahmedothman-22">@Ahmed Osman</a>
+  • <strong>AI Mentor</strong> <a href="https://github.com/abdullahfayed6">@Abdullah Fayed</a>
+  • <strong>AI Supervisor</strong>  <a href="https://github.com/ahmedayman2005">@Ahmed Ayman</a>
+  • <strong>DS Basics Mentor</strong> <a href="https://github.com/Rahma-Hosam">@Rahma Hosam</a>
+  • <strong>Data Analysis Mentor</strong> <a href="https://github.com/ibrahimreda114">@Ibrahim Reda</a>
 </p>
