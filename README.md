@@ -312,12 +312,14 @@ This roadmap is divided into clear stages — each one represents a step in your
     <tr>
       <td>Week 1</td>
       <td><strong>Linear Algebra</strong></td>
-      <td>
+      <td align="left">
+        <h4>🚀 Base Resources</h4>
         <ul>
-          <h3>🚀 Base Resources</h3>
-          <li><a href="https://youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ&si=XeEifgHiFlXAF5ca"></a></li>
-          <h3>💡 Alternative Resources</h3>
-          <li><a href="https://www.3blue1brown.com/topics/linear-algebra"></li>
+          <li><a href="https://youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ&si=XeEifgHiFlXAF5ca">Master Linear Algebra — Dr. Hatem Elattar (YouTube)</a></li>
+        </ul>
+        <h4>💡 Alternative Resources</h4>
+        <ul>
+          <li><a href="https://www.3blue1brown.com/topics/linear-algebra">Linear Algebra — 3Blue1Brown</a></li>
         </ul>
       </td>
       <td>♦ Learn vectors, matrices, and matrix operations.<br>♦ Understand eigenvalues/eigenvectors for PCA and dimensionality reduction.</td>
@@ -325,17 +327,18 @@ This roadmap is divided into clear stages — each one represents a step in your
     <tr>
       <td>Weeks 2 – 3</td>
       <td><strong>Multivariate Calculus</strong></td>
-      <td>
+      <td align="left">
+        <h4>🚀 Base Resources</h4>
         <ul>
-          <h3>🚀 Base Resources</h3>
-          <li><a href="https://www.youtube.com/watch?v=LhGDFf411jE&list=PLJM7jJIw2GC1QOEq2RoIXSu08dT037xXb"></li>
-          <h3>💡 Alternative Resources</h3>
-          <li><a href="https://www.3blue1brown.com/topics/calculus"></li>
+          <li><a href="https://www.youtube.com/watch?v=LhGDFf411jE&list=PLJM7jJIw2GC1QOEq2RoIXSu08dT037xXb">Master Calculus — Dr. Hatem Elattar (YouTube)</a></li>
+        </ul>
+        <h4>💡 Alternative Resources</h4>
+        <ul>
+          <li><a href="https://www.3blue1brown.com/topics/calculus">Calculus — 3Blue1Brown</a></li>
         </ul>
       </td>
       <td>♦ Learn gradients, partial derivatives, and the chain rule.<br>♦ Understand optimization via gradient descent.<br>♦ See how calculus drives training and backpropagation.</td>
     </tr>
-
   </tbody>
 </table>
 </div>
