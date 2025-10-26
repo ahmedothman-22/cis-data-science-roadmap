@@ -296,32 +296,46 @@ This roadmap is divided into clear stages — each one represents a step in your
 <h2 id="intermediate-machine-learning">🧠 Intermediate Machine Learning</h2>
 <blockquote>In this stage, you will build the mathematical and algorithmic foundation for Machine Learning — mastering Linear Algebra, Calculus, and key ML algorithms.</blockquote>
 
-
-
 <h3>⚙️ Phase 1: Mathematical Foundations</h3>
-<div>
+
+<div align="center">
 <table>
   <thead>
     <tr>
       <th>🗓️ Phase</th>
       <th>🧠 Topic</th>
       <th>📚 Key Resources</th>
-      <th>📝 Notes</th>
+      <th>🗒️ Note</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>week 1</td>
+      <td>Week 1</td>
       <td><strong>Linear Algebra</strong></td>
-      <td><h3>Base Resources</h3> ➜ <a href="https://youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ&si=XeEifgHiFlXAF5ca">Master Linear Algebra - Dr. Hatem Elattar</a><br><br><h3>Alternative Resources</h3> ➜ <a href="https://www.3blue1brown.com/topics/linear-algebra">Linear Algebra - 3Blue1Brown</a></td>
+      <td>
+        <ul>
+          <h3>🚀 Base Resources</h3>
+          <li><a href="https://youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ&si=XeEifgHiFlXAF5ca">Master Linear Algebra – Dr. Hatem Elattar</a> — YouTube playlist</li>
+          <h3>💡 Alternative Resources</h3>
+          <li><a href="https://www.3blue1brown.com/topics/linear-algebra">Linear Algebra – 3Blue1Brown</a> — Visual explanation series</li>
+        </ul>
+      </td>
       <td>♦ Learn vectors, matrices, and matrix operations.<br>♦ Understand eigenvalues/eigenvectors for PCA and dimensionality reduction.</td>
     </tr>
     <tr>
-      <td>Weeks 2 - 3</td>
+      <td>Weeks 2 – 3</td>
       <td><strong>Multivariate Calculus</strong></td>
-      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/watch?v=LhGDFf411jE&list=PLJM7jJIw2GC1QOEq2RoIXSu08dT037xXb">Master Calculus - Dr. Hatem Elattar</a><br><br><h3>Alternative Resources</h3> ➜ <a href="https://www.3blue1brown.com/topics/calculus">Calculus - 3Blue1Brown</a></td>
+      <td>
+        <ul>
+          <h3>🚀 Base Resources</h3>
+          <li><a href="https://www.youtube.com/watch?v=LhGDFf411jE&list=PLJM7jJIw2GC1QOEq2RoIXSu08dT037xXb">Master Calculus – Dr. Hatem Elattar</a> — YouTube playlist</li>
+          <h3>💡 Alternative Resources</h3>
+          <li><a href="https://www.3blue1brown.com/topics/calculus">Calculus – 3Blue1Brown</a> — Visual explanation series</li>
+        </ul>
+      </td>
       <td>♦ Learn gradients, partial derivatives, and the chain rule.<br>♦ Understand optimization via gradient descent.<br>♦ See how calculus drives training and backpropagation.</td>
     </tr>
+
   </tbody>
 </table>
 </div>
