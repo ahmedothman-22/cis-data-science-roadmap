@@ -35,7 +35,7 @@ This roadmap is divided into clear stages — each one represents a step in your
 
 
 
-<h2 id="entry-level">🩵 Entry Level — Build the Basics</h2>
+<h2 id="entry-level">🩵 Entry Level</h2>
 
 <blockquote>🧩 <strong>Goal:</strong> Build your foundation — Python, OOP, and Statistics.</blockquote>
 
@@ -149,6 +149,90 @@ This roadmap is divided into clear stages — each one represents a step in your
   </tbody>
 </table>
 </div>
+
+---------
+--------
+------
+<h2 id="beginner-level">💡 Beginner Level</h2>
+<blockquote>🧰 <strong>Goal:</strong> Learn to clean, organize, and visualize your data.</blockquote>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>🗓️ Week</th>
+      <th>🧠 Topic</th>
+      <th>📚 Key Resources</th>
+      <th>🗒️ Note</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>🔢 <strong>NumPy</strong> — Arrays &amp; numerical operations</td>
+      <td>
+        <strong>Base:</strong> <a href="https://youtu.be/GB9ByFAIAH4">NumPy</a><br/>
+        <strong>Alternative:</strong> <a href="https://app.datacamp.com/learn/courses/introduction-to-numpy">DataCamp - NumPy (requires subscription)</a>
+      </td>
+      <td>Understand how to handle numerical data efficiently using arrays.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>🐼 <strong>Pandas</strong> — Data manipulation</td>
+      <td>
+        <strong>Base:</strong> <a href="https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS">Corey Schafer – Pandas</a>
+      </td>
+      <td>Master working with DataFrames and Series.</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>🧹 <strong>Data Cleaning</strong> — Handling missing, invalid, and duplicate data</td>
+      <td>
+        <strong>Base:</strong> <a href="https://app.datacamp.com/learn/courses/cleaning-data-in-python">DataCamp – Cleaning Data (requires subscription)</a><br/>
+        <strong>Alternative:</strong> <a href="https://youtu.be/TXiKPcbHmO8?si=-bfKgHWEI0_AO0r5">Data Cleaning Arabic</a>
+      </td>
+      <td>Learn practical cleaning steps using Pandas.</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>🔣 <strong>RegEx</strong> — Text pattern matching</td>
+      <td>
+        <strong>Base:</strong> <a href="https://app.datacamp.com/learn/courses/regular-expressions-in-python">DataCamp – Regular Expressions (requires subscription)</a><br/>
+        <strong>Alternative:</strong> <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Osama Elzero – RegEx Arabic</a>
+      </td>
+      <td>Understand pattern extraction for text data.</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>📊 <strong>Matplotlib</strong> — Visualization</td>
+      <td>
+        <strong>Base:</strong> <a href="https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_">Corey Schafer – Matplotlib</a>
+      </td>
+      <td>Build basic plots to visualize distributions and relationships.</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>🌊 <strong>Seaborn</strong> — Visualization</td>
+      <td>
+        <strong>Base:</strong> <a href="https://youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&si=iDQ4aY7QZwuIPtPP">Kimberly Fessel - Seaborn</a><br/>
+        <strong>Alternative:</strong> <a href="https://www.youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j">Corey Schafer – Seaborn</a>
+      </td>
+      <td>Enhance data visuals with advanced chart types.</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>📈 <strong>EDA</strong> — Exploratory Data Analysis</td>
+      <td>
+        <strong>Base:</strong> <a href="https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python">DataCamp – EDA (requires subscription)</a>
+      </td>
+      <td>Combine visualization and summary statistics to explore data.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
 
 
 
