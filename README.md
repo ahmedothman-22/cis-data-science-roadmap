@@ -1,6 +1,7 @@
-# 🚀 CIS Data Science & AI Roadmap 2026
-Your practical guide from **beginner** to **AI expert** — built for CIS students.
-
+<div align="center">
+  <h1>🚀 CIS Data Science & AI Roadmap 2026</h1>
+  <p>Your practical guide from <b>beginner</b> to <b>AI expert</b> — built for CIS students.</p>
+</div>
 
 
 ## Overview
