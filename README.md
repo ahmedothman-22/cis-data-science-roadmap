@@ -35,50 +35,58 @@ This roadmap is divided into clear stages — each one represents a step in your
 
 <p align="center">🌱 Start here — your foundation for all upcoming levels.</p>
 
-<div>
+<div align="center">
 <table>
   <thead>
     <tr>
       <th>🗓️ Week</th>
       <th>🧠 Topic</th>
       <th>📚 Key Resources</th>
-      <th>🗒️ Notes</th>
+      <th>🗒️ Note</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>Week 1</strong></td>
+      <td>1</td>
       <td>📊 <strong>Data Literacy</strong><br>🔍 Understanding Data Science</td>
-      <td align="left">
-        <h3>🚀 Base Resources</h3>
-        <li><a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">Introduction to Data Literacy</a> — learn data-driven thinking.</li>
-        <li><a href="https://app.datacamp.com/learn/courses/understanding-data-science">Understanding Data Science</a> — overview of DS roles and workflow.</li>
-        <h3>💡 Alternative Resources</h3>
-        <li><a href="https://www.youtube.com/watch?v=ua-CiDNNj30">What is Data Science?</a> — quick visual explanation.</li>
+      <td>
+        <ul>
+          <h3>🚀 Base Resources</h3>
+          <li><a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">Introduction to Data Literacy</a> — 2-hour course (requires DataCamp subscription)</li>
+          <li><a href="https://app.datacamp.com/learn/courses/understanding-data-science">Understanding Data Science</a> — 2-hour course (requires DataCamp subscription)</li>
+          <h3>💡 Alternative Resources</h3>
+          <li><a href="https://www.youtube.com/watch?v=ua-CiDNNj30">What is Data Science?</a> — quick visual explanation (Free)</li>
+          <li><a href="https://mavenanalytics.io/course/data-literacy-foundations">Maven Analytics | Data Literacy</a> — 2.5-hour course (Free)</li>
+          <li><a href="https://www.youtube.com/watch?v=KxryzSO1Fjs">Simplilearn | Understanding Data Science</a> — 1-hour YouTube video (Free)</li>
+        </ul>
       </td>
       <td>♦ Learn what Data Science is and how it’s used.<br>♦ Understand data roles, tools, and real-life use cases.</td>
     </tr>
     <tr>
-      <td><strong>Week 2</strong></td>
+      <td>2</td>
       <td>📈 <strong>Introduction to Statistics</strong><br>Probability & Distributions</td>
-      <td align="left">
-        <h3>🚀 Base Resources</h3>
-        <li><a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp – Intro to Statistics</a> — structured beginner course.</li>
-        <h3>💡 Alternative Resources</h3>
-        <li><a href="https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW">Descriptive Statistics [YouTube]</a> — essential probability and visualization concepts.</li>
-        <li><a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics 1 [Arabic Series]</a> — clear explanation in Arabic.</li>
+      <td>
+        <ul>
+          <h3>🚀 Base Resources</h3>
+          <li><a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp – Intro to Statistics</a> — structured beginner course (requires subscription)</li>
+          <h3>💡 Alternative Resources</h3>
+          <li><a href="https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW">Descriptive Statistics [YouTube]</a> — probability & visualization concepts</li>
+          <li><a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics 1 [Arabic Series]</a> — clear explanation in Arabic</li>
+        </ul>
       </td>
       <td>♦ Understand mean, median, variance, and distributions.<br>♦ Learn how data behaves and how to describe it.</td>
     </tr>
     <tr>
-      <td><strong>Week 3</strong></td>
+      <td>3</td>
       <td>🐍 <strong>Python & OOP</strong><br>Loops, Functions, and Classes</td>
-      <td align="left">
-        <h3>🚀 Base Resources</h3>
-        <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero – Python</a> — complete beginner to advanced course.</li>
-        <h3>💡 Alternative Resources</h3>
-        <li><a href="https://youtu.be/rfscVS0vtbw">freeCodeCamp – Python Basics</a> — 4-hour crash course.</li>
-        <li><a href="https://youtu.be/Ej_02ICOIgs">freeCodeCamp – Python OOP</a> — focused on object-oriented concepts.</li>
+      <td>
+        <ul>
+          <h3>🚀 Base Resources</h3>
+          <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero – Python</a> — complete beginner to advanced course (Free)</li>
+          <h3>💡 Alternative Resources</h3>
+          <li><a href="https://youtu.be/rfscVS0vtbw">freeCodeCamp – Python Basics</a> — 4-hour crash course (Free)</li>
+          <li><a href="https://youtu.be/Ej_02ICOIgs">freeCodeCamp – Python OOP</a> — focused on object-oriented concepts (Free)</li>
+        </ul>
       </td>
       <td>♦ Write Python scripts and understand loops/functions.<br>♦ Build classes and grasp OOP design principles.</td>
     </tr>
