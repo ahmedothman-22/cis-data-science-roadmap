@@ -315,9 +315,9 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Base Resources</h3>
-          <li><a href="https://youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ&si=XeEifgHiFlXAF5ca">Master Linear Algebra – Dr. Hatem Elattar</a> — YouTube playlist</li>
+          <li><a href="https://youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ&si=XeEifgHiFlXAF5ca"></a></li>
           <h3>💡 Alternative Resources</h3>
-          <li><a href="https://www.3blue1brown.com/topics/linear-algebra">Linear Algebra – 3Blue1Brown</a> — Visual explanation series</li>
+          <li><a href="https://www.3blue1brown.com/topics/linear-algebra"></li>
         </ul>
       </td>
       <td>♦ Learn vectors, matrices, and matrix operations.<br>♦ Understand eigenvalues/eigenvectors for PCA and dimensionality reduction.</td>
@@ -328,9 +328,9 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Base Resources</h3>
-          <li><a href="https://www.youtube.com/watch?v=LhGDFf411jE&list=PLJM7jJIw2GC1QOEq2RoIXSu08dT037xXb">Master Calculus – Dr. Hatem Elattar</a> — YouTube playlist</li>
+          <li><a href="https://www.youtube.com/watch?v=LhGDFf411jE&list=PLJM7jJIw2GC1QOEq2RoIXSu08dT037xXb"></li>
           <h3>💡 Alternative Resources</h3>
-          <li><a href="https://www.3blue1brown.com/topics/calculus">Calculus – 3Blue1Brown</a> — Visual explanation series</li>
+          <li><a href="https://www.3blue1brown.com/topics/calculus"></li>
         </ul>
       </td>
       <td>♦ Learn gradients, partial derivatives, and the chain rule.<br>♦ Understand optimization via gradient descent.<br>♦ See how calculus drives training and backpropagation.</td>
