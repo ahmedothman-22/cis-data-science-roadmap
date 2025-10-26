@@ -108,73 +108,91 @@ This roadmap is divided into clear stages — each one represents a step in your
     <tr>
       <td>1</td>
       <td>🔢 <strong>NumPy</strong> — Arrays &amp; numerical operations</td>
-      <td align="left">
-        <strong>Base Resources:</strong><br/>
-        • <a href="https://youtu.be/GB9ByFAIAH4">NumPy</a><br/><br/>
-        <strong>Alternative Resources:</strong><br/>
-        • <a href="https://app.datacamp.com/learn/courses/introduction-to-numpy">DataCamp - NumPy</a>
+      <td>
+        <ul>
+          <h3>🚀 Base Resources</h3>
+          <li><a href="https://youtu.be/GB9ByFAIAH4">NumPy</a> — 2-hour YouTube video (Free)</li>
+          <h3>💡 Alternative Resources</h3>
+          <li><a href="https://app.datacamp.com/learn/courses/introduction-to-numpy">DataCamp – NumPy</a> (requires subscription)</li>
+        </ul>
       </td>
       <td>Understand how to handle numerical data efficiently using arrays.</td>
     </tr>
     <tr>
       <td>2</td>
       <td>🐼 <strong>Pandas</strong> — Data manipulation</td>
-      <td align="left">
-        <strong>Base Resources:</strong><br/>
-        • <a href="https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS">Corey Schafer – Pandas</a><br/><br/>
-        <strong>Alternative Resources:</strong><br/>
-        • <a href="https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS">Test</a>
+      <td>
+        <ul>
+          <h3>🚀 Base Resources</h3>
+          <li><a href="https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS">Corey Schafer – Pandas</a> — YouTube playlist</li>
+          <h3>💡 Alternative Resources</h3>
+          <li><a href="https://app.datacamp.com/learn/courses/manipulating-dataframes-with-pandas">DataCamp – Pandas</a> (requires subscription)</li>
+        </ul>
       </td>
       <td>Master working with DataFrames and Series.</td>
     </tr>
     <tr>
       <td>3</td>
       <td>🧹 <strong>Data Cleaning</strong> — Handling missing, invalid, and duplicate data</td>
-      <td align="left">
-        <strong>Base Resources:</strong><br/>
-        • <a href="https://app.datacamp.com/learn/courses/cleaning-data-in-python">DataCamp – Cleaning Data</a><br/><br/>
-        <strong>Alternative Resources:</strong><br/>
-        • <a href="https://youtu.be/TXiKPcbHmO8?si=-bfKgHWEI0_AO0r5">Data Cleaning Arabic</a>
+      <td>
+        <ul>
+          <h3>🚀 Base Resources</h3>
+          <li><a href="https://app.datacamp.com/learn/courses/cleaning-data-in-python">DataCamp – Cleaning Data</a> (requires subscription)</li>
+          <h3>💡 Alternative Resources</h3>
+          <li><a href="https://youtu.be/TXiKPcbHmO8?si=-bfKgHWEI0_AO0r5">Data Cleaning Arabic</a> — YouTube video</li>
+        </ul>
       </td>
       <td>Learn practical cleaning steps using Pandas.</td>
     </tr>
     <tr>
       <td>4</td>
       <td>🔣 <strong>RegEx</strong> — Text pattern matching</td>
-      <td align="left">
-        <strong>Base Resources:</strong><br/>
-        • <a href="https://app.datacamp.com/learn/courses/regular-expressions-in-python">DataCamp – Regular Expressions</a><br/><br/>
-        <strong>Alternative Resources:</strong><br/>
-        • <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Osama Elzero – RegEx Arabic</a>
+      <td>
+        <ul>
+          <h3>🚀 Base Resources</h3>
+          <li><a href="https://app.datacamp.com/learn/courses/regular-expressions-in-python">DataCamp – Regular Expressions</a> (requires subscription)</li>
+          <h3>💡 Alternative Resources</h3>
+          <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Osama Elzero – RegEx Arabic</a> — YouTube playlist</li>
+        </ul>
       </td>
       <td>Understand pattern extraction for text data.</td>
     </tr>
     <tr>
       <td>5</td>
       <td>📊 <strong>Matplotlib</strong> — Visualization</td>
-      <td align="left">
-        <strong>Base Resources:</strong><br/>
-        • <a href="https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_">Corey Schafer – Matplotlib</a>
+      <td>
+        <ul>
+          <h3>🚀 Base Resources</h3>
+          <li><a href="https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_">Corey Schafer – Matplotlib</a> — YouTube playlist</li>
+          <h3>💡 Alternative Resources</h3>
+          <li><a href="https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib">DataCamp – Matplotlib</a> (requires subscription)</li>
+        </ul>
       </td>
       <td>Build basic plots to visualize distributions and relationships.</td>
     </tr>
     <tr>
       <td>6</td>
       <td>🌊 <strong>Seaborn</strong> — Visualization</td>
-      <td align="left">
-        <strong>Base Resources:</strong><br/>
-        • <a href="https://youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&si=iDQ4aY7QZwuIPtPP">Kimberly Fessel - Seaborn</a><br/><br/>
-        <strong>Alternative Resources:</strong><br/>
-        • <a href="https://www.youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j">Corey Schafer – Seaborn</a>
+      <td>
+        <ul>
+          <h3>🚀 Base Resources</h3>
+          <li><a href="https://youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&si=iDQ4aY7QZwuIPtPP">Kimberly Fessel – Seaborn</a> — YouTube playlist</li>
+          <h3>💡 Alternative Resources</h3>
+          <li><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS">Corey Schafer – Seaborn</a> — YouTube playlist</li>
+        </ul>
       </td>
       <td>Enhance data visuals with advanced chart types.</td>
     </tr>
     <tr>
       <td>7</td>
       <td>📈 <strong>EDA</strong> — Exploratory Data Analysis</td>
-      <td align="left">
-        <strong>Base Resources:</strong><br/>
-        • <a href="https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python">DataCamp – EDA</a>
+      <td>
+        <ul>
+          <h3>🚀 Base Resources</h3>
+          <li><a href="https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python">DataCamp – EDA</a> (requires subscription)</li>
+          <h3>💡 Alternative Resources</h3>
+          <li><a href="https://www.youtube.com/watch?v=GcXcSZ0gQps">StatQuest – EDA Basics</a> — YouTube video</li>
+        </ul>
       </td>
       <td>Combine visualization and summary statistics to explore data.</td>
     </tr>
