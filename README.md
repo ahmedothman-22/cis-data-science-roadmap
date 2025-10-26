@@ -19,7 +19,6 @@ This roadmap is divided into clear stages — each one represents a step in your
 - [Entry Level](#entry-level)
 - [Beginner Level](#beginner-level)
 - Intermediate Level
-  - [Intermediate Data Analysis](#intermediate-level)
   - [Intermediate Machine Learning](#intermediate-machine-learning)
 - Advanced Level
   - [Advanced Data Analysis](#advanced-data-analysis)
@@ -211,33 +210,6 @@ This roadmap is divided into clear stages — each one represents a step in your
 </div>
 
 
-
-
-<h2 id="intermediate-level">🔵 Intermediate Level</h2>
-<blockquote>🕸️ <strong>Goal:</strong> Get hands-on with data extraction and querying.</blockquote>
-<div align="center">
-<table>
-  <thead>
-    <tr>
-      <th>🗓️ Week</th>
-      <th>🧠 Topic</th>
-      <th>📚 Key Resource</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td><strong>🕷 Web Scraping</strong> — Extract structured data from websites</td>
-      <td><a href="https://app.datacamp.com/learn/courses/introduction-to-web-scraping-with-python">DataCamp – Web Scraping</a> / <a href="https://beautiful-soup-4.readthedocs.io/en/latest/">BeautifulSoup Docs</a> <strong>or</strong> <br/> <a href="https://youtu.be/q0ert5YP968?si=xV0tlimToAUijocI">Codezilla - Web Scraping w/ beautiful soup</a></td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td><strong>🗂 SQL</strong> — Query databases and analyze data</td>
-      <td><a href="https://www.udacity.com/course/sql-for-data-analysis--ud198">Udacity – SQL for Data Analysis</a> / <a href="https://mode.com/sql-tutorial/">Mode Analytics – SQL Tutorial</a> <strong>or</strong> <br/> <a href="https://youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe&si=Vp-W4j0QG5uRkzwE">Data with Baraa - SQL (1 to 29)</a> / <a href="https://datawithbaraa.substack.com">Videos Material</a></td>
-    </tr>
-  </tbody>
-</table>
-</div>
 
 ---
 
