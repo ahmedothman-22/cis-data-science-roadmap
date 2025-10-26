@@ -32,43 +32,10 @@ This roadmap is divided into clear stages — each one represents a step in your
 
 
 
-<h2 id="entry-level">🩵 Entry Level</h2>
-<blockquote>🧩 <strong>Goal:</strong> Build your foundation — Python, OOP, and Statistics.</blockquote>
-<div align="center">
-<table>
-  <thead>
-    <tr>
-      <th>🗓️ Week</th>
-      <th>🧠 Topic</th>
-      <th>📚 Key Resource</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>📊 <strong>Data Literacy</strong> <br/> 🔍 <strong>Understanding Data Science</strong></td>
-      <td><a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">Introduction to Data Literacy (requires subscription)</a> <strong>and</strong> <br/> <a href="https://app.datacamp.com/learn/courses/understanding-data-science">Understanding Data Science (requires subscription)</a></td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>📊 <strong>Introduction to Statistics</strong> <br/> Understand data, probability &amp; distributions</td>
-      <td><a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp – Intro to Statistics (requires subscription)</a> <strong>or</strong> <br/> <a href="https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW">YouTube – Descriptive Statistics Basics</a> <strong>or</strong> <br/> <a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&si=yMkak4k5mx1Y0nu8">Statistics 1</a></td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>🐍 <strong>Python &amp; OOP</strong> <br/> Learn Python basics, loops, and OOP concepts</td>
-      <td><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero – Python</a> <strong>or</strong> <br/> <a href="https://youtu.be/rfscVS0vtbw?si=rh6Ff_j05Dr2MuLu">freeCodeCamp - Python Basics</a> <strong>and</strong> <a href="https://youtu.be/Ej_02ICOIgs?si=b4r1mYGEp5AhbI89">freeCodeCamp - Python OOP</a></td>
-    </tr>
-  </tbody>
-</table>
-</div>
----
-
 
 
 
 <h2 id="entry-level">🩵 Entry Level — Build the Basics</h2>
-<p align="center"><i>Duration: 3 weeks | Focus: Python, OOP, and Statistics</i></p>
 
 <blockquote>🧩 <strong>Goal:</strong> Build your foundation — Python, OOP, and Statistics.</blockquote>
 
@@ -90,8 +57,8 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>📊 <strong>Data Literacy</strong><br/>🔍 Understanding Data Science</td>
       <td align="left">
         <strong>Base Resources:</strong><br/>
-        • <a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">Data Literacy [Paid]</a><br/>
-        • <a href="https://app.datacamp.com/learn/courses/understanding-data-science">Understanding Data Science [Paid]</a><br/><br/>
+        • <a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">Introduction to Data Literacy (requires subscription) </a><br/>
+        • <a href="https://app.datacamp.com/learn/courses/understanding-data-science">Understanding Data Science (requires subscription) </a><br/><br/>
         <strong>Alternative Resources:</strong><br/>
         • <a href="https://www.youtube.com/watch?v=ua-CiDNNj30">What is Data Science? [Free]</a>
       </td>
@@ -102,7 +69,7 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>📈 <strong>Introduction to Statistics</strong><br/>Probability & Distributions</td>
       <td align="left">
         <strong>Base Resources:</strong><br/>
-        • <a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">Intro to Statistics [Paid]</a><br/><br/>
+        • <a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp – Intro to Statistics (requires subscription)</a><br/><br/>
         <strong>Alternative Resources:</strong><br/>
         • <a href="https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW">Descriptive Statistics [Free]</a><br/>
         • <a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics 1 [Free]</a>
