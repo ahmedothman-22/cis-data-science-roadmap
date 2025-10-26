@@ -21,7 +21,7 @@ This roadmap is divided into clear stages — each one represents a step in your
 - [Intermediate Level](#intermediate-level)
 - [Advanced Data Analysis](#advanced-data-analysis)
 - [Intermediate Machine Learning](#intermediate-machine-learning)
-- [🧠 Advanced Deep Learning](#advanced-deep-learning)
+- [Advanced Deep Learning](#advanced-deep-learning)
 
 > 💡 **Tip:** Follow the stages in order, and don’t rush — each step builds the foundation for the next.
 
@@ -62,6 +62,46 @@ This roadmap is divided into clear stages — each one represents a step in your
   </tbody>
 </table>
 </div>
+---
+<h2 id="entry-level">🩵 Entry Level</h2>
+<blockquote>🧩 <strong>Goal:</strong> Master Python, OOP, and basic Statistics to build a solid foundation.</blockquote>
+
+> **Legend:** 💰 = Requires subscription | ⏱ = Estimated duration  
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>🗓️ Week</th>
+      <th>🧠 Topic</th>
+      <th>📚 Key Resource</th>
+      <th>⏱ Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><strong>Data Literacy</strong> & Understanding Data Science</td>
+      <td>[DataCamp – Intro to Data Literacy 💰](https://app.datacamp.com/learn/courses/introduction-to-data-literacy)</td>
+      <td>3 hrs</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><strong>Introduction to Statistics</strong></td>
+      <td>[DataCamp 💰](https://app.datacamp.com/learn/courses/introduction-to-statistics) or [YouTube – Statistics 1](https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR)</td>
+      <td>4 hrs</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td><strong>Python & OOP</strong></td>
+      <td>[Elzero – Python (Arabic)](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) and [freeCodeCamp – OOP](https://youtu.be/Ej_02ICOIgs)</td>
+      <td>5 hrs</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
 
 
 
