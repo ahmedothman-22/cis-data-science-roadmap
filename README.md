@@ -3,14 +3,12 @@
   <p>Your practical guide from <b>beginner</b> to <b>AI expert</b> — built for CIS students.</p>
 </div>
 
-
 ## Overview
 Welcome to the **CIS Data Science & AI Roadmap 2026** — a step-by-step journey made by students, for students.  
 Whether you're just starting or aiming to master advanced AI, this roadmap will help you move confidently through every level — with clear goals, hands-on projects, and curated resources that actually work.  
 Start here, stay consistent, and you’ll be surprised how far you can go.
 
 ---
-
 ## 🗺️ How to Use This Roadmap
 
 This roadmap is divided into clear stages — each one represents a step in your journey to becoming a data scientist or AI practitioner.
@@ -52,10 +50,9 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>📊 <strong>Data Literacy</strong><br>🔍 Understanding Data Science</td>
       <td>
         <ul>
-          <h3>🚀 Base Resources</h3>
+          <h3>🚀 Resources</h3>
           <li><a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">Introduction to Data Literacy</a></li>
           <li><a href="https://app.datacamp.com/learn/courses/understanding-data-science">Understanding Data Science</a> </li>
-          <h3>💡 Alternative Resources</h3>
           <li><a href="https://www.youtube.com/watch?v=ua-CiDNNj30">What is Data Science?</a> — quick visual explanation </li>
           <li><a href="https://mavenanalytics.io/course/data-literacy-foundations">Maven Analytics | Data Literacy</a></li>
           <li><a href="https://www.youtube.com/watch?v=KxryzSO1Fjs">Simplilearn | Understanding Data Science</a> </li>
@@ -68,10 +65,9 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>📈 <strong>Introduction to Statistics</strong><br>Probability & Distributions</td>
       <td>
         <ul>
-          <h3>🚀 Base Resources</h3>
-          <li><a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp – Intro to Statistics</a> — structured beginner course </li>
-          <h3>💡 Alternative Resources</h3>
+          <h3>🚀 Resources</h3>
           <li><a href="https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW">Descriptive Statistics [YouTube]</a> — probability & visualization concepts</li>
+          <li><a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp – Intro to Statistics</a> — structured beginner course </li>
           <li><a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics </a> — clear explanation in Arabic</li>
         </ul>
       </td>
@@ -82,9 +78,8 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>🐍 <strong>Python & OOP</strong><br>Loops, Functions, and Classes</td>
       <td>
         <ul>
-          <h3>🚀 Base Resources</h3>
+          <h3>🚀 Resources</h3>
           <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero – Python</a> — complete beginner to advanced course </li>
-          <h3>💡 Alternative Resources</h3>
           <li><a href="https://youtu.be/rfscVS0vtbw">freeCodeCamp – Python Basics</a>  crash course </li>
           <li><a href="https://youtu.be/Ej_02ICOIgs">freeCodeCamp – Python OOP</a> — focused on object-oriented concepts </li>
         </ul>
@@ -119,9 +114,8 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>🔢 <strong>NumPy</strong> — Arrays &amp; numerical operations</td>
       <td>
         <ul>
-          <h3>🚀 Base Resources</h3>
+          <h3>🚀 Resources</h3>
           <li><a href="https://youtu.be/GB9ByFAIAH4">NumPy</a></li>
-          <h3>💡 Alternative Resources</h3>
           <li><a href="https://app.datacamp.com/learn/courses/introduction-to-numpy">DataCamp – NumPy</a></li>
         </ul>
       </td>
@@ -132,9 +126,8 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>🐼 <strong>Pandas</strong> — Data manipulation</td>
       <td>
         <ul>
-          <h3>🚀 Base Resources</h3>
+          <h3>🚀 Resources</h3>
           <li><a href="https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS">Corey Schafer – Pandas</a> — YouTube playlist</li>
-          <h3>💡 Alternative Resources</h3>
           <li><a href="https://app.datacamp.com/learn/courses/manipulating-dataframes-with-pandas">DataCamp – Pandas</a> </li>
         </ul>
       </td>
@@ -145,9 +138,8 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>🧹 <strong>Data Cleaning</strong> — Handling missing, invalid, and duplicate data</td>
       <td>
         <ul>
-          <h3>🚀 Base Resources</h3>
+          <h3>🚀 Resources</h3>
           <li><a href="https://app.datacamp.com/learn/courses/cleaning-data-in-python">DataCamp – Cleaning Data</a> </li>
-          <h3>💡 Alternative Resources</h3>
           <li><a href="https://youtu.be/TXiKPcbHmO8?si=-bfKgHWEI0_AO0r5">Data Cleaning Arabic</a> </li>
         </ul>
       </td>
@@ -158,9 +150,8 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>🔣 <strong>RegEx</strong> — Text pattern matching</td>
       <td>
         <ul>
-          <h3>🚀 Base Resources</h3>
+          <h3>🚀 Resources</h3>
           <li><a href="https://app.datacamp.com/learn/courses/regular-expressions-in-python">DataCamp – Regular Expressions</a> </li>
-          <h3>💡 Alternative Resources</h3>
           <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Osama Elzero – RegEx Arabic</a> </li>
         </ul>
       </td>
@@ -171,9 +162,8 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>📊 <strong>Matplotlib</strong> — Visualization</td>
       <td>
         <ul>
-          <h3>🚀 Base Resources</h3>
+          <h3>🚀 Resources</h3>
           <li><a href="https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_">Corey Schafer – Matplotlib</a> </li>
-          <h3>💡 Alternative Resources</h3>
           <li><a href="https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib">DataCamp – Matplotlib</a> </li>
         </ul>
       </td>
@@ -184,9 +174,8 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>🌊 <strong>Seaborn</strong> — Visualization</td>
       <td>
         <ul>
-          <h3>🚀 Base Resources</h3>
+          <h3>🚀 Resources</h3>
           <li><a href="https://youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&si=iDQ4aY7QZwuIPtPP">Kimberly Fessel – Seaborn</a></li>
-          <h3>💡 Alternative Resources</h3>
           <li><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS">Corey Schafer – Seaborn</a> </li>
         </ul>
       </td>
@@ -197,9 +186,8 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>📈 <strong>EDA</strong> — Exploratory Data Analysis</td>
       <td>
         <ul>
-          <h3>🚀 Base Resources</h3>
+          <h3>🚀 Resources</h3>
           <li><a href="https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python">DataCamp – EDA</a> </li>
-          <h3>💡 Alternative Resources</h3>
           <li><a href="https://www.youtube.com/watch?v=GcXcSZ0gQps">StatQuest – EDA Basics</a> — YouTube video</li>
         </ul>
       </td>
