@@ -35,52 +35,52 @@ This roadmap is divided into clear stages — each one represents a step in your
 
 <p align="center">🌱 Start here — your foundation for all upcoming levels.</p>
 
-<div align="center">
+<div>
 <table>
   <thead>
     <tr>
       <th>🗓️ Week</th>
       <th>🧠 Topic</th>
       <th>📚 Key Resources</th>
-      <th>🗒️ Note</th>
+      <th>🗒️ Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>1</b></td>
-      <td>📊 <strong>Data Literacy</strong><br/>🔍 Understanding Data Science</td>
+      <td><strong>Week 1</strong></td>
+      <td>📊 <strong>Data Literacy</strong><br>🔍 Understanding Data Science</td>
       <td align="left">
-        <strong>Base Resources:</strong><br/>
-        • <a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">Introduction to Data Literacy</a><br/>
-        • <a href="https://app.datacamp.com/learn/courses/understanding-data-science">Understanding Data Science</a><br/><br/>
-        <strong>Alternative Resources:</strong><br/>
-        • <a href="https://www.youtube.com/watch?v=ua-CiDNNj30">What is Data Science? [Free]</a>
+        <h3>🚀 Base Resources</h3>
+        <li><a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">Introduction to Data Literacy</a> — learn data-driven thinking.</li>
+        <li><a href="https://app.datacamp.com/learn/courses/understanding-data-science">Understanding Data Science</a> — overview of DS roles and workflow.</li>
+        <h3>💡 Alternative Resources</h3>
+        <li><a href="https://www.youtube.com/watch?v=ua-CiDNNj30">What is Data Science?</a> — quick visual explanation.</li>
       </td>
-      <td>Learn what data science is, its workflow, and real-world applications.</td>
+      <td>♦ Learn what Data Science is and how it’s used.<br>♦ Understand data roles, tools, and real-life use cases.</td>
     </tr>
     <tr>
-      <td><b>2</b></td>
-      <td>📈 <strong>Introduction to Statistics</strong><br/>Probability & Distributions</td>
+      <td><strong>Week 2</strong></td>
+      <td>📈 <strong>Introduction to Statistics</strong><br>Probability & Distributions</td>
       <td align="left">
-        <strong>Base Resources:</strong><br/>
-        • <a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp – Intro to Statistics</a><br/><br/>
-        <strong>Alternative Resources:</strong><br/>
-        • <a href="https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW">Descriptive Statistics [Free]</a><br/>
-        • <a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics 1 [Free]</a>
+        <h3>🚀 Base Resources</h3>
+        <li><a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp – Intro to Statistics</a> — structured beginner course.</li>
+        <h3>💡 Alternative Resources</h3>
+        <li><a href="https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW">Descriptive Statistics [YouTube]</a> — essential probability and visualization concepts.</li>
+        <li><a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics 1 [Arabic Series]</a> — clear explanation in Arabic.</li>
       </td>
-      <td>Understand basic statistical terms, data types, and data visualization.</td>
+      <td>♦ Understand mean, median, variance, and distributions.<br>♦ Learn how data behaves and how to describe it.</td>
     </tr>
     <tr>
-      <td><b>3</b></td>
-      <td>🐍 <strong>Python & OOP</strong><br/>Loops, Functions, and Classes</td>
+      <td><strong>Week 3</strong></td>
+      <td>🐍 <strong>Python & OOP</strong><br>Loops, Functions, and Classes</td>
       <td align="left">
-        <strong>Base Resources:</strong><br/>
-        • <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero – Python [Free]</a><br/><br/>
-        <strong>Alternative Resources:</strong><br/>
-        • <a href="https://youtu.be/rfscVS0vtbw">freeCodeCamp – Python Basics [Free]</a><br/>
-        • <a href="https://youtu.be/Ej_02ICOIgs">freeCodeCamp – Python OOP [Free]</a>
+        <h3>🚀 Base Resources</h3>
+        <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero – Python</a> — complete beginner to advanced course.</li>
+        <h3>💡 Alternative Resources</h3>
+        <li><a href="https://youtu.be/rfscVS0vtbw">freeCodeCamp – Python Basics</a> — 4-hour crash course.</li>
+        <li><a href="https://youtu.be/Ej_02ICOIgs">freeCodeCamp – Python OOP</a> — focused on object-oriented concepts.</li>
       </td>
-      <td>Write simple programs in Python and understand OOP fundamentals.</td>
+      <td>♦ Write Python scripts and understand loops/functions.<br>♦ Build classes and grasp OOP design principles.</td>
     </tr>
   </tbody>
 </table>
