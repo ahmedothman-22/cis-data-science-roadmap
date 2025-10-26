@@ -449,54 +449,107 @@ Now you’re ready to apply these foundations to real <strong>machine learning a
 
 <h2 id="advanced-deep-learning">🧠 Advanced Deep Learning</h2>
 
-> In this stage, you will enter the Deep Learning and Generative AI world.  
-> You’ll start by mastering neural networks and essential architectures — then move into transformers, GANs, and MLOps.
+<blockquote>
+In this stage, you will enter the Deep Learning and Generative AI world.<br>
+You’ll start by mastering neural networks and essential architectures — then move into transformers, GANs, and MLOps.
+</blockquote>
 
 ---
 
-
 <h3>⚙️ Phase 1: Core Deep Learning</h3>
 <blockquote>Build a solid foundation in neural networks and key architectures (ANNs, CNNs, RNNs).<br>By the end, you’ll understand how deep models learn and generalize.</blockquote>
+
 <div>
 <table>
   <thead>
     <tr>
       <th>🗓️ Phase</th>
       <th>🧠 Topic</th>
-      <th>📚 Key Resource</th>
-      <th>📝 Notes</th>
+      <th>📚 Key Resources</th>
+      <th>🗒️ Note</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Week 1</td>
       <td><strong>Learn PyTorch (Torch)</strong></td>
-      <td><h3>Base Resources</h3> ➜ <a href="https://youtube.com/playlist?list=PLhBhgortqAcjERnXJE1SqmKvL7UFw7xCp&si=bg4T4BBQowP3gIFg">Intro to PyTorch - Arabic</a> — A beginner-friendly Arabic series covering tensors, autograd, and neural network basics using PyTorch.<br><h3>Alternative Resources</h3> ➜ <a href="https://www.youtube.com/watch?v=V_xro1bcAuA&t=11s">PyTorch Full Course (25 Hours)</a> — Comprehensive PyTorch masterclass covering fundamentals to advanced applications including computer vision.<br>➜ <a href="https://www.youtube.com/watch?v=E0bwEAWmVEM&t=5487s">PyTorch in 6 Hours</a> — Fast-paced hands-on course teaching PyTorch concepts through practical examples.<br>➜ <a href="https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4">Deep Learning with PyTorch (Playlist)</a></td>
-      <td>♦ Practice tensors, autograd, and DataLoaders.<br>♦ Build simple ANNs and CNNs from scratch.<br>♦ Focus on flexibility and debugging.</td>
+      <td>
+        <h3>🚀 Base Resources</h3>
+        <ul>
+          <li><a href="https://youtube.com/playlist?list=PLhBhgortqAcjERnXJE1SqmKvL7UFw7xCp&si=bg4T4BBQowP3gIFg">Intro to PyTorch – Arabic</a> — Beginner-friendly series covering tensors, autograd, and neural network basics.</li>
+        </ul>
+        <h3>💡 Alternative Resources</h3>
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=V_xro1bcAuA&t=11s">PyTorch Full Course (25 Hours)</a> — Comprehensive course covering fundamentals to computer vision.</li>
+          <li><a href="https://www.youtube.com/watch?v=E0bwEAWmVEM&t=5487s">PyTorch in 6 Hours</a> — Fast-paced practical crash course.</li>
+          <li><a href="https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4">Deep Learning with PyTorch (Playlist)</a> — Applied tutorials using PyTorch.</li>
+        </ul>
+      </td>
+      <td>♦ Practice tensors, autograd, and DataLoaders.<br>♦ Build simple ANNs and CNNs from scratch.<br>♦ Focus on debugging and flexibility.</td>
     </tr>
     <tr>
       <td>Weeks 1 - 2</td>
       <td><strong>Learn TensorFlow (TF)</strong></td>
-      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLBPdtL8DZBZIjUFs0ZynreJMopJN3dS30">Intro to TensorFlow - Arabic</a> — Arabic guide to TensorFlow & Keras, focusing on building, training, and deploying deep learning models.<br>➜ <a href="https://www.youtube.com/watch?v=qFJeN9V1ZsI">Keras with TensorFlow Course</a> — Full beginner-friendly deep learning course covering Keras and TensorFlow from basics to practical model building.</td>
+      <td>
+        <h3>🚀 Base Resources</h3>
+        <ul>
+          <li><a href="https://www.youtube.com/playlist?list=PLBPdtL8DZBZIjUFs0ZynreJMopJN3dS30">Intro to TensorFlow – Arabic</a> — Arabic guide to TensorFlow & Keras, focusing on model building and deployment.</li>
+          <li><a href="https://www.youtube.com/watch?v=qFJeN9V1ZsI">Keras with TensorFlow Course</a> — Full beginner-friendly deep learning course.</li>
+        </ul>
+      </td>
       <td>♦ Explore TensorFlow & Keras APIs.<br>♦ Recreate models built in PyTorch.<br>♦ Learn model saving and serving basics.</td>
     </tr>
     <tr>
       <td>Weeks 2 - 4</td>
       <td><strong>Artificial & Deep Neural Networks (ANN/DNN)</strong></td>
-      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0">Artificial Neural Networks – Andrew Ng</a> — Core concepts of neural networks and backpropagation.<br>➜ <a href="https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc">Deep Neural Networks – Andrew Ng</a> — Advanced optimization and architecture tuning.<br>➜ <em><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a></em> (Ch 10–12) — Implementation-focused chapters on building and training deep networks.<br><h3>Alternative Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO">From Theory to Practice</a> — Practical coding applications of deep learning models.</td>
+      <td>
+        <h3>🚀 Base Resources</h3>
+        <ul>
+          <li><a href="https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0">Artificial Neural Networks – Andrew Ng</a> — Core ANN and backpropagation concepts.</li>
+          <li><a href="https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc">Deep Neural Networks – Andrew Ng</a> — Advanced optimization and hyperparameter tuning.</li>
+          <li><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a> (Ch 10–12) — Implementation-focused ANN building with Keras.</li>
+        </ul>
+
+        <h3>💡 Alternative Resources</h3>
+        <ul>
+          <li><a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO">From Theory to Practice</a> — Practical ANN projects and exercises.</li>
+        </ul>
+      </td>
       <td>♦ Train multi-layer perceptrons.<br>♦ Study optimizers (SGD, Adam) and regularization (dropout, batch norm).</td>
     </tr>
     <tr>
       <td>Weeks 4 - 6</td>
       <td><strong>Convolutional Neural Networks (CNNs)</strong></td>
-      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF">Convolutional Neural Networks – Andrew Ng</a> — Foundations of CNNs for computer vision tasks.<br>➜ <em><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a></em> (Ch 13–14) — Step-by-step guide to building CNNs and applying transfer learning.<br><h3>Alternative Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO">From Theory to Practice</a> — Real-world CNN implementations and experiments.</td>
-      <td>♦ Learn filters, pooling, and feature extraction.<br>♦ Implement CNNs for image tasks (MNIST, CIFAR-10).<br>♦ Practice transfer learning.</td>
+      <td>
+        <h3>🚀 Base Resources</h3>
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF">Convolutional Neural Networks – Andrew Ng</a> — CNN foundations and computer vision applications.</li>
+          <li><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a> (Ch 13–14) — Build CNNs and apply transfer learning.</li>
+        </ul>
+
+        <h3>💡 Alternative Resources</h3>
+        <ul>
+          <li><a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO">From Theory to Practice</a> — Real-world CNN projects and implementations.</li>
+        </ul>
+      </td>
+      <td>♦ Learn filters, pooling, and feature extraction.<br>♦ Implement CNNs for MNIST and CIFAR-10.<br>♦ Explore transfer learning.</td>
     </tr>
     <tr>
       <td>Weeks 6 - 8</td>
       <td><strong>Sequence Models (RNNs, LSTMs, GRUs)</strong></td>
-      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/watch?v=S7oA5C43Rbc">Sequence Models – Andrew Ng</a> — Covers RNNs, LSTMs, and GRUs for handling sequential data.<br>➜ <em><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a></em> (Ch 15–16) — Practical implementations of sequence models with Keras/TensorFlow.<br><h3>Alternative Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO">From Theory to Practice</a> — Hands-on projects for text and time-series data.</td>
-      <td>♦ Model sequential data like text or time series.<br>♦ Understand vanishing gradients and gating mechanisms.</td>
+      <td>
+        <h3>🚀 Base Resources</h3>
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=S7oA5C43Rbc">Sequence Models – Andrew Ng</a> — RNNs, LSTMs, and GRUs explained for text/time series.</li>
+          <li><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a> (Ch 15–16) — Implementation of sequence models with Keras/TensorFlow.</li>
+        </ul>
+
+        <h3>💡 Alternative Resources</h3>
+        <ul>
+          <li><a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO">From Theory to Practice</a> — Hands-on projects for text and time-series.</li>
+        </ul>
+      </td>
+      <td>♦ Model sequential data like text or time series.<br>♦ Understand vanishing gradients and gating mechanisms.<br>♦ Build RNNs and LSTMs using Keras or PyTorch.</td>
     </tr>
   </tbody>
 </table>
