@@ -1,24 +1,34 @@
-<h1 align="center">🚀 CIS AI / Data Science Roadmap 2026</h1>
+<h1 align="center">🚀 CIS Data Science & AI Roadmap 2026</h1>
+<p align="center">
+Your practical guide from <b>beginner</b> to <b>AI expert</b> — built for CIS students.
+</p>
 
-<h2>🧭 Overview</h2>
-<p>This roadmap guides you through a full journey — from beginner to advanced data scientist.<br>
-Each level is designed to be clear, practical, and achievable for university students.</p>
+
+<<h2>Overview</h2>
+<p>
+Welcome to the <b>CIS Data Science & AI Roadmap 2026</b> — a step-by-step journey made by students, for students.  
+Whether you're just starting or aiming to master advanced AI, this roadmap will help you move confidently through every level — with clear goals, hands-on projects, and curated resources that actually work.  
+Start here, stay consistent, and you’ll be surprised how far you can go.
+</p>
 
 ## 🗺️ How to Use This Roadmap
 
-This roadmap is divided into clear sections, each representing a stage in your journey to becoming a data scientist or AI practitioner. Here’s how to get the most out of it:
+This roadmap is divided into clear stages — each one represents a step in your journey to becoming a data scientist or AI practitioner.
 
-<ul>
-  <li><a href="#entry-level">Entry Level</a></li>
-  <li><a href="#beginner-level">Beginner Level</a></li>
-  <li><a href="#intermediate-level">Intermediate Level</a></li>
-  <li><a href="#advanced-data-analysis">Advanced Data Analysis</a></li>
-  <li><a href="#intermediate-machine-learning">Intermediate Machine Learning</a></li>
-  <li><a href="#advanced-deep-learning">Advanced Deep Learning</a></li>
-</ul>
+### 📘 Navigation
+- [🎯 Entry Level](#entry-level)
+- [📊 Beginner Level](#beginner-level)
+- [🧩 Intermediate Level](#intermediate-level)
+- [📈 Advanced Data Analysis](#advanced-data-analysis)
+- [🤖 Intermediate Machine Learning](#intermediate-machine-learning)
+- [🧠 Advanced Deep Learning](#advanced-deep-learning)
+
+> 💡 Tip: Follow the stages in order, and don’t rush! Each step builds the foundation for the next.
+
+<p align="center">✨ Ready? Start your journey below! 🚀</p>
 
 
-Ready? Start your journey below! 🚀
+
 <h2 id="entry-level">🩵 Entry Level</h2>
 <blockquote>🧩 <strong>Goal:</strong> Build your foundation — Python, OOP, and Statistics.</blockquote>
 <div align="center">
@@ -378,11 +388,6 @@ You can train, evaluate, and optimize deep models for vision and sequence tasks.
 
 
 <p align="center">
-  🌟 Designed &amp; Maintained with ❤️ by the <strong>CIS AI / Data Science Circle</strong><br>
+  🌟 Designed &amp; Maintained with ❤️ by the <strong>CIS Data Science & AI Circle</strong><br>
   <br>
-  • <strong>CIS Data Science Circle Mentor</strong> <a href="https://github.com/ahmedothman-22">@Ahmed Osman</a>
-  • <strong>AI Mentor</strong> <a href="https://github.com/abdullahfayed6">@Abdullah Fayed</a>
-  • <strong>AI Supervisor</strong>  <a href="https://github.com/ahmedayman2005">@Ahmed Ayman</a>
-  • <strong>DS Basics Mentor</strong> <a href="https://github.com/Rahma-Hosam">@Rahma Hosam</a>
-  • <strong>Data Analysis Mentor</strong> <a href="https://github.com/ibrahimreda114">@Ibrahim Reda</a>
-</p>
+ 
