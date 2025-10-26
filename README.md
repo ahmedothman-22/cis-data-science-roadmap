@@ -74,7 +74,7 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics </a> — clear explanation in Arabic</li>
         </ul>
       </td>
-      <td> Understand mean, median, variance, and distributions.<br>♦ Learn how data behaves and how to describe it.</td>
+      <td> Understand mean, median, variance, and distributions.<br>Learn how data behaves and how to describe it.</td>
     </tr>
     <tr>
       <td>3</td>
@@ -88,7 +88,7 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://youtu.be/Ej_02ICOIgs">freeCodeCamp – Python OOP</a> — focused on object-oriented concepts </li>
         </ul>
       </td>
-      <td> Write Python scripts and understand loops/functions.<br>♦ Build classes and grasp OOP design principles.</td>
+      <td> Write Python scripts and understand loops/functions.<br> Build classes and grasp OOP design principles.</td>
     </tr>
   </tbody>
 </table>
@@ -207,15 +207,6 @@ This roadmap is divided into clear stages — each one represents a step in your
   </tbody>
 </table>
 </div>
-
-
-
-
-
-
-
-
-
 
 
 
