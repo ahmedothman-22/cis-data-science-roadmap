@@ -354,43 +354,96 @@ Now you’re ready to apply these foundations to real <strong>machine learning a
       <th>🗓️ Phase</th>
       <th>🧠 Topic</th>
       <th>📚 Key Resources</th>
-      <th>📝 Notes</th>
+      <th>🗒️ Note</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Weeks 3 - 9</td>
       <td><strong>Supervised Learning</strong></td>
-      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/watch?v=ZkHCcvjXjb4&list=PLYgoNb4RaVpVBf8EXw8Eca7eko9Xc4dJh">Supervised Machine Learning - Andrew Ng</a> — <em>Perfect for understanding core supervised algorithms and evaluation metrics.</em><br>➜ <em><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a></em> (Ch 1–2–3–4–5–6) — <em>Practical coding approach using Scikit-Learn with real-world datasets.</em><br><br><h3>Alternative Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLyhJeMedQd9QLVWS-hQtfQvlTuJLQVt6v">Machine Learning Full Course - Ahmed Ibrahim</a><br>➜ <a href="https://www.youtube.com/playlist?list=PLPBnj6azlABapMXzdpFXBScfZerZygcrz">Machine Learning Course - Ahmed Yousry</a></td>
-      <td>♦ Master regression and classification basics (Linear, Logistic, SVM, Trees).<br>♦ Learn evaluation metrics like accuracy and F1-score.<br>♦ Understand bias–variance tradeoff.</td>
+      <td>
+        <h3>🚀 Base Resources</h3>
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=ZkHCcvjXjb4&list=PLYgoNb4RaVpVBf8EXw8Eca7eko9Xc4dJh">Supervised Machine Learning – Andrew Ng</a> — YouTube course covering regression, classification, and metrics.</li>
+          <li><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a> (Ch 1-6) — Practical Scikit-Learn coding approach with real datasets.</li>
+        </ul>
+        <h3>💡 Alternative Resources</h3>
+        <ul>
+          <li><a href="https://www.youtube.com/playlist?list=PLyhJeMedQd9QLVWS-hQtfQvlTuJLQVt6v">Machine Learning Full Course – Ahmed Ibrahim</a></li>
+          <li><a href="https://www.youtube.com/playlist?list=PLPBnj6azlABapMXzdpFXBScfZerZygcrz">Machine Learning Course – Ahmed Yousry</a></li>
+        </ul>
+      </td>
+      <td>♦ Master regression & classification (Linear, Logistic, SVM, Trees).<br>♦ Learn metrics like accuracy, precision, recall, and F1-score.<br>♦ Understand bias–variance tradeoff.</td>
     </tr>
     <tr>
       <td>Weeks 9 - 12</td>
       <td><strong>Unsupervised Learning</strong></td>
-      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLTX7gaScRvTkd86Nv0LptVrMSto3J8Rt9">Unsupervised Learning - Andrew Ng</a> — <em>Explains clustering and dimensionality reduction with strong intuition.</em><br>➜ <em><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a></em> (Ch 8–9) — <em>Teaches practical implementation of PCA and clustering algorithms.</em><br><br><h3>Alternative Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLyhJeMedQd9QLVWS-hQtfQvlTuJLQVt6v">Machine Learning Full Course - Ahmed Ibrahim</a><br>➜ <a href="https://www.youtube.com/playlist?list=PLPBnj6azlABapMXzdpFXBScfZerZygcrz">Machine Learning Course - Ahmed Yousry</a></td>
-      <td>♦ Explore clustering (K-Means, DBSCAN) and dimensionality reduction (PCA).<br>♦ Learn to interpret patterns without labels.</td>
+      <td>
+        <h3>🚀 Base Resources</h3>
+        <ul>
+          <li><a href="https://www.youtube.com/playlist?list=PLTX7gaScRvTkd86Nv0LptVrMSto3J8Rt9">Unsupervised Learning – Andrew Ng</a> — Explains clustering and dimensionality reduction intuitively.</li>
+          <li><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a> (Ch 8-9) — PCA, K-Means, and DBSCAN implementations.</li>
+        </ul>
+        <h3>💡 Alternative Resources</h3>
+        <ul>
+          <li><a href="https://www.youtube.com/playlist?list=PLyhJeMedQd9QLVWS-hQtfQvlTuJLQVt6v">Machine Learning Full Course – Ahmed Ibrahim</a></li>
+          <li><a href="https://www.youtube.com/playlist?list=PLPBnj6azlABapMXzdpFXBScfZerZygcrz">Machine Learning Course – Ahmed Yousry</a></li>
+        </ul>
+      </td>
+      <td>♦ Explore clustering (K-Means, DBSCAN) and PCA.<br>♦ Understand data grouping & dimensionality reduction.<br>♦ Learn to visualize high-dimensional data.</td>
     </tr>
     <tr>
       <td>Weeks 12 - 15</td>
-      <td><strong>Ensemble Learning / Intro to Neural Networks</strong></td>
-      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/watch?v=ggWLvh484hs&list=PLyoNSC4BT4eVpykPF0Yx8C1Zs50XtD17L">Advanced Learning Algorithms - Andrew Ng</a> — <em>Covers ensemble models and introduces neural network fundamentals.</em><br>➜ <em><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a></em> (Ch 7–10) — <em>Guides you through building ensembles and basic neural nets with TensorFlow.</em><br><br><h3>Alternative Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLyhJeMedQd9QLVWS-hQtfQvlTuJLQVt6v">Machine Learning Full Course - Ahmed Ibrahim</a><br>➜ <a href="https://www.youtube.com/playlist?list=PLPBnj6azlABapMXzdpFXBScfZerZygcrz">Machine Learning Course - Ahmed Yousry</a></td>
-      <td>♦ Learn Random Forest, XGBoost, and stacking methods.<br>♦ Understand how combining models improves accuracy and stability.<br>♦ Learn perceptrons, activations, and forward/backpropagation.<br>♦ Build a small NN in PyTorch or TensorFlow.</td>
+      <td><strong>Ensemble Learning & Intro to Neural Networks</strong></td>
+      <td>
+        <h3>🚀 Base Resources</h3>
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=ggWLvh484hs&list=PLyoNSC4BT4eVpykPF0Yx8C1Zs50XtD17L">Advanced Learning Algorithms – Andrew Ng</a> — Teaches ensembles, boosting, and neural net fundamentals.</li>
+          <li><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a> (Ch 7-10) — Build Random Forest, XGBoost, and simple NNs.</li>
+        </ul>
+        <h3>💡 Alternative Resources</h3>
+        <ul>
+          <li><a href="https://www.youtube.com/playlist?list=PLyhJeMedQd9QLVWS-hQtfQvlTuJLQVt6v">Machine Learning Full Course – Ahmed Ibrahim</a></li>
+          <li><a href="https://www.youtube.com/playlist?list=PLPBnj6azlABapMXzdpFXBScfZerZygcrz">Machine Learning Course – Ahmed Yousry</a></li>
+        </ul>
+      </td>
+      <td>♦ Learn ensemble models (Bagging, Boosting, XGBoost).<br>♦ Understand Neural Networks: Perceptrons, Activations, Backpropagation.<br>♦ Build a small NN using TensorFlow or PyTorch.</td>
     </tr>
     <tr>
       <td>Weeks 15 - 16</td>
-      <td><strong>APIs & Deployment</strong></td>
-      <td>➜ <a href="https://youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ&si=-fmzCFyvKWTZnhpt">FastAPI for Machine Learning</a></td>
-      <td>♦ Serve models with FastAPI.<br>♦ Save/load models using joblib or pickle.<br>♦ Try Docker for simple deployment.</td>
+      <td><strong>APIs & Model Deployment</strong></td>
+      <td>
+        <h3>🚀 Base Resources</h3>
+        <ul>
+          <li><a href="https://youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ&si=-fmzCFyvKWTZnhpt">FastAPI for Machine Learning</a> — Step-by-step deployment guide.</li>
+        </ul>
+        <h3>💡 Alternative Resources</h3>
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=0sOvCWFmrtA">Python REST APIs with FastAPI</a></li>
+        </ul>
+      </td>
+      <td>♦ Serve models via FastAPI.<br>♦ Use joblib/pickle for saving & loading.<br>♦ Try Docker for lightweight deployments.</td>
     </tr>
     <tr>
       <td>Weeks 16 - 17</td>
       <td><strong>Projects & Portfolio</strong></td>
-      <td><em>Kaggle Competitions</em>, <em>GitHub Portfolio</em></td>
-      <td>♦ Apply ML algorithms on real datasets.<br>♦ Showcase 3–5 projects (classification, regression, clustering).<br>♦ Share clean, documented notebooks on GitHub.</td>
+      <td>
+        <h3>🚀 Base Resources</h3>
+        <ul>
+          <li><em>Kaggle Competitions</em></li>
+          <li><em>GitHub Portfolio</em></li>
+        </ul>
+        <h3>💡 Alternative Resources</h3>
+        <ul>
+          <li><a href="https://www.kaggle.com/competitions">Kaggle Projects</a></li>
+        </ul>
+      </td>
+      <td>♦ Apply ML models to real datasets.<br>♦ Build 3-5 projects (Regression, Classification, Clustering).<br>♦ Publish code & notebooks on GitHub.</td>
     </tr>
   </tbody>
 </table>
 </div>
+
 
 ---
 
