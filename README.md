@@ -3,26 +3,28 @@
 Your practical guide from <b>beginner</b> to <b>AI expert</b> — built for CIS students.
 </p>
 
-<h2>Overview</h2>
-<p>
-Welcome to the <b>CIS Data Science & AI Roadmap 2026</b> — a step-by-step journey made by students, for students.  
+## Overview
+Welcome to the **CIS Data Science & AI Roadmap 2026** — a step-by-step journey made by students, for students.  
 Whether you're just starting or aiming to master advanced AI, this roadmap will help you move confidently through every level — with clear goals, hands-on projects, and curated resources that actually work.  
 Start here, stay consistent, and you’ll be surprised how far you can go.
-</p>
+
+---
 
 ## 🗺️ How to Use This Roadmap
 
 This roadmap is divided into clear stages — each one represents a step in your journey to becoming a data scientist or AI practitioner.
 
 ### 📘 Navigation
-- [🎯 Entry Level](#entry-level)
-- [📊 Beginner Level](#beginner-level)
-- [🧩 Intermediate Level](#intermediate-level)
-- [📈 Advanced Data Analysis](#advanced-data-analysis)
-- [🤖 Intermediate Machine Learning](#intermediate-machine-learning)
+- [Entry Level](#entry-level)
+- [Beginner Level](#beginner-level)
+- [Intermediate Level](#intermediate-level)
+- [Advanced Data Analysis](#advanced-data-analysis)
+- [Intermediate Machine Learning](#intermediate-machine-learning)
 - [🧠 Advanced Deep Learning](#advanced-deep-learning)
 
-> 💡 Tip: Follow the stages in order, and don’t rush! Each step builds the foundation for the next.
+> 💡 **Tip:** Follow the stages in order, and don’t rush — each step builds the foundation for the next.
+
+---
 
 <p align="center">✨ Ready? Start your journey below! 🚀</p>
 
