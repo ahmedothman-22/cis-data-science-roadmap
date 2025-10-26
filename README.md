@@ -307,6 +307,11 @@ This roadmap is divided into clear stages — each one represents a step in your
       </td>
       <td>♦ Import data from different sources.<br>♦ Data Cleaning.<br>♦ Dashboard creation & storytelling.</td>
     </tr>
+    <tr>
+      <td>4</td>
+      <td><strong>🕷 Web Scraping</strong> — Extract structured data from websites</td>
+      <td><a href="https://app.datacamp.com/learn/courses/introduction-to-web-scraping-with-python">DataCamp – Web Scraping</a> / <a href="https://beautiful-soup-4.readthedocs.io/en/latest/">BeautifulSoup Docs</a> <strong>or</strong> <br/> <a href="https://youtu.be/q0ert5YP968?si=xV0tlimToAUijocI">Codezilla - Web Scraping w/ beautiful soup</a></td>
+    </tr>
   </tbody>
 </table>
 <blockquote><strong>Projects:</strong> Apply small exercises after each phase to reinforce learning.</blockquote>
