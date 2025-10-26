@@ -560,7 +560,7 @@ You can train, evaluate, and optimize deep models for vision and sequence tasks.
 
 <h3>🚀 Phase 2: Transformers & Generative AI</h3>
 <blockquote>Move into modern architectures like Transformers and GANs, and learn how to deploy and manage deep models efficiently.</blockquote>
-
+<div>
 <table>
   <thead>
     <tr>
@@ -630,7 +630,7 @@ You can train, evaluate, and optimize deep models for vision and sequence tasks.
     </tr>
   </tbody>
 </table>
-
+</div>
 
 <p align="center">
   🌟 Designed &amp; Maintained with ❤️ by the <strong>CIS Data Science & AI Circle</strong><br>
