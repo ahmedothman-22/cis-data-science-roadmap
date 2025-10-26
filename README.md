@@ -63,10 +63,16 @@ This roadmap is divided into clear stages — each one represents a step in your
 </table>
 </div>
 ---
-<h2 id="entry-level">🩵 Entry Level</h2>
-<blockquote>🧩 <strong>Goal:</strong> Master Python, OOP, and basic Statistics to build a solid foundation.</blockquote>
 
-> **Legend:** 💰 = Requires subscription | ⏱ = Estimated duration  
+
+
+
+<h2 id="entry-level">🩵 Entry Level — Build the Basics</h2>
+<p align="center"><i>Duration: 3 weeks | Focus: Python, OOP, and Statistics</i></p>
+
+<blockquote>🧩 <strong>Goal:</strong> Build your foundation — Python, OOP, and Statistics.</blockquote>
+
+<p align="center">🌱 Start here — your foundation for all upcoming levels.</p>
 
 <div align="center">
 <table>
@@ -74,28 +80,40 @@ This roadmap is divided into clear stages — each one represents a step in your
     <tr>
       <th>🗓️ Week</th>
       <th>🧠 Topic</th>
+      <th>🎯 Outcome</th>
       <th>📚 Key Resource</th>
-      <th>⏱ Duration</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td><strong>Data Literacy</strong> & Understanding Data Science</td>
-      <td>[DataCamp – Intro to Data Literacy 💰](https://app.datacamp.com/learn/courses/introduction-to-data-literacy)</td>
-      <td>3 hrs</td>
+      <td><b>1</b></td>
+      <td>📊 <strong>Data Literacy</strong><br/>🔍 Understanding Data Science</td>
+      <td>Know what data science is, its workflow, and real-world uses</td>
+      <td>
+        <a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">Data Literacy [Paid]</a>  
+        <br/>
+        <a href="https://app.datacamp.com/learn/courses/understanding-data-science">Understanding Data Science [Paid]</a>
+      </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td><strong>Introduction to Statistics</strong></td>
-      <td>[DataCamp 💰](https://app.datacamp.com/learn/courses/introduction-to-statistics) or [YouTube – Statistics 1](https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR)</td>
-      <td>4 hrs</td>
+      <td><b>2</b></td>
+      <td>📈 <strong>Introduction to Statistics</strong><br/>Probability & Distributions</td>
+      <td>Understand basic stats concepts and interpret data</td>
+      <td>
+        <a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp [Paid]</a>  
+        <br/> <a href="https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW">Descriptive Statistics [Free]</a>  
+        <br/> <a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics 1 [Free]</a>
+      </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td><strong>Python & OOP</strong></td>
-      <td>[Elzero – Python (Arabic)](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) and [freeCodeCamp – OOP](https://youtu.be/Ej_02ICOIgs)</td>
-      <td>5 hrs</td>
+      <td><b>3</b></td>
+      <td>🐍 <strong>Python & OOP</strong><br/>Loops, Functions, and Classes</td>
+      <td>Be able to write Python scripts and understand OOP concepts</td>
+      <td>
+        <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero [Free]</a>  
+        <br/> <a href="https://youtu.be/rfscVS0vtbw">freeCodeCamp Basics [Free]</a>  
+        <br/> <a href="https://youtu.be/Ej_02ICOIgs">freeCodeCamp OOP [Free]</a>
+      </td>
     </tr>
   </tbody>
 </table>
