@@ -80,44 +80,51 @@ This roadmap is divided into clear stages — each one represents a step in your
     <tr>
       <th>🗓️ Week</th>
       <th>🧠 Topic</th>
-      <th>🎯 Outcome</th>
       <th>📚 Key Resource</th>
+      <th>📝 Note</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b>1</b></td>
       <td>📊 <strong>Data Literacy</strong><br/>🔍 Understanding Data Science</td>
-      <td>Know what data science is, its workflow, and real-world uses</td>
-      <td>
-        <a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">Data Literacy [Paid]</a>  
-        <br/>
-        <a href="https://app.datacamp.com/learn/courses/understanding-data-science">Understanding Data Science [Paid]</a>
+      <td align="left">
+        <strong>Base Resources:</strong><br/>
+        • <a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">Data Literacy [Paid]</a><br/>
+        • <a href="https://app.datacamp.com/learn/courses/understanding-data-science">Understanding Data Science [Paid]</a><br/><br/>
+        <strong>Alternative Resources:</strong><br/>
+        • <a href="https://www.youtube.com/watch?v=ua-CiDNNj30">What is Data Science? [Free]</a>
       </td>
+      <td>Learn what data science is, its workflow, and real-world applications.</td>
     </tr>
     <tr>
       <td><b>2</b></td>
       <td>📈 <strong>Introduction to Statistics</strong><br/>Probability & Distributions</td>
-      <td>Understand basic stats concepts and interpret data</td>
-      <td>
-        <a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp [Paid]</a>  
-        <br/> <a href="https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW">Descriptive Statistics [Free]</a>  
-        <br/> <a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics 1 [Free]</a>
+      <td align="left">
+        <strong>Base Resources:</strong><br/>
+        • <a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">Intro to Statistics [Paid]</a><br/><br/>
+        <strong>Alternative Resources:</strong><br/>
+        • <a href="https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW">Descriptive Statistics [Free]</a><br/>
+        • <a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics 1 [Free]</a>
       </td>
+      <td>Understand basic statistical terms, data types, and data visualization.</td>
     </tr>
     <tr>
       <td><b>3</b></td>
       <td>🐍 <strong>Python & OOP</strong><br/>Loops, Functions, and Classes</td>
-      <td>Be able to write Python scripts and understand OOP concepts</td>
-      <td>
-        <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero [Free]</a>  
-        <br/> <a href="https://youtu.be/rfscVS0vtbw">freeCodeCamp Basics [Free]</a>  
-        <br/> <a href="https://youtu.be/Ej_02ICOIgs">freeCodeCamp OOP [Free]</a>
+      <td align="left">
+        <strong>Base Resources:</strong><br/>
+        • <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero Python [Free]</a><br/><br/>
+        <strong>Alternative Resources:</strong><br/>
+        • <a href="https://youtu.be/rfscVS0vtbw">freeCodeCamp Python Basics [Free]</a><br/>
+        • <a href="https://youtu.be/Ej_02ICOIgs">freeCodeCamp Python OOP [Free]</a>
       </td>
+      <td>Write simple programs in Python and understand OOP fundamentals.</td>
     </tr>
   </tbody>
 </table>
 </div>
+
 
 
 
