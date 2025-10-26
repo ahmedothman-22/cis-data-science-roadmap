@@ -18,10 +18,12 @@ This roadmap is divided into clear stages — each one represents a step in your
 ### 📘 Navigation
 - [Entry Level](#entry-level)
 - [Beginner Level](#beginner-level)
-- [Intermediate Level](#intermediate-level)
-- [Advanced Data Analysis](#advanced-data-analysis)
-- [Intermediate Machine Learning](#intermediate-machine-learning)
-- [Advanced Deep Learning](#advanced-deep-learning)
+- Intermediate Level
+  - [Intermediate Data Analysis](#intermediate-level)
+  - [Intermediate Machine Learning](#intermediate-machine-learning)
+- Advanced Level
+  - [Advanced Data Analysis](#advanced-data-analysis)
+  - [Advanced Deep Learning](#advanced-deep-learning)
 
 > 💡 **Tip:** Follow the stages in order, and don’t rush — each step builds the foundation for the next.
 
