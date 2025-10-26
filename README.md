@@ -188,7 +188,7 @@ This roadmap is divided into clear stages — each one represents a step in your
         <ul>
           <h3>🚀 Resources</h3>
           <li><a href="https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python">DataCamp – EDA</a> </li>
-          <li><a href="https://www.youtube.com/watch?v=GcXcSZ0gQps">StatQuest – EDA Basics</a> — YouTube video</li>
+          <li><a href="https://www.youtube.com/watch?v=GcXcSZ0gQps">StatQuest – EDA Basics</a></li>
         </ul>
       </td>
       <td>Combine visualization and summary statistics to explore data.</td>
