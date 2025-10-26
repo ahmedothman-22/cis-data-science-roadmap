@@ -560,6 +560,7 @@ You can train, evaluate, and optimize deep models for vision and sequence tasks.
 
 <h3>🚀 Phase 2: Transformers & Generative AI</h3>
 <blockquote>Move into modern architectures like Transformers and GANs, and learn how to deploy and manage deep models efficiently.</blockquote>
+
 <table>
   <thead>
     <tr>
@@ -573,31 +574,58 @@ You can train, evaluate, and optimize deep models for vision and sequence tasks.
     <tr>
       <td><strong>Weeks 9–11</strong></td>
       <td><strong>Transformers, Attention Mechanisms & Tokenization</strong></td>
-      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLoOabVweB2r6i93vGocJq-LeHqcOZaYM7">From RNN to Transformers (Playlist)</a> – step-by-step evolution from RNNs to Transformers.<br>➜ <a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need (Paper)</a> – introduces the Transformer architecture and self-attention concept.<br>➜ <a href="https://www.youtube.com/watch?v=6JGzwI2pNfo">Attention Is All You Need – Abu Bakr</a> – Arabic explanation of the paper and core ideas.<br>➜ <a href="https://www.youtube.com/watch?v=1tgZo2tpK44&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4">Transformers from Scratch</a> – builds a Transformer step by step in Python.<br><h3>Alternative Resources</h3> ➜ <a href="https://www.youtube.com/watch?v=8WBS0dT0h2I">Evolution of the Transformer Architecture (2017–2025)</a> – overview of Transformer</td>
+      <td>
+        <h3>🚀 Base Resources</h3>
+        <li><a href="https://www.youtube.com/playlist?list=PLoOabVweB2r6i93vGocJq-LeHqcOZaYM7">From RNN to Transformers (Playlist)</a> — step-by-step evolution from RNNs to Transformers.</li>
+        <li><a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need (Paper)</a> — introduces the Transformer architecture and self-attention concept.</li>
+        <li><a href="https://www.youtube.com/watch?v=6JGzwI2pNfo">Attention Is All You Need – Abu Bakr</a> — Arabic explanation of the paper and core ideas.</li>
+        <li><a href="https://www.youtube.com/watch?v=1tgZo2tpK44&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4">Transformers from Scratch</a> — builds a Transformer step by step in Python.</li>
+        <h3>💡 Alternative Resources</h3>
+        <li><a href="https://www.youtube.com/watch?v=8WBS0dT0h2I">Evolution of the Transformer Architecture (2017–2025)</a> — overview of Transformer evolution and updates.</li>
+      </td>
       <td>♦ Understand <strong>self-attention</strong> and <strong>encoder–decoder</strong> design.<br>♦ Fine-tune models like <strong>BERT</strong>, <strong>GPT</strong>, and <strong>T5</strong> with Hugging Face.</td>
     </tr>
     <tr>
       <td><strong>Weeks 11–13</strong></td>
       <td><strong>Large Language Models (LLMs)</strong></td>
-      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/watch?v=Lt7KrFMcCis">Fine-tuning LLMs with Unsloth: Complete Guide</a> – full workflow for fine-tuning large models efficiently.<br>➜ <a href="https://www.youtube.com/watch?v=t1caDsMzWBk">LoRA & QLoRA Fine-tuning Explained In-Depth</a> – deep dive into parameter-efficient fine-tuning methods.<br>➜ <a href="https://www.youtube.com/playlist?list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0">Large Language Models (LLMs) Playlist</a> – covers the theory, structure, and scaling of LLMs.<br>➜ <a href="https://cme295.stanford.edu/syllabus/">Transformer & LLMs – Stanford CME295</a> – advanced Stanford course on Transformers and LLMs.</td>
+      <td>
+        <h3>🚀 Base Resources</h3>
+        <li><a href="https://www.youtube.com/watch?v=Lt7KrFMcCis">Fine-tuning LLMs with Unsloth: Complete Guide</a> — full workflow for fine-tuning large models efficiently.</li>
+        <li><a href="https://www.youtube.com/watch?v=t1caDsMzWBk">LoRA & QLoRA Fine-tuning Explained In-Depth</a> — deep dive into parameter-efficient fine-tuning methods.</li>
+        <li><a href="https://www.youtube.com/playlist?list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0">Large Language Models (LLMs) Playlist</a> — covers the theory, structure, and scaling of LLMs.</li>
+        <li><a href="https://cme295.stanford.edu/syllabus/">Transformer & LLMs – Stanford CME295</a> — advanced Stanford course on Transformers and LLMs.</li>
+      </td>
       <td>♦ Learn <strong>fine-tuning</strong>, <strong>LoRA/QLoRA</strong>, and <strong>tokenization</strong> concepts.<br>♦ Understand <strong>scaling laws</strong>, <strong>architecture evolution</strong>, and <strong>prompt-based learning</strong>.</td>
     </tr>
     <tr>
       <td><strong>Weeks 13–15</strong></td>
       <td><strong>Practical: Transformers & LLMs Implementation</strong></td>
-      <td><h3>Base Resources</h3> ➜ <a href="https://machinelearningmastery.com/building-transformer-models-from-scratch-with-pytorch-10-day-mini-course/">Building Transformer Models from Scratch (Mini-Course)</a> – implement Transformers layer by layer in PyTorch.<br>➜ <a href="https://www.youtube.com/watch?v=zduSFxRajkE">Let's Build the GPT Tokenizer</a> – code your own GPT-style tokenizer from scratch.<br>➜ <a href="https://www.youtube.com/watch?v=S9VHQhC3HPc">LLMs Fine-Tuning تطبيق عملي على ال</a> – Arabic hands-on fine-tuning tutorial for LLMs.</td>
+      <td>
+        <h3>🚀 Base Resources</h3>
+        <li><a href="https://machinelearningmastery.com/building-transformer-models-from-scratch-with-pytorch-10-day-mini-course/">Building Transformer Models from Scratch (Mini-Course)</a> — implement Transformers layer by layer in PyTorch.</li>
+        <li><a href="https://www.youtube.com/watch?v=zduSFxRajkE">Let's Build the GPT Tokenizer</a> — code your own GPT-style tokenizer from scratch.</li>
+        <li><a href="https://www.youtube.com/watch?v=S9VHQhC3HPc">LLMs Fine-Tuning تطبيق عملي على ال</a> — Arabic hands-on fine-tuning tutorial for LLMs.</li>
+      </td>
       <td>♦ Implement <strong>Transformers</strong> and <strong>tokenizers</strong> manually.<br>♦ Perform hands-on <strong>LLM fine-tuning</strong>.<br>♦ Understand end-to-end pipeline from data to deployment.</td>
     </tr>
     <tr>
       <td><strong>Weeks 15–17</strong></td>
       <td><strong>Generative Adversarial Networks (GANs)</strong></td>
-      <td><h3>Base Resources</h3> ➜ <a href="https://www.youtube.com/playlist?list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va">GANs Full Playlist</a> – detailed guide from basics to advanced GAN types.<br>➜ <a href="https://www.youtube.com/watch?v=QpR4QEv5Urk">Image Generation Using GANs</a> – demonstrates image creation using DCGAN in PyTorch.</td>
+      <td>
+        <h3>🚀 Base Resources</h3>
+        <li><a href="https://www.youtube.com/playlist?list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va">GANs Full Playlist</a> — detailed guide from basics to advanced GAN types.</li>
+        <li><a href="https://www.youtube.com/watch?v=QpR4QEv5Urk">Image Generation Using GANs</a> — demonstrates image creation using DCGAN in PyTorch.</li>
+      </td>
       <td>♦ Build <strong>GANs</strong> with PyTorch.<br>♦ Experiment with <strong>DCGAN</strong> and <strong>StyleGAN</strong>.<br>♦ Understand <strong>mode collapse</strong> and <strong>training stability</strong>.</td>
     </tr>
     <tr>
       <td><strong>Weeks 17–19</strong></td>
       <td><strong>Deep Learning Projects & Portfolio</strong></td>
-      <td><em>Kaggle DL Competitions</em>, <em>GitHub Portfolio</em></td>
+      <td>
+        <h3>🚀 Base Resources</h3>
+        <li><em>Kaggle DL Competitions</em> — hands-on challenges to test your deep learning skills.</li>
+        <li><em>GitHub Portfolio</em> — showcase your models and projects publicly.</li>
+      </td>
       <td>♦ Build <strong>3–4 projects</strong> (Vision, NLP, Generative).<br>♦ Use both <strong>PyTorch</strong> and <strong>TensorFlow</strong>.<br>♦ Deploy <strong>at least one model publicly</strong>.</td>
     </tr>
   </tbody>
