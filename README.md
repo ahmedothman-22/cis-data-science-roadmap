@@ -1,4 +1,4 @@
-<<h1 align="center">🚀 CIS Data Science & AI Roadmap 2026</h1>
+<h1 align="center">🚀 CIS Data Science & AI Roadmap 2026</h1>
 <p align="center">
 Your practical guide from <b>beginner</b> to <b>AI expert</b> — built for CIS students.
 </p>
