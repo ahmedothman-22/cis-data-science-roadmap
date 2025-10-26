@@ -66,9 +66,9 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Resources</h3>
-          <li><a href="https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW">Descriptive Statistics</a> — probability & visualization concepts</li>
-          <li><a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp – Intro to Statistics</a> — structured beginner course </li>
-          <li><a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics </a> — clear explanation in Arabic</li>
+          <li><a href="https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW">Descriptive Statistics</a></li>
+          <li><a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp – Intro to Statistics</a></li>
+          <li><a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics </a></li>
         </ul>
       </td>
       <td> Understand mean, median, variance, and distributions.<br>Learn how data behaves and how to describe it.</td>
@@ -79,9 +79,9 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Resources</h3>
-          <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero – Python</a> — complete beginner to advanced course </li>
-          <li><a href="https://youtu.be/rfscVS0vtbw">freeCodeCamp – Python Basics</a>  crash course </li>
-          <li><a href="https://youtu.be/Ej_02ICOIgs">freeCodeCamp – Python OOP</a> — focused on object-oriented concepts </li>
+          <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero – Python</a></li>
+          <li><a href="https://youtu.be/rfscVS0vtbw">freeCodeCamp – Python Basics</a></li>
+          <li><a href="https://youtu.be/Ej_02ICOIgs">freeCodeCamp – Python OOP</a></li>
         </ul>
       </td>
       <td> Write Python scripts and understand loops/functions.<br> Build classes and grasp OOP design principles.</td>
@@ -127,7 +127,7 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Resources</h3>
-          <li><a href="https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS">Corey Schafer – Pandas</a> — YouTube playlist</li>
+          <li><a href="https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS">Corey Schafer – Pandas</a></li>
           <li><a href="https://app.datacamp.com/learn/courses/manipulating-dataframes-with-pandas">DataCamp – Pandas</a> </li>
         </ul>
       </td>
