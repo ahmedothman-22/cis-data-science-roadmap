@@ -509,7 +509,6 @@ You’ll start by mastering neural networks and essential architectures — then
           <li><a href="https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc">Deep Neural Networks – Andrew Ng</a> — Advanced optimization and hyperparameter tuning.</li>
           <li><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a> (Ch 10–12) — Implementation-focused ANN building with Keras.</li>
         </ul>
-
         <h3>💡 Alternative Resources</h3>
         <ul>
           <li><a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO">From Theory to Practice</a> — Practical ANN projects and exercises.</li>
@@ -526,7 +525,6 @@ You’ll start by mastering neural networks and essential architectures — then
           <li><a href="https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF">Convolutional Neural Networks – Andrew Ng</a> — CNN foundations and computer vision applications.</li>
           <li><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a> (Ch 13–14) — Build CNNs and apply transfer learning.</li>
         </ul>
-
         <h3>💡 Alternative Resources</h3>
         <ul>
           <li><a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO">From Theory to Practice</a> — Real-world CNN projects and implementations.</li>
@@ -543,7 +541,6 @@ You’ll start by mastering neural networks and essential architectures — then
           <li><a href="https://www.youtube.com/watch?v=S7oA5C43Rbc">Sequence Models – Andrew Ng</a> — RNNs, LSTMs, and GRUs explained for text/time series.</li>
           <li><a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-On Machine Learning</a> (Ch 15–16) — Implementation of sequence models with Keras/TensorFlow.</li>
         </ul>
-
         <h3>💡 Alternative Resources</h3>
         <ul>
           <li><a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO">From Theory to Practice</a> — Hands-on projects for text and time-series.</li>
