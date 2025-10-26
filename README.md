@@ -52,15 +52,15 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Base Resources</h3>
-          <li><a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">Introduction to Data Literacy</a> — 2-hour course (requires DataCamp subscription)</li>
-          <li><a href="https://app.datacamp.com/learn/courses/understanding-data-science">Understanding Data Science</a> — 2-hour course (requires DataCamp subscription)</li>
+          <li><a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">Introduction to Data Literacy</a></li>
+          <li><a href="https://app.datacamp.com/learn/courses/understanding-data-science">Understanding Data Science</a> </li>
           <h3>💡 Alternative Resources</h3>
-          <li><a href="https://www.youtube.com/watch?v=ua-CiDNNj30">What is Data Science?</a> — quick visual explanation (Free)</li>
-          <li><a href="https://mavenanalytics.io/course/data-literacy-foundations">Maven Analytics | Data Literacy</a> — 2.5-hour course (Free)</li>
-          <li><a href="https://www.youtube.com/watch?v=KxryzSO1Fjs">Simplilearn | Understanding Data Science</a> — 1-hour YouTube video (Free)</li>
+          <li><a href="https://www.youtube.com/watch?v=ua-CiDNNj30">What is Data Science?</a> — quick visual explanation </li>
+          <li><a href="https://mavenanalytics.io/course/data-literacy-foundations">Maven Analytics | Data Literacy</a></li>
+          <li><a href="https://www.youtube.com/watch?v=KxryzSO1Fjs">Simplilearn | Understanding Data Science</a> </li>
         </ul>
       </td>
-      <td>♦ Learn what Data Science is and how it’s used.<br>♦ Understand data roles, tools, and real-life use cases.</td>
+      <td>Learn what Data Science is and how it’s used.<br> Understand data roles, tools, and real-life use cases.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -68,13 +68,13 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Base Resources</h3>
-          <li><a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp – Intro to Statistics</a> — structured beginner course (requires subscription)</li>
+          <li><a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp – Intro to Statistics</a> — structured beginner course </li>
           <h3>💡 Alternative Resources</h3>
           <li><a href="https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW">Descriptive Statistics [YouTube]</a> — probability & visualization concepts</li>
-          <li><a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics 1 [Arabic Series]</a> — clear explanation in Arabic</li>
+          <li><a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics </a> — clear explanation in Arabic</li>
         </ul>
       </td>
-      <td>♦ Understand mean, median, variance, and distributions.<br>♦ Learn how data behaves and how to describe it.</td>
+      <td> Understand mean, median, variance, and distributions.<br>♦ Learn how data behaves and how to describe it.</td>
     </tr>
     <tr>
       <td>3</td>
@@ -82,13 +82,13 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Base Resources</h3>
-          <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero – Python</a> — complete beginner to advanced course (Free)</li>
+          <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero – Python</a> — complete beginner to advanced course </li>
           <h3>💡 Alternative Resources</h3>
-          <li><a href="https://youtu.be/rfscVS0vtbw">freeCodeCamp – Python Basics</a> — 4-hour crash course (Free)</li>
-          <li><a href="https://youtu.be/Ej_02ICOIgs">freeCodeCamp – Python OOP</a> — focused on object-oriented concepts (Free)</li>
+          <li><a href="https://youtu.be/rfscVS0vtbw">freeCodeCamp – Python Basics</a>  crash course </li>
+          <li><a href="https://youtu.be/Ej_02ICOIgs">freeCodeCamp – Python OOP</a> — focused on object-oriented concepts </li>
         </ul>
       </td>
-      <td>♦ Write Python scripts and understand loops/functions.<br>♦ Build classes and grasp OOP design principles.</td>
+      <td> Write Python scripts and understand loops/functions.<br>♦ Build classes and grasp OOP design principles.</td>
     </tr>
   </tbody>
 </table>
@@ -119,9 +119,9 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Base Resources</h3>
-          <li><a href="https://youtu.be/GB9ByFAIAH4">NumPy</a> — 2-hour YouTube video (Free)</li>
+          <li><a href="https://youtu.be/GB9ByFAIAH4">NumPy</a></li>
           <h3>💡 Alternative Resources</h3>
-          <li><a href="https://app.datacamp.com/learn/courses/introduction-to-numpy">DataCamp – NumPy</a> (requires subscription)</li>
+          <li><a href="https://app.datacamp.com/learn/courses/introduction-to-numpy">DataCamp – NumPy</a></li>
         </ul>
       </td>
       <td>Understand how to handle numerical data efficiently using arrays.</td>
@@ -134,7 +134,7 @@ This roadmap is divided into clear stages — each one represents a step in your
           <h3>🚀 Base Resources</h3>
           <li><a href="https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS">Corey Schafer – Pandas</a> — YouTube playlist</li>
           <h3>💡 Alternative Resources</h3>
-          <li><a href="https://app.datacamp.com/learn/courses/manipulating-dataframes-with-pandas">DataCamp – Pandas</a> (requires subscription)</li>
+          <li><a href="https://app.datacamp.com/learn/courses/manipulating-dataframes-with-pandas">DataCamp – Pandas</a> </li>
         </ul>
       </td>
       <td>Master working with DataFrames and Series.</td>
@@ -145,9 +145,9 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Base Resources</h3>
-          <li><a href="https://app.datacamp.com/learn/courses/cleaning-data-in-python">DataCamp – Cleaning Data</a> (requires subscription)</li>
+          <li><a href="https://app.datacamp.com/learn/courses/cleaning-data-in-python">DataCamp – Cleaning Data</a> </li>
           <h3>💡 Alternative Resources</h3>
-          <li><a href="https://youtu.be/TXiKPcbHmO8?si=-bfKgHWEI0_AO0r5">Data Cleaning Arabic</a> — YouTube video</li>
+          <li><a href="https://youtu.be/TXiKPcbHmO8?si=-bfKgHWEI0_AO0r5">Data Cleaning Arabic</a> </li>
         </ul>
       </td>
       <td>Learn practical cleaning steps using Pandas.</td>
@@ -158,9 +158,9 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Base Resources</h3>
-          <li><a href="https://app.datacamp.com/learn/courses/regular-expressions-in-python">DataCamp – Regular Expressions</a> (requires subscription)</li>
+          <li><a href="https://app.datacamp.com/learn/courses/regular-expressions-in-python">DataCamp – Regular Expressions</a> </li>
           <h3>💡 Alternative Resources</h3>
-          <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Osama Elzero – RegEx Arabic</a> — YouTube playlist</li>
+          <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Osama Elzero – RegEx Arabic</a> </li>
         </ul>
       </td>
       <td>Understand pattern extraction for text data.</td>
@@ -171,9 +171,9 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Base Resources</h3>
-          <li><a href="https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_">Corey Schafer – Matplotlib</a> — YouTube playlist</li>
+          <li><a href="https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_">Corey Schafer – Matplotlib</a> </li>
           <h3>💡 Alternative Resources</h3>
-          <li><a href="https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib">DataCamp – Matplotlib</a> (requires subscription)</li>
+          <li><a href="https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib">DataCamp – Matplotlib</a> </li>
         </ul>
       </td>
       <td>Build basic plots to visualize distributions and relationships.</td>
@@ -184,9 +184,9 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Base Resources</h3>
-          <li><a href="https://youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&si=iDQ4aY7QZwuIPtPP">Kimberly Fessel – Seaborn</a> — YouTube playlist</li>
+          <li><a href="https://youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&si=iDQ4aY7QZwuIPtPP">Kimberly Fessel – Seaborn</a></li>
           <h3>💡 Alternative Resources</h3>
-          <li><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS">Corey Schafer – Seaborn</a> — YouTube playlist</li>
+          <li><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS">Corey Schafer – Seaborn</a> </li>
         </ul>
       </td>
       <td>Enhance data visuals with advanced chart types.</td>
@@ -197,7 +197,7 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Base Resources</h3>
-          <li><a href="https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python">DataCamp – EDA</a> (requires subscription)</li>
+          <li><a href="https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python">DataCamp – EDA</a> </li>
           <h3>💡 Alternative Resources</h3>
           <li><a href="https://www.youtube.com/watch?v=GcXcSZ0gQps">StatQuest – EDA Basics</a> — YouTube video</li>
         </ul>
@@ -250,50 +250,75 @@ This roadmap is divided into clear stages — each one represents a step in your
 
 <h2 id="advanced-data-analysis">🧭 Advanced Data Analysis</h2>
 <blockquote>🧰 <strong>Goal:</strong> Build a solid foundation in data analysis step by step.</blockquote>
+
 <div align="center">
 <table>
   <thead>
     <tr>
       <th>🗓️ Phase</th>
       <th>🧠 Topic</th>
-      <th>📚 Key Resource</th>
+      <th>📚 Key Resources</th>
       <th>📝 Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1</td>
-      <td><strong>SQL Basics &amp; Data Analysis With Sql</strong></td>
-      <td align="left">
-       <strong>Base Resources:</strong><br/>
-        • <a href="https://www.youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_">iti Course SQL Server</a><br/>
-       <strong>Alternative Resources:</strong><br/>
-        • <a href="https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql">DatacamP_Associate Data Analyst in SQL</a><br/>
+      <td><strong>SQL Basics & Data Analysis with SQL</strong></td>
+      <td>
+        <ul>
+          <h3>🚀 Base Resources</h3>
+          <li><a href="https://www.youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_">ITI Course SQL Server</a> — step-by-step SQL basics</li>
+          <h3>💡 Alternative Resources</h3>
+          <li><a href="https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql">DataCamp – Associate Data Analyst in SQL</a> — structured SQL track (requires subscription)</li>
+        </ul>
       </td>
-      <td>♦ Introduction to SQL.<br>♦ Joins &amp; Relationships.<br>♦ Aggregations.<br>♦ Subqueries &amp; Filtering.</td>
+      <td>♦ Introduction to SQL.<br>♦ Joins & Relationships.<br>♦ Aggregations.<br>♦ Subqueries & Filtering.</td>
     </tr>
     <tr>
       <td>2</td>
       <td><strong>Excel Fundamentals</strong></td>
-      <td><a href="https://www.youtube.com/playlist?list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-">Excel Fundamentals</a> And <a href="https://drive.google.com/file/d/1FxGvB-ilJ0mYNCg9u8Rx5BD99M89dMfp/view?usp=sharing">this book</a></td>
-      <td>♦ Formulas &amp; Functions.<br>♦ Formatting &amp; Visualization.<br>♦Sorting &amp; Filtering.</td>
+      <td>
+        <ul>
+          <h3>🚀 Base Resources</h3>
+          <li><a href="https://www.youtube.com/playlist?list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-">Excel Fundamentals</a> — beginner-friendly video series</li>
+          <li><a href="https://drive.google.com/file/d/1FxGvB-ilJ0mYNCg9u8Rx5BD99M89dMfp/view?usp=sharing">Excel Fundamentals Book</a> — detailed reference</li>
+        </ul>
+      </td>
+      <td>♦ Formulas & Functions.<br>♦ Formatting & Visualization.<br>♦ Sorting & Filtering.</td>
     </tr>
     <tr>
       <td>3</td>
       <td><strong>Data Analysis with Excel</strong></td>
-      <td>if you need to understand process==&gt;<a href="https://www.youtube.com/playlist?list=PLXlHqMRg9lAbetpJy3ePXsN0sj9Zs-pvT">excel for data analysis</a><br> if you need detailed explanation==&gt;<a href="https://www.youtube.com/watch?v=oyJDaaCrWQ8&list=PL5NlUYOM2iOioKHGTJKFkykyp1oudj4HC">Power Query</a> And <a href="https://www.youtube.com/watch?v=PScGRK9AQeA&list=PL5NlUYOM2iOgpYyGRs-m33ifHRwbB8MTV">Power Pivot &amp; DAX</a></td>
-      <td>♦ Data Cleaning With Power Query.<br>♦Pivot Tables &amp; DAX &amp; Data Modeling.<br>♦Charts &amp; Dashboards</td>
+      <td>
+        <ul>
+          <h3>🚀 Base Resources</h3>
+          <li><a href="https://www.youtube.com/playlist?list=PLXlHqMRg9lAbetpJy3ePXsN0sj9Zs-pvT">Excel for Data Analysis</a> — process overview</li>
+          <h3>💡 Alternative Resources</h3>
+          <li><a href="https://www.youtube.com/watch?v=oyJDaaCrWQ8&list=PL5NlUYOM2iOioKHGTJKFkykyp1oudj4HC">Power Query</a> — cleaning & shaping data</li>
+          <li><a href="https://www.youtube.com/watch?v=PScGRK9AQeA&list=PL5NlUYOM2iOgpYyGRs-m33ifHRwbB8MTV">Power Pivot & DAX</a> — advanced calculations & modeling</li>
+        </ul>
+      </td>
+      <td>♦ Data Cleaning with Power Query.<br>♦ Pivot Tables, DAX & Data Modeling.<br>♦ Charts & Dashboards.</td>
     </tr>
     <tr>
       <td>4</td>
       <td><strong>Power BI</strong></td>
-      <td><a href="https://www.youtube.com/playlist?list=PL69umUTzySPGWMxnmhX9SV5PIEbdnHv63">Zanoon Lab</a> Or <a href="https://www.youtube.com/playlist?list=PL-qR2lCbzf-qKcSx6v7IVz30G5A711xKA">Fouad Zawadi</a> Or <a href="https://www.youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw">Munthir Saffan</a></td>
-      <td>♦ Import Data from diffrent resourses<br>♦ Data Cleaning.<br>♦Dashboard &amp; Storytelling With Data.</td>
+      <td>
+        <ul>
+          <h3>🚀 Base Resources</h3>
+          <li><a href="https://www.youtube.com/playlist?list=PL69umUTzySPGWMxnmhX9SV5PIEbdnHv63">Zanoon Lab</a> — beginner to intermediate Power BI</li>
+          <li><a href="https://www.youtube.com/playlist?list=PL-qR2lCbzf-qKcSx6v7IVz30G5A711xKA">Fouad Zawadi</a> — dashboards & visuals</li>
+          <li><a href="https://www.youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw">Munthir Saffan</a> — storytelling with data</li>
+        </ul>
+      </td>
+      <td>♦ Import data from different sources.<br>♦ Data Cleaning.<br>♦ Dashboard creation & storytelling.</td>
     </tr>
   </tbody>
 </table>
-<blockquote><strong>Projects:</strong> Don't understand to apply project after each phase</blockquote>
+<blockquote><strong>Projects:</strong> Apply small exercises after each phase to reinforce learning.</blockquote>
 </div>
+
 
 
 
