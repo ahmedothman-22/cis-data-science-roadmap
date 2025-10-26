@@ -53,7 +53,7 @@ This roadmap is divided into clear stages — each one represents a step in your
           <h3>🚀 Resources</h3>
           <li><a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">Introduction to Data Literacy</a></li>
           <li><a href="https://app.datacamp.com/learn/courses/understanding-data-science">Understanding Data Science</a> </li>
-          <li><a href="https://www.youtube.com/watch?v=ua-CiDNNj30">What is Data Science?</a> — quick visual explanation </li>
+          <li><a href="https://www.youtube.com/watch?v=ua-CiDNNj30">What is Data Science?</a></li>
           <li><a href="https://mavenanalytics.io/course/data-literacy-foundations">Maven Analytics | Data Literacy</a></li>
           <li><a href="https://www.youtube.com/watch?v=KxryzSO1Fjs">Simplilearn | Understanding Data Science</a> </li>
         </ul>
@@ -66,7 +66,7 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Resources</h3>
-          <li><a href="https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW">Descriptive Statistics [YouTube]</a> — probability & visualization concepts</li>
+          <li><a href="https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW">Descriptive Statistics</a> — probability & visualization concepts</li>
           <li><a href="https://app.datacamp.com/learn/courses/introduction-to-statistics">DataCamp – Intro to Statistics</a> — structured beginner course </li>
           <li><a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics </a> — clear explanation in Arabic</li>
         </ul>
