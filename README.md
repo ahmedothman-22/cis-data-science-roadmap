@@ -238,7 +238,13 @@ This roadmap is divided into clear stages — each one represents a step in your
     <tr>
       <td>1</td>
       <td><strong>SQL Basics &amp; Data Analysis With Sql</strong></td>
-      <td><a href="https://www.youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_">iti Course SQL Server</a> Or <a href="https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql">DatacamP_Associate Data Analyst in SQL</a></td>
+      <td align="left">
+       <strong>Base Resources:</strong><br/>
+        • <a href="https://www.youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_">iti Course SQL Server</a><br/>
+       <strong>Alternative Resources:</strong><br/>
+        • <a href="https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql">DatacamP_Associate Data Analyst in SQL</a><br/>
+      </td>
+        
       <td>♦ Introduction to SQL.<br>♦ Joins &amp; Relationships.<br>♦ Aggregations.<br>♦ Subqueries &amp; Filtering.</td>
     </tr>
     <tr>
