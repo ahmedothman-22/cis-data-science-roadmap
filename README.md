@@ -535,10 +535,16 @@ You’ll start by mastering neural networks and essential architectures — then
           <li><a href="https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4">Deep Learning with PyTorch (Playlist)</a> — Applied tutorials using PyTorch.</li>
         </ul>
       </td>
-      <td>♦ Practice tensors, autograd, and DataLoaders.<br>♦ Build simple ANNs and CNNs from scratch.<br>♦ Focus on debugging and flexibility.</td>
+      <td>
+        <ul>
+          <li>Practice tensors, autograd, and DataLoaders.</li>
+          <li>Build simple ANNs and CNNs from scratch.</li>
+          <li>Focus on debugging and flexibility.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Weeks 1 - 2</td>
+      <td>Weeks 1–2</td>
       <td><strong>Learn TensorFlow (TF)</strong></td>
       <td>
         <h3>🚀 Base Resources</h3>
@@ -547,10 +553,16 @@ You’ll start by mastering neural networks and essential architectures — then
           <li><a href="https://www.youtube.com/watch?v=qFJeN9V1ZsI">Keras with TensorFlow Course</a> — Full beginner-friendly deep learning course.</li>
         </ul>
       </td>
-      <td>♦ Explore TensorFlow & Keras APIs.<br>♦ Recreate models built in PyTorch.<br>♦ Learn model saving and serving basics.</td>
+      <td>
+        <ul>
+          <li>Explore TensorFlow & Keras APIs.</li>
+          <li>Recreate models built in PyTorch.</li>
+          <li>Learn model saving and serving basics.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Weeks 2 - 4</td>
+      <td>Weeks 2–4</td>
       <td><strong>Artificial & Deep Neural Networks (ANN/DNN)</strong></td>
       <td>
         <h3>🚀 Base Resources</h3>
@@ -564,10 +576,15 @@ You’ll start by mastering neural networks and essential architectures — then
           <li><a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO">From Theory to Practice</a> — Practical ANN projects and exercises.</li>
         </ul>
       </td>
-      <td>♦ Train multi-layer perceptrons.<br>♦ Study optimizers (SGD, Adam) and regularization (dropout, batch norm).</td>
+      <td>
+        <ul>
+          <li>Train multi-layer perceptrons.</li>
+          <li>Study optimizers (SGD, Adam) and regularization (dropout, batch norm).</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Weeks 4 - 6</td>
+      <td>Weeks 4–6</td>
       <td><strong>Convolutional Neural Networks (CNNs)</strong></td>
       <td>
         <h3>🚀 Base Resources</h3>
@@ -580,10 +597,16 @@ You’ll start by mastering neural networks and essential architectures — then
           <li><a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO">From Theory to Practice</a> — Real-world CNN projects and implementations.</li>
         </ul>
       </td>
-      <td>♦ Learn filters, pooling, and feature extraction.<br>♦ Implement CNNs for MNIST and CIFAR-10.<br>♦ Explore transfer learning.</td>
+      <td>
+        <ul>
+          <li>Learn filters, pooling, and feature extraction.</li>
+          <li>Implement CNNs for MNIST and CIFAR-10.</li>
+          <li>Explore transfer learning.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Weeks 6 - 8</td>
+      <td>Weeks 6–8</td>
       <td><strong>Sequence Models (RNNs, LSTMs, GRUs)</strong></td>
       <td>
         <h3>🚀 Base Resources</h3>
@@ -596,7 +619,13 @@ You’ll start by mastering neural networks and essential architectures — then
           <li><a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO">From Theory to Practice</a> — Hands-on projects for text and time-series.</li>
         </ul>
       </td>
-      <td>♦ Model sequential data like text or time series.<br>♦ Understand vanishing gradients and gating mechanisms.<br>♦ Build RNNs and LSTMs using Keras or PyTorch.</td>
+      <td>
+        <ul>
+          <li>Model sequential data like text or time series.</li>
+          <li>Understand vanishing gradients and gating mechanisms.</li>
+          <li>Build RNNs and LSTMs using Keras or PyTorch.</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
