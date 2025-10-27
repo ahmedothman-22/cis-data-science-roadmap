@@ -344,7 +344,7 @@ This roadmap is divided into clear stages — each one represents a step in your
       </td>
     </tr>
     <tr>
-      <td>Weeks 2 – 3</td>
+      <td>Week 2</td>
       <td><strong>Multivariate Calculus</strong></td>
       <td>
         <ul>
@@ -371,7 +371,7 @@ This roadmap is divided into clear stages — each one represents a step in your
 Now you’re ready to apply these foundations to real <strong>machine learning algorithms and models</strong>.</blockquote>
 
 <h3>🤖 Phase 2: Machine Learning Algorithms</h3>
-<div>
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -397,7 +397,13 @@ Now you’re ready to apply these foundations to real <strong>machine learning a
           <li><a href="https://www.youtube.com/playlist?list=PLPBnj6azlABapMXzdpFXBScfZerZygcrz">Machine Learning Course – Ahmed Yousry</a></li>
         </ul>
       </td>
-      <td>♦ Master regression & classification (Linear, Logistic, SVM, Trees).<br>♦ Learn metrics like accuracy, precision, recall, and F1-score.<br>♦ Understand bias–variance tradeoff.</td>
+      <td>
+        <ul>
+          <li>Master regression and classification (Linear, Logistic, SVM, Trees)</li>
+          <li>Learn metrics like accuracy, precision, recall, and F1-score</li>
+          <li>Understand bias–variance tradeoff</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Weeks 9 - 12</td>
@@ -414,7 +420,13 @@ Now you’re ready to apply these foundations to real <strong>machine learning a
           <li><a href="https://www.youtube.com/playlist?list=PLPBnj6azlABapMXzdpFXBScfZerZygcrz">Machine Learning Course – Ahmed Yousry</a></li>
         </ul>
       </td>
-      <td>♦ Explore clustering (K-Means, DBSCAN) and PCA.<br>♦ Understand data grouping & dimensionality reduction.<br>♦ Learn to visualize high-dimensional data.</td>
+      <td>
+        <ul>
+          <li>Explore clustering (K-Means, DBSCAN) and PCA</li>
+          <li>Understand data grouping and dimensionality reduction</li>
+          <li>Learn to visualize high-dimensional data</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Weeks 12 - 15</td>
@@ -431,7 +443,13 @@ Now you’re ready to apply these foundations to real <strong>machine learning a
           <li><a href="https://www.youtube.com/playlist?list=PLPBnj6azlABapMXzdpFXBScfZerZygcrz">Machine Learning Course – Ahmed Yousry</a></li>
         </ul>
       </td>
-      <td>♦ Learn ensemble models (Bagging, Boosting, XGBoost).<br>♦ Understand Neural Networks: Perceptrons, Activations, Backpropagation.<br>♦ Build a small NN using TensorFlow or PyTorch.</td>
+      <td>
+        <ul>
+          <li>Learn ensemble models (Bagging, Boosting, XGBoost)</li>
+          <li>Understand Neural Networks: Perceptrons, Activations, Backpropagation</li>
+          <li>Build a small NN using TensorFlow or PyTorch</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Weeks 15 - 16</td>
@@ -446,7 +464,13 @@ Now you’re ready to apply these foundations to real <strong>machine learning a
           <li><a href="https://www.youtube.com/watch?v=0sOvCWFmrtA">Python REST APIs with FastAPI</a></li>
         </ul>
       </td>
-      <td>♦ Serve models via FastAPI.<br>♦ Use joblib/pickle for saving & loading.<br>♦ Try Docker for lightweight deployments.</td>
+      <td>
+        <ul>
+          <li>Serve models via FastAPI</li>
+          <li>Use joblib or pickle for saving & loading</li>
+          <li>Try Docker for lightweight deployments</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Weeks 16 - 17</td>
@@ -462,11 +486,18 @@ Now you’re ready to apply these foundations to real <strong>machine learning a
           <li><a href="https://www.kaggle.com/competitions">Kaggle Projects</a></li>
         </ul>
       </td>
-      <td>♦ Apply ML models to real datasets.<br>♦ Build 3-5 projects (Regression, Classification, Clustering).<br>♦ Publish code & notebooks on GitHub.</td>
+      <td>
+        <ul>
+          <li>Apply ML models to real datasets</li>
+          <li>Build 3–5 projects (Regression, Classification, Clustering)</li>
+          <li>Publish code & notebooks on GitHub</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
 </div>
+
 
 ---
 
