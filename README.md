@@ -638,7 +638,12 @@ You can train, evaluate, and optimize deep models for vision and sequence tasks.
           <li><a href="https://www.youtube.com/watch?v=8WBS0dT0h2I">Evolution of the Transformer Architecture (2017–2025)</a> — overview of Transformer evolution and updates.</li>
         </ul>
       </td>
-      <td>♦ Understand <strong>self-attention</strong> and <strong>encoder–decoder</strong> design.<br>♦ Fine-tune models like <strong>BERT</strong>, <strong>GPT</strong>, and <strong>T5</strong> with Hugging Face.</td>
+      <td>
+        <ul>
+          <li>Understand <strong>self-attention</strong> and <strong>encoder–decoder</strong> design.</li>
+          <li>Fine-tune models like <strong>BERT</strong>, <strong>GPT</strong>, and <strong>T5</strong> with Hugging Face.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><strong>Weeks 11–13</strong></td>
@@ -652,7 +657,12 @@ You can train, evaluate, and optimize deep models for vision and sequence tasks.
           <li><a href="https://cme295.stanford.edu/syllabus/">Transformer & LLMs – Stanford CME295</a> — advanced Stanford course on Transformers and LLMs.</li>
         </ul>
       </td>
-      <td>♦ Learn <strong>fine-tuning</strong>, <strong>LoRA/QLoRA</strong>, and <strong>tokenization</strong> concepts.<br>♦ Understand <strong>scaling laws</strong>, <strong>architecture evolution</strong>, and <strong>prompt-based learning</strong>.</td>
+      <td>
+        <ul>
+          <li>Learn <strong>fine-tuning</strong>, <strong>LoRA/QLoRA</strong>, and <strong>tokenization</strong> concepts.</li>
+          <li>Understand <strong>scaling laws</strong>, <strong>architecture evolution</strong>, and <strong>prompt-based learning</strong>.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><strong>Weeks 13–15</strong></td>
@@ -665,7 +675,13 @@ You can train, evaluate, and optimize deep models for vision and sequence tasks.
           <li><a href="https://www.youtube.com/watch?v=S9VHQhC3HPc">LLMs Fine-Tuning تطبيق عملي على ال</a> — Arabic hands-on fine-tuning tutorial for LLMs.</li>
         </ul>
       </td>
-      <td>♦ Implement <strong>Transformers</strong> and <strong>tokenizers</strong> manually.<br>♦ Perform hands-on <strong>LLM fine-tuning</strong>.<br>♦ Understand end-to-end pipeline from data to deployment.</td>
+      <td>
+        <ul>
+          <li>Implement <strong>Transformers</strong> and <strong>tokenizers</strong> manually.</li>
+          <li>Perform hands-on <strong>LLM fine-tuning</strong>.</li>
+          <li>Understand end-to-end pipeline from data to deployment.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><strong>Weeks 15–17</strong></td>
@@ -677,7 +693,13 @@ You can train, evaluate, and optimize deep models for vision and sequence tasks.
           <li><a href="https://www.youtube.com/watch?v=QpR4QEv5Urk">Image Generation Using GANs</a> — demonstrates image creation using DCGAN in PyTorch.</li>
         </ul>
       </td>
-      <td>♦ Build <strong>GANs</strong> with PyTorch.<br>♦ Experiment with <strong>DCGAN</strong> and <strong>StyleGAN</strong>.<br>♦ Understand <strong>mode collapse</strong> and <strong>training stability</strong>.</td>
+      <td>
+        <ul>
+          <li>Build <strong>GANs</strong> with PyTorch.</li>
+          <li>Experiment with <strong>DCGAN</strong> and <strong>StyleGAN</strong>.</li>
+          <li>Understand <strong>mode collapse</strong> and <strong>training stability</strong>.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><strong>Weeks 17–19</strong></td>
@@ -689,11 +711,18 @@ You can train, evaluate, and optimize deep models for vision and sequence tasks.
           <li><em>GitHub Portfolio</em> — showcase your models and projects publicly.</li>
         </ul>
       </td>
-      <td>♦ Build <strong>3–4 projects</strong> (Vision, NLP, Generative).<br>♦ Use both <strong>PyTorch</strong> and <strong>TensorFlow</strong>.<br>♦ Deploy <strong>at least one model publicly</strong>.</td>
+      <td>
+        <ul>
+          <li>Build <strong>3–4 projects</strong> (Vision, NLP, Generative).</li>
+          <li>Use both <strong>PyTorch</strong> and <strong>TensorFlow</strong>.</li>
+          <li>Deploy <strong>at least one model publicly</strong>.</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
 </div>
+
 
 <p align="center">
   🌟 Designed &amp; Maintained with ❤️ by the <strong>CIS Data Science & AI Circle</strong><br>
