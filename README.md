@@ -212,8 +212,8 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Resources</h3>
-          <li><a href="https://www.youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_">ITI Course SQL Server</a> — step-by-step SQL basics</li>
-          <li><a href="https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql">DataCamp – Associate Data Analyst in SQL</a> — structured SQL track (requires subscription)</li>
+          <li><a href="https://www.youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_">ITI Course SQL Server</a>SQL basics</li>
+          <li><a href="https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql">DataCamp – Associate Data Analyst in SQL</a></li>
         </ul>
       </td>
       <td>
@@ -231,8 +231,8 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Resources</h3>
-          <li><a href="https://www.youtube.com/playlist?list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-">Excel Fundamentals</a> — beginner-friendly video series</li>
-          <li><a href="https://drive.google.com/file/d/1FxGvB-ilJ0mYNCg9u8Rx5BD99M89dMfp/view?usp=sharing">Excel Fundamentals Book</a> — detailed reference</li>
+          <li><a href="https://www.youtube.com/playlist?list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-">Excel Fundamentals</a></li>
+          <li><a href="https://drive.google.com/file/d/1FxGvB-ilJ0mYNCg9u8Rx5BD99M89dMfp/view?usp=sharing">Excel Fundamentals Book</a></li>
         </ul>
       </td>
       <td>
@@ -249,9 +249,9 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Resources</h3>
-          <li><a href="https://www.youtube.com/playlist?list=PLXlHqMRg9lAbetpJy3ePXsN0sj9Zs-pvT">Excel for Data Analysis</a> — process overview</li>
-          <li><a href="https://www.youtube.com/watch?v=oyJDaaCrWQ8&list=PL5NlUYOM2iOioKHGTJKFkykyp1oudj4HC">Power Query</a> — cleaning & shaping data</li>
-          <li><a href="https://www.youtube.com/watch?v=PScGRK9AQeA&list=PL5NlUYOM2iOgpYyGRs-m33ifHRwbB8MTV">Power Pivot & DAX</a> — advanced calculations & modeling</li>
+          <li><a href="https://www.youtube.com/playlist?list=PLXlHqMRg9lAbetpJy3ePXsN0sj9Zs-pvT">Excel for Data Analysis</a></li>
+          <li><a href="https://www.youtube.com/watch?v=oyJDaaCrWQ8&list=PL5NlUYOM2iOioKHGTJKFkykyp1oudj4HC">Power Query</a>cleaning & shaping data</li>
+          <li><a href="https://www.youtube.com/watch?v=PScGRK9AQeA&list=PL5NlUYOM2iOgpYyGRs-m33ifHRwbB8MTV">Power Pivot & DAX</a>calculations & modeling</li>
         </ul>
       </td>
       <td>
@@ -268,9 +268,9 @@ This roadmap is divided into clear stages — each one represents a step in your
       <td>
         <ul>
           <h3>🚀 Resources</h3>
-          <li><a href="https://www.youtube.com/playlist?list=PL69umUTzySPGWMxnmhX9SV5PIEbdnHv63">Zanoon Lab</a> — beginner to intermediate Power BI</li>
-          <li><a href="https://www.youtube.com/playlist?list=PL-qR2lCbzf-qKcSx6v7IVz30G5A711xKA">Fouad Zawadi</a> — dashboards & visuals</li>
-          <li><a href="https://www.youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw">Munthir Saffan</a> — storytelling with data</li>
+          <li><a href="https://www.youtube.com/playlist?list=PL69umUTzySPGWMxnmhX9SV5PIEbdnHv63">Zanoon Lab</a></li>
+          <li><a href="https://www.youtube.com/playlist?list=PL-qR2lCbzf-qKcSx6v7IVz30G5A711xKA">Fouad Zawadi</a>Dashboards & Visuals</li>
+          <li><a href="https://www.youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw">Munthir Saffan</a>Storytelling with data</li>
         </ul>
       </td>
       <td>
@@ -335,7 +335,13 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://www.3blue1brown.com/topics/linear-algebra">Linear Algebra – 3Blue1Brown</a> — Visual explanation series</li>
         </ul>
       </td>
-      <td>♦ Learn vectors, matrices, and matrix operations.<br>♦ Understand eigenvalues/eigenvectors for PCA and dimensionality reduction.</td>
+      <td>
+        <ul>
+          <li>Learn vectors, matrices, and matrix operations</li>
+          <li>Understand eigenvalues and eigenvectors for PCA</li>
+          <li>Explore dimensionality reduction techniques</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Weeks 2 – 3</td>
@@ -348,12 +354,18 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://www.3blue1brown.com/topics/calculus">Calculus – 3Blue1Brown</a> — Visual explanation series</li>
         </ul>
       </td>
-      <td>♦ Learn gradients, partial derivatives, and the chain rule.<br>♦ Understand optimization via gradient descent.<br>♦ See how calculus drives training and backpropagation.</td>
+      <td>
+        <ul>
+          <li>Learn gradients, partial derivatives, and the chain rule</li>
+          <li>Understand optimization via gradient descent</li>
+          <li>See how calculus drives training and backpropagation</li>
+        </ul>
+      </td>
     </tr>
-
   </tbody>
 </table>
 </div>
+
 
 <blockquote>You’ve built the <strong>mathematical intuition</strong> behind how ML algorithms learn — understanding how linear algebra powers model representation and how calculus drives optimization.<br>
 Now you’re ready to apply these foundations to real <strong>machine learning algorithms and models</strong>.</blockquote>
