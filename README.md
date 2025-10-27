@@ -216,7 +216,14 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql">DataCamp – Associate Data Analyst in SQL</a> — structured SQL track (requires subscription)</li>
         </ul>
       </td>
-      <td> Introduction to SQL.<br>♦ Joins & Relationships.<br>♦ Aggregations.<br>♦ Subqueries & Filtering.</td>
+      <td>
+        <ul>
+          <li>Introduction to SQL</li>
+          <li>Joins & Relationships</li>
+          <li>Aggregations</li>
+          <li>Subqueries & Filtering</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>2</td>
@@ -228,7 +235,13 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://drive.google.com/file/d/1FxGvB-ilJ0mYNCg9u8Rx5BD99M89dMfp/view?usp=sharing">Excel Fundamentals Book</a> — detailed reference</li>
         </ul>
       </td>
-      <td> Formulas & Functions.<br>♦ Formatting & Visualization.<br> Sorting & Filtering.</td>
+      <td>
+        <ul>
+          <li>Formulas & Functions</li>
+          <li>Formatting & Visualization</li>
+          <li>Sorting & Filtering</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>3</td>
@@ -241,7 +254,13 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://www.youtube.com/watch?v=PScGRK9AQeA&list=PL5NlUYOM2iOgpYyGRs-m33ifHRwbB8MTV">Power Pivot & DAX</a> — advanced calculations & modeling</li>
         </ul>
       </td>
-      <td> Data Cleaning with Power Query.<br> Pivot Tables, DAX & Data Modeling.<br>  Charts & Dashboards.</td>
+      <td>
+        <ul>
+          <li>Data Cleaning with Power Query</li>
+          <li>Pivot Tables, DAX & Data Modeling</li>
+          <li>Charts & Dashboards</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>4</td>
@@ -254,29 +273,38 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://www.youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw">Munthir Saffan</a> — storytelling with data</li>
         </ul>
       </td>
-      <td> Import data from different sources.<br>♦ Data Cleaning.<br> Dashboard creation & storytelling.</td>
+      <td>
+        <ul>
+          <li>Import data from different sources</li>
+          <li>Data Cleaning</li>
+          <li>Dashboard creation & storytelling</li>
+        </ul>
+      </td>
     </tr>
-   <tr>
-  <td>5</td>
-  <td><strong>Web Scraping</strong></td>
-  <td align="left">
-    <h3>🚀 Resources</h3>
-    <ul>
-      <li><a href="https://app.datacamp.com/learn/courses/introduction-to-web-scraping-with-python">DataCamp – Web Scraping</a></li>
-      <li><a href="https://beautiful-soup-4.readthedocs.io/en/latest/">BeautifulSoup Docs</a> </li>
-      <li><a href="https://youtu.be/q0ert5YP968?si=xV0tlimToAUijocI">Codezilla – Web Scraping with BeautifulSoup</a></li>
-    </ul>
-  </td>
-  <td>
-     Learn how to extract data from websites using Python.<br>
-     Understand HTML tags, structure, and parsing methods.<br>
-     Practice using BeautifulSoup and Requests libraries.<br>
-  </td>
-</tr>
+    <tr>
+      <td>5</td>
+      <td><strong>Web Scraping</strong></td>
+      <td align="left">
+        <ul>
+          <h3>🚀 Resources</h3>
+          <li><a href="https://app.datacamp.com/learn/courses/introduction-to-web-scraping-with-python">DataCamp – Web Scraping</a></li>
+          <li><a href="https://beautiful-soup-4.readthedocs.io/en/latest/">BeautifulSoup Docs</a></li>
+          <li><a href="https://youtu.be/q0ert5YP968?si=xV0tlimToAUijocI">Codezilla – Web Scraping with BeautifulSoup</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Learn how to extract data from websites using Python</li>
+          <li>Understand HTML tags, structure, and parsing methods</li>
+          <li>Practice using BeautifulSoup and Requests libraries</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 <blockquote><strong>Projects:</strong> Apply small exercises after each phase to reinforce learning.</blockquote>
 </div>
+
 
 ---
 
