@@ -425,7 +425,7 @@ Now you’re ready to apply these foundations to real <strong>machine learning a
 In this stage, you will enter the Deep Learning and Generative AI world.<br>
 You’ll start by mastering neural networks and essential architectures — then move into transformers, GANs, and MLOps.
 </blockquote>
----
+
 <h3>⚙️ Phase 1: Core Deep Learning</h3>
 <blockquote>Build a solid foundation in neural networks and key architectures (ANNs, CNNs, RNNs).<br>By the end, you’ll understand how deep models learn and generalize.</blockquote>
 <div>
