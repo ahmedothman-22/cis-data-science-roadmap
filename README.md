@@ -7,7 +7,6 @@
 Welcome to the **CIS Data Science & AI Roadmap 2026** — a step-by-step journey made by students, for students.  
 Whether you're just starting or aiming to master advanced AI, this roadmap will help you move confidently through every level — with clear goals, hands-on projects, and curated resources that actually work.  
 Start here, stay consistent, and you’ll be surprised how far you can go.
-
 ---
 ## 🗺️ How to Use This Roadmap
 
@@ -17,23 +16,19 @@ This roadmap is divided into clear stages — each one represents a step in your
 - [Entry Level](#entry-level)
 - [Beginner Level](#beginner-level)
 - Intermediate Level
-  - [Intermediate Machine Learning](#intermediate-machine-learning)
+  - [Data Analysis](#data-analysis)
+  - [Machine Learning](#machine-learning)
 - Advanced Level
-  - [Advanced Data Analysis](#advanced-data-analysis)
-  - [Advanced Deep Learning](#advanced-deep-learning)
+  - [Deep Learning](#deep-learning)
 
 > 💡 **Tip:** Follow the stages in order, and don’t rush — each step builds the foundation for the next.
-
 ---
-
 <p align="center">✨ Ready? Start your journey below! 🚀</p>
 
+
 <h2 id="entry-level">🩵 Entry Level</h2>
-
 <blockquote>🧩 <strong>Goal:</strong> Build your foundation — Python, OOP, and Statistics.</blockquote>
-
 <p align="center">🌱 Start here — your foundation for all upcoming levels.</p>
-
 <div align="center">
 <table>
   <thead>
@@ -92,12 +87,9 @@ This roadmap is divided into clear stages — each one represents a step in your
 
 <hr style="width:80%; border:1px solid #ccc; margin: 30px auto;">
 
-
 <h2 id="beginner-level">💡 Beginner Level</h2>
 <blockquote>🧰 <strong>Goal:</strong> Learn to clean, organize, and visualize your data.</blockquote>
-
 <p align="center">🧩 Move from basic coding to real-world data handling.</p>
-
 <div align="center">
 <table>
   <thead>
@@ -197,11 +189,8 @@ This roadmap is divided into clear stages — each one represents a step in your
 </table>
 </div>
 
-
-
 ---
-
-<h2 id="advanced-data-analysis">🧭 Advanced Data Analysis</h2>
+<h2 id="data-analysis">🧭 Data Analysis</h2>
 <blockquote>🧰 <strong>Goal:</strong> Build a solid foundation in data analysis step by step.</blockquote>
 
 <div align="center">
@@ -277,13 +266,9 @@ This roadmap is divided into clear stages — each one represents a step in your
 <blockquote><strong>Projects:</strong> Apply small exercises after each phase to reinforce learning.</blockquote>
 </div>
 
-
-
-
 ---
 
-
-<h2 id="intermediate-machine-learning">🧠 Intermediate Machine Learning</h2>
+<h2 id="machine-learning">🧠 Machine Learning</h2>
 <blockquote>In this stage, you will build the mathematical and algorithmic foundation for Machine Learning — mastering Linear Algebra, Calculus, and key ML algorithms.</blockquote>
 
 <h3>⚙️ Phase 1: Mathematical Foundations</h3>
@@ -330,12 +315,8 @@ This roadmap is divided into clear stages — each one represents a step in your
 </table>
 </div>
 
-
-
 <blockquote>You’ve built the <strong>mathematical intuition</strong> behind how ML algorithms learn — understanding how linear algebra powers model representation and how calculus drives optimization.<br>
 Now you’re ready to apply these foundations to real <strong>machine learning algorithms and models</strong>.</blockquote>
-
-
 
 <h3>🤖 Phase 2: Machine Learning Algorithms</h3>
 <div>
@@ -435,21 +416,16 @@ Now you’re ready to apply these foundations to real <strong>machine learning a
 </table>
 </div>
 
-
 ---
 
-<h2 id="advanced-deep-learning">🧠 Advanced Deep Learning</h2>
-
+<h2 id="deep-learning">🧠 Deep Learning</h2>
 <blockquote>
 In this stage, you will enter the Deep Learning and Generative AI world.<br>
 You’ll start by mastering neural networks and essential architectures — then move into transformers, GANs, and MLOps.
 </blockquote>
-
 ---
-
 <h3>⚙️ Phase 1: Core Deep Learning</h3>
 <blockquote>Build a solid foundation in neural networks and key architectures (ANNs, CNNs, RNNs).<br>By the end, you’ll understand how deep models learn and generalize.</blockquote>
-
 <div>
 <table>
   <thead>
